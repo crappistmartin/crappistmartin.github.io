@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
-  <link href="http://crappistmartin.github.io/atom.xml" rel="self"/>
-  <link href="http://crappistmartin.github.io/"/>
-  <updated>2014-08-19T09:35:13+01:00</updated>
-  <id>http://crappistmartin.github.io/</id>
+  <title><![CDATA[35% Campaign]]></title>
+  <link href="http://www.35percent.org/atom.xml" rel="self"/>
+  <link href="http://www.35percent.org/"/>
+  <updated>2014-08-19T09:46:08+01:00</updated>
+  <id>http://www.35percent.org/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[EAN]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
@@ -15,18 +15,18 @@
   
   <entry>
     <title type="html"><![CDATA[Test 3]]></title>
-    <link href="http://crappistmartin.github.io/blog/2014/08/19/test-3/"/>
+    <link href="http://www.35percent.org/blog/2014/08/19/test-3/"/>
     <updated>2014-08-19T09:31:50+01:00</updated>
-    <id>http://crappistmartin.github.io/blog/2014/08/19/test-3</id>
+    <id>http://www.35percent.org/blog/2014/08/19/test-3</id>
     <content type="html"><![CDATA[<p>Test number 3</p>
 ]]></content>
   </entry>
   
   <entry>
     <title type="html"><![CDATA[Mind the (Elephantine) Gap]]></title>
-    <link href="http://crappistmartin.github.io/blog/2014/08/12/mind-the-gap/"/>
+    <link href="http://www.35percent.org/blog/2014/08/12/mind-the-gap/"/>
     <updated>2014-08-12T18:09:00+01:00</updated>
-    <id>http://crappistmartin.github.io/blog/2014/08/12/mind-the-gap</id>
+    <id>http://www.35percent.org/blog/2014/08/12/mind-the-gap</id>
     <content type="html"><![CDATA[<p>A £64m funding gap for the infrastructure improvements of the Elephant &amp; Castle regeneration has been identified by Southwark Council. The figure is given in its <a href="http://www.southwark.gov.uk/download/downloads/id/10740/addendum_to_cdeip1">submission</a> to the Government inspector examining Southwark&rsquo;s plans for raising funds from developers through the new Community Infrastructure Levy.</p>
 
 <p><img src="http://affordable.herokuapp.com/images/fundinggap.png"></p>
@@ -35,7 +35,7 @@
 
 <p>Evidently the money raised from developments at the Elephant so far has not been enough to provide all the benefits that everybody was expecting from the regeneration and so far committed public funding is not enough to fill the gap. This gap comprises a £40m shortfall for the northern line tube station upgrade, £12m needed for the mainline train station upgrade and about £9m needed for the northern roundabout improvements. The reason for the shortfalls is that developers are not paying enough. The CIL predecessor at the Elephant was the Elephant &amp; Castle Strategic Transport Tariff, which required developers to pay £175 per m2 of any new residential floorspace towards public transport infrastructure. The problem is that developers regularly submitted viability assessments showing that they couldn&rsquo;t afford to pay the full tariff. For example, Lend Lease was able to re-negotiate the tariff for its Heygate redevelopment down to a level of £104 per m2, providing a total transport contribution of £13m when it should have paid £22m:</p>
 
-<p><a href="http://planningonline.southwark.gov.uk/DocsOnline/Documents/254761_1.pdf"><img src="http://crappistmartin.github.io/images/s106headsofterms.png"></a></p>
+<p><a href="http://planningonline.southwark.gov.uk/DocsOnline/Documents/254761_1.pdf"><img src="http://www.35percent.org/images/s106headsofterms.png"></a></p>
 
 <p>In making up the shortfall, Southwark hopes to gain £18.5m in CIL contributions from future developments at the Elephant over the next 15 years, but this is obviously not enough and it could mean raiding CIL yields from elsewhere in the borough or CIL destined for health facilities, open space or public realm benefits.</p>
 
@@ -50,29 +50,29 @@
   
   <entry>
     <title type="html"><![CDATA[Southwark's Mysterious Estate Renewal Zone]]></title>
-    <link href="http://crappistmartin.github.io/blog/2014/07/23/mystery-objector-1301/"/>
+    <link href="http://www.35percent.org/blog/2014/07/23/mystery-objector-1301/"/>
     <updated>2014-07-23T09:06:00+01:00</updated>
-    <id>http://crappistmartin.github.io/blog/2014/07/23/mystery-objector-1301</id>
+    <id>http://www.35percent.org/blog/2014/07/23/mystery-objector-1301</id>
     <content type="html"><![CDATA[<p>Our <a href="http://affordable.heroku.com/blog/2014/07/19/community-infrastructure-levy/">search</a> to identify mystery Objector 1301 - who is lobbying for subsidies to knock down Southwark&rsquo;s council estates at next week&rsquo;s <a href="http://www.southwark.gov.uk/info/856/planning_policy/2696/community_infrastructure_levy">CIL public inquiry</a> - has brought some clarity but also some more mystery with it.</p>
 
 <p>Having been pointed towards Southwark Council&rsquo;s <a href="http://www.southwark.gov.uk/download/downloads/id/10738/cdcil5_appendix_i_of_regulation_19_consultation_statement">table of responses</a> to CIL objector representations, we noted that the Council&rsquo;s response to <strong>Objector 1301</strong>&rsquo;s objection makes it fairly clear who the objector is, but it also raises some worrying questions about the Aylesbury redevelopment and the Council&rsquo;s plan for the future of some of its housing estates in general.</p>
 
 <p>In its response to <strong>Objector 1301</strong>, the Council makes the worrying admission that <strong> <em>&ldquo;The appraisal showed the [Aylesbury] site to be unviable with the requisite of providing 50% affordable housing.&rdquo;</em> </strong><a href="http://www.southwark.gov.uk/download/downloads/id/10738/cdcil5_appendix_i_of_regulation_19_consultation_statement">(pg 106)</a> and it then goes on to confirm that under the terms of the development agreement Notting Hill will be providing<strong> <em>&ldquo;affordable rented units&rdquo;.</em> </strong><a href="http://www.southwark.gov.uk/download/downloads/id/10738/cdcil5_appendix_i_of_regulation_19_consultation_statement">(pg 107)</a></p>
 
-<p><a href="http://crappistmartin.github.io/images/zone3.png"><img class="right" src="http://affordable.heroku.com/images/zone3.png" width="400" height="300"></a>But more worrying is the Council&rsquo;s response on page 109, where it states that it has <strong> <em>&ldquo;recommended a lower CIL rate in the lower value area of the Borough, within which the majority of housing estates identified for Estate renewal are located.&rdquo;</em> </strong><a href="http://www.southwark.gov.uk/download/downloads/id/10738/cdcil5_appendix_i_of_regulation_19_consultation_statement">(pg 109)</a>
+<p><a href="http://www.35percent.org/images/zone3.png"><img class="right" src="http://affordable.heroku.com/images/zone3.png" width="400" height="300"></a>But more worrying is the Council&rsquo;s response on page 109, where it states that it has <strong> <em>&ldquo;recommended a lower CIL rate in the lower value area of the Borough, within which the majority of housing estates identified for Estate renewal are located.&rdquo;</em> </strong><a href="http://www.southwark.gov.uk/download/downloads/id/10738/cdcil5_appendix_i_of_regulation_19_consultation_statement">(pg 109)</a>
 </br>
 </br>
 </br>
 </br>
 </br>
-<a href="http://crappistmartin.github.io/images/CILChargingZones.png"><img class="left" src="http://affordable.heroku.com/images/CILChargingZones.png" width="400" height="800"></a>This estate renewal zone is shown as zone 3 in the map above. You can see from the map on the left that the Council&rsquo;s planners have split the borough into 3 zones for the puroposes of its CIL charging schedule. Zone 1 (bankside) will charge developers £400 per sqm for new residential buildings, zone 2 (the rest of the borough) will charge £200 per sqm, and developers in zone 3 - the <strong> <em>&lsquo;low value area&rsquo;</em> </strong>where <strong> <em>&lsquo;the majority of housing estate identified for renewal are located&rsquo;</em> </strong>- will be charged just £50 per sqm.</p>
+<a href="http://www.35percent.org/images/CILChargingZones.png"><img class="left" src="http://affordable.heroku.com/images/CILChargingZones.png" width="400" height="800"></a>This estate renewal zone is shown as zone 3 in the map above. You can see from the map on the left that the Council&rsquo;s planners have split the borough into 3 zones for the puroposes of its CIL charging schedule. Zone 1 (bankside) will charge developers £400 per sqm for new residential buildings, zone 2 (the rest of the borough) will charge £200 per sqm, and developers in zone 3 - the <strong> <em>&lsquo;low value area&rsquo;</em> </strong>where <strong> <em>&lsquo;the majority of housing estate identified for renewal are located&rsquo;</em> </strong>- will be charged just £50 per sqm.</p>
 
 <p></br>
 </br>
 </br>
 </br>
 </br>
-<a href="http://crappistmartin.github.io/images/MapSouthwarkEstates.png"><img class="right" src="http://affordable.heroku.com/images/MapSouthwarkEstates.png" width="300" height="300"></a>Southwark&rsquo;s new estate renewal zone reaches right up to East Street, extends down to include most of Peckham and stretches from Rotherhithe in the East across to include most of the Brandon estate in the west. The map on the right illustrates that a significant proportion of the Council&rsquo;s housing stock is within the boundary of zone 3 and much of this comprises estates that haven&rsquo;t yet been brought up to Decent Homes standard.</p>
+<a href="http://www.35percent.org/images/MapSouthwarkEstates.png"><img class="right" src="http://affordable.heroku.com/images/MapSouthwarkEstates.png" width="300" height="300"></a>Southwark&rsquo;s new estate renewal zone reaches right up to East Street, extends down to include most of Peckham and stretches from Rotherhithe in the East across to include most of the Brandon estate in the west. The map on the right illustrates that a significant proportion of the Council&rsquo;s housing stock is within the boundary of zone 3 and much of this comprises estates that haven&rsquo;t yet been brought up to Decent Homes standard.</p>
 
 <p>No reference can be found in any other policy documents relating to this estate renewal zone. So is this a precursory indication of what could be found in the forthcoming replacement of the borough&rsquo;s Core Strategy? (which is as usual currently being drafted behind closed doors), or is it more an insight into Southwark&rsquo;s contradictory <a href="http://www.southwark.gov.uk/news/article/1617/southwark_council_challenges_mayor_over_affordable_rent">outwardly oppositional</a> but inwardly complicit stance towards controversial <a href="http://www.standard.co.uk/news/politics/eric-pickles-tear-down-estates-to-boost-poor-innercity-homes-9277330.html">government</a> and mayoral housing policy? In any case we would be interested to know if any council tenants or leaseholders in zone 3 have been notified that their estates have been <strong> <em>&ldquo;identified for estate renewal&rdquo;</em> </strong>.</p>
 ]]></content>
@@ -80,9 +80,9 @@
   
   <entry>
     <title type="html"><![CDATA[PRS - (Private Rip-off Sector)]]></title>
-    <link href="http://crappistmartin.github.io/blog/2014/07/19/community-infrastructure-levy/"/>
+    <link href="http://www.35percent.org/blog/2014/07/19/community-infrastructure-levy/"/>
     <updated>2014-07-19T13:20:00+01:00</updated>
-    <id>http://crappistmartin.github.io/blog/2014/07/19/community-infrastructure-levy</id>
+    <id>http://www.35percent.org/blog/2014/07/19/community-infrastructure-levy</id>
     <content type="html"><![CDATA[<p>Delancey has been very shy about telling us what rents it will be charging for its new Private Rented Sector (PRS) homes in its <a href="http://www.london-se1.co.uk/news/view/7258">shopping centre</a> and <a href="http://www.london-se1.co.uk/news/view/7208">Tribeca Square</a> developments (which could total around 2000 units). We can now tell you: at least £375 per week for a 1-bed and £500 per week for a 2-bed flat; hardly rents that are <em>&ldquo;relevant to Londoners earning London wages&rdquo;</em> as Delancey has hitherto <a href="http://www.london-se1.co.uk/news/view/7378">maintained</a>. We know this because it is written in the evidence<a href="#footnote-1">[1]</a> submitted on behalf of Delancey by its representative Deloitte to next week&rsquo;s <a href="http://www.southwark.gov.uk/info/856/planning_policy/2696/community_infrastructure_levy">public inquiry</a> examining Southwark&rsquo;s new Community Infrastructure Levy (CIL) charging schedules:</p>
 
 <p><img src="http://affordable.heroku.com/images/DelanceyCILSubmissionPRSRentLevels.png"></p>
@@ -114,9 +114,9 @@
   
   <entry>
     <title type="html"><![CDATA[Where There's Bronze There's Brass]]></title>
-    <link href="http://crappistmartin.github.io/blog/2014/07/12/the-more-rent-seeking-elephants-at-elephant-the-better/"/>
+    <link href="http://www.35percent.org/blog/2014/07/12/the-more-rent-seeking-elephants-at-elephant-the-better/"/>
     <updated>2014-07-12T11:03:00+01:00</updated>
-    <id>http://crappistmartin.github.io/blog/2014/07/12/the-more-rent-seeking-elephants-at-elephant-the-better</id>
+    <id>http://www.35percent.org/blog/2014/07/12/the-more-rent-seeking-elephants-at-elephant-the-better</id>
     <content type="html"><![CDATA[<p><a href="http://affordable.heroku.com/images/samkeilelephant.jpg"><img class="left" src="http://affordable.heroku.com/images/samkeilelephant.jpg" width="300" height="200"></a>Just when we thought the Heygate pyramid had set the limits on misconceived artistic collaborations at the Elephant, we got wind of the latest &lsquo;triumphant elephant&rsquo; sculpture proposal.
 According to <a href="http://affordable.heroku.com/images/samkeil_bio_2010.pdf">documents</a> posted on artist Sam Keil&rsquo;s website <em>&ldquo;the team responsible for the redevelopment of the Elephant and Castle district in South London have commissioned Sam to sculpt a major piece for a new public square&rdquo;</em>.</p>
 
@@ -165,9 +165,9 @@ According to <a href="http://affordable.heroku.com/images/samkeil_bio_2010.pdf">
   
   <entry>
     <title type="html"><![CDATA[Aylesbury Estate - 42 More Residents Face Compulsory Purchase]]></title>
-    <link href="http://crappistmartin.github.io/blog/2014/06/30/aylesbury-estate-compulsory-purchase-order/"/>
+    <link href="http://www.35percent.org/blog/2014/06/30/aylesbury-estate-compulsory-purchase-order/"/>
     <updated>2014-06-30T16:17:00+01:00</updated>
-    <id>http://crappistmartin.github.io/blog/2014/06/30/aylesbury-estate-compulsory-purchase-order</id>
+    <id>http://www.35percent.org/blog/2014/06/30/aylesbury-estate-compulsory-purchase-order</id>
     <content type="html"><![CDATA[<p><a href="http://www.theguardian.com/cities/gallery/2014/apr/15/china-nail-houses-in-pictures-property-development"><img class="left" src="http://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2014/4/13/1397410555601/baac3533-f9fe-4c47-994d-eeadf76d8ee1-620x461.jpeg" width="300" height="200"></a> In China homeowners who stand in the way of new developments can refuse compensation if they are prepared to stay put in <a href="http://www.theguardian.com/cities/gallery/2014/apr/15/china-nail-houses-in-pictures-property-development">&lsquo;nail houses&rsquo;</a>. In Britain homeowners don&rsquo;t have that option - sooner or later they would have to accept whatever is offered, as the leaseholders on Southwark&rsquo;s Aylesbury estate are finding out.</p>
 
 <p>Last week Southwark Council served a Compulsory Purchase Order on 22 leaseholders, 12 secure tenants and 8 non-secure tenants whose homes are to be demolished in the next phase of the Aylesbury redevelopment. We reported briefly last year on the <a href="http://heygate.github.io/img/SNWolverton.pdf">elderly</a> residents <a href="http://heygate.github.io/img/ObjectionCPOAugust2012.pdf">objecting</a> to the <a href="http://heygate.github.io/img/WolvertonCPO.pdf">Compulsory Purchase</a> of their homes during the previous phase of the scheme and how they were subsequently <a href="http://affordable.heroku.com/blog/2014/05/30/aylesbury-leaseholder-fights-incestuous-valuation/">forced into litigation</a> in order to obtain fair compensation for their homes.</p>
@@ -189,9 +189,9 @@ Many of these arguments can be contested, for example the 2005 Council-commissio
   
   <entry>
     <title type="html"><![CDATA[Notting Hill No Social Housing Trust]]></title>
-    <link href="http://crappistmartin.github.io/blog/2014/06/16/notting-hill-housing-no-social-housing/"/>
+    <link href="http://www.35percent.org/blog/2014/06/16/notting-hill-housing-no-social-housing/"/>
     <updated>2014-06-16T19:17:00+01:00</updated>
-    <id>http://crappistmartin.github.io/blog/2014/06/16/notting-hill-housing-no-social-housing</id>
+    <id>http://www.35percent.org/blog/2014/06/16/notting-hill-housing-no-social-housing</id>
     <content type="html"><![CDATA[<p><img class="left" src="http://www.britishlistedbuildings.co.uk/images/buildings/en/471/471093-18941-800.jpg" width="300" height="200">One of the most characterful development sites within the the Elephant and Castle Opportunity Area is the <a href="http://www.southwarknews.co.uk/elephant-and-castle-home/elephant-and-castle-history/00,news,10016,5757,00.htm">Manor Place Baths</a>.  The baths provided laundry and bathing facilities to Walworth people for 80 years, until demolition of the surrounding streets and the removal of the local population to the Heygate and Ayelsbury estates sounded its death knell in the 80’s; it was replaced as a swimming pool by the Elephant &amp; Castle leisure centre, the baths were filled in by Southwark Council in 1998 and the buildings were then used by the Council&rsquo;s Environmental Services department until their relocation in 2012.</p>
 
 <p>Notting Hill Housing Trust (NHHT) purchased the 1.7 hectare site from the Council in Nov 2013 for the reasonable sum of £20m - reasonable compared to the <a href="http://www.standard.co.uk/news/london/elephant-and-castle-estate-revamp-ripped-off-taxpayers-8482794.html">£50m figure</a> it sold the 9.9 Hectare Heygate site for. NHHT is now putting out feelers to local community groups in anticipation of a planning application before the end of the year.   The omens do not look good.</p>
@@ -217,9 +217,9 @@ Many of these arguments can be contested, for example the 2005 Council-commissio
   
   <entry>
     <title type="html"><![CDATA[Aylesbury Leaseholder Fights 'Incestuous' Valuations]]></title>
-    <link href="http://crappistmartin.github.io/blog/2014/05/30/aylesbury-leaseholder-fights-incestuous-valuation/"/>
+    <link href="http://www.35percent.org/blog/2014/05/30/aylesbury-leaseholder-fights-incestuous-valuation/"/>
     <updated>2014-05-30T08:08:00+01:00</updated>
-    <id>http://crappistmartin.github.io/blog/2014/05/30/aylesbury-leaseholder-fights-incestuous-valuation</id>
+    <id>http://www.35percent.org/blog/2014/05/30/aylesbury-leaseholder-fights-incestuous-valuation</id>
     <content type="html"><![CDATA[<p><img class="left" src="http://cached.imagescaler.hbpl.co.uk/resize/scaleWidth/456/?sURL=http://offlinehbpl.hbpl.co.uk/News/NST/charity-Tribunal-20140514044354391.jpg" width="250" height="140">As reported in our previous blog post, this week saw a second Aylesbury leaseholder fighting the council&rsquo;s controversial compensation valuations at the Upper Lands Tribunal. In buying back homes on the estate the Council has consistently maintained that all leaseholders are given &lsquo;market value&rsquo; in compensation for the loss of their homes. Last week <a href="http://affordable.heroku.com/blog/2014/05/16/southwark-gives-green-light-to-slum-landlords/">we learned</a> how it arrives at its market value calculation by using illegaly-converted flats as comparable market evidence. This week we learned more about its valuation procedures.</p>
 
 <p>The claimant was a Mrs Olubunmi John, formerly of 28 Wolverton on the Aylesbury estate and now living in the Kent borders. She was represented by <a href="http://www.averyassociatessurveyors.com/">Avery Associates</a> chartered surveyors and a barrister from <a href="http://www.tanfieldchambers.co.uk/Barristers/Stan_Gallagher">Tanfield Chambers</a>. Mrs John&rsquo;s surveyor had originally carried out a survey and valued her 3-storey, 4-bed maisonette at £288,750. In adjusting for market conditions he increased this to £297,500 on the date she and her family had to leave. The council&rsquo;s valuation of Mrs John&rsquo;s home on the day it took possession was just £165,000.</p>
@@ -275,9 +275,9 @@ The day will kick off with two guided walks around Walworth. The walks (first at
   
   <entry>
     <title type="html"><![CDATA[Another Aylesbury Leaseholder Goes to Lands Tribunal]]></title>
-    <link href="http://crappistmartin.github.io/blog/2014/05/24/aylesbury-leaseholders-at-upper-lands-tribunal/"/>
+    <link href="http://www.35percent.org/blog/2014/05/24/aylesbury-leaseholders-at-upper-lands-tribunal/"/>
     <updated>2014-05-24T14:12:00+01:00</updated>
-    <id>http://crappistmartin.github.io/blog/2014/05/24/aylesbury-leaseholders-at-upper-lands-tribunal</id>
+    <id>http://www.35percent.org/blog/2014/05/24/aylesbury-leaseholders-at-upper-lands-tribunal</id>
     <content type="html"><![CDATA[<p>As mentioned in our previous <a href="http://affordable.heroku.com/blog/2014/05/16/southwark-gives-green-light-to-slum-landlords/">blog post</a>, this week will see a second Aylesbury estate leaseholder taking the council to the <a href="http://www.justice.gov.uk/tribunals/lands">Lands Tribunal</a> over low valuations following its <a href="http://heygate.github.io/img/ObjectionCPOAugust2012.pdf">Compulsory Purchase Order</a> of homeowners on the Wolverton block <a href="http://www.southwark.gov.uk/info/200179/aylesbury_estate/1965/project_overview/3">(site 7 of the regen)</a>. 59 family maisonettes, a sports pitch and around <a href="http://www.peoplesrepublicofsouthwark.co.uk/hold-news/news/3200-sedan-way-chainsaw-massacre">30 mature trees</a> have been demolished to make way for <a href="http://www.albany-place.co.uk/">&lsquo;Harvard Gardens&rsquo;</a>.
 <img class="center" src="http://affordable.heroku.com/images/Demolition.jpg"></p>
 
@@ -330,9 +330,9 @@ Ms John and fellow leaseholders <a href="http://heygate.github.io/img/SNWolverto
   
   <entry>
     <title type="html"><![CDATA[Southwark's Rogue Landlords - Enforcement or Endorsement?]]></title>
-    <link href="http://crappistmartin.github.io/blog/2014/05/16/southwark-gives-green-light-to-slum-landlords/"/>
+    <link href="http://www.35percent.org/blog/2014/05/16/southwark-gives-green-light-to-slum-landlords/"/>
     <updated>2014-05-16T10:53:00+01:00</updated>
-    <id>http://crappistmartin.github.io/blog/2014/05/16/southwark-gives-green-light-to-slum-landlords</id>
+    <id>http://www.35percent.org/blog/2014/05/16/southwark-gives-green-light-to-slum-landlords</id>
     <content type="html"><![CDATA[<p>We have written briefly before about the <a href="http://heygate.github.io/img/SNWolverton.pdf">Aylesbury estate leaseholders</a> subjected to <a href="http://heygate.github.io/img/ObjectionCPOAugust2012.pdf">CPO proceedings</a> and how the council&rsquo;s low valuations of their homes shares similarities with the story of the Heygate&rsquo;s leaseholders.</p>
 
 <p>Former Aylesbury leaseholder Mr Olufemi Joshua, went to the <a href="http://www.justice.gov.uk/tribunals/lands">Upper Lands Tribunal</a> last week. He was taking Southwark Council to court over the low compensation paid for the loss of his 1-bed flat and he heard some extraordinary admissions from a senior council official.</p>
@@ -371,9 +371,9 @@ The mere fact that the Aylesbury is being knocked down is depressing values on t
   
   <entry>
     <title type="html"><![CDATA[Heygate FOI Appeal Decision - Tribunal Delivers Verdict]]></title>
-    <link href="http://crappistmartin.github.io/blog/2014/05/10/foi-appeal-decision/"/>
+    <link href="http://www.35percent.org/blog/2014/05/10/foi-appeal-decision/"/>
     <updated>2014-05-10T13:47:00+01:00</updated>
-    <id>http://crappistmartin.github.io/blog/2014/05/10/foi-appeal-decision</id>
+    <id>http://www.35percent.org/blog/2014/05/10/foi-appeal-decision</id>
     <content type="html"><![CDATA[<p><img class="right" src="http://www.burtonmail.co.uk/imagelibrary/Client%20Images/Client00004/00455000/00455204.jpg" width="210" height="150">The 35% campaign welcomes the latest - and hopefully final - decision in the battle to make the Heygate viability assessment public. The Information Tribunal has <a href="http://www.informationtribunal.gov.uk/DBFiles/Decision/i1279/London%20Borough%20of%20Southwark%20EA.2013.0162%20%2809.05.14%29.pdf">directed</a> that the whole viability assessment be made public, apart from developer Lend Lease&rsquo;s bespoke development model in the assessment&rsquo;s final appendix and the calculations concerning retail &amp; office space - all other information has to be disclosed. Lend Lease and Southwark have been given 28 days to supply the information Commmissioner with the information as outlined by the Tribunal&rsquo;s decision notice. All parties may appeal the decision but only on a point of law.</p>
 
 <p>Southwark Council has released a <a href="http://www.southwark.gov.uk/news/article/1672/decision_on_heygate_viability_assessment_tribunal">press statement</a> also welcoming the decision. This is surprising because the FOI request for the assessment was made over two years ago and the Council has since fought tooth and nail to keep the viability asssessment secret. Southwark also misunderstands the Tribunal&rsquo;s decision notice when it claims that the Tribunal feared developers would simply refuse to work with councils. The Tribunal&rsquo;s view on this was clearly stated:</p>
@@ -402,9 +402,9 @@ The mere fact that the Aylesbury is being knocked down is depressing values on t
   
   <entry>
     <title type="html"><![CDATA[Manx Connections - the Offshore Home of the Elephant’s Developers]]></title>
-    <link href="http://crappistmartin.github.io/blog/2014/05/05/manx-connections-the-off-shore-home-of-the-elephants-developers/"/>
+    <link href="http://www.35percent.org/blog/2014/05/05/manx-connections-the-off-shore-home-of-the-elephants-developers/"/>
     <updated>2014-05-05T07:02:00+01:00</updated>
-    <id>http://crappistmartin.github.io/blog/2014/05/05/manx-connections-the-off-shore-home-of-the-elephants-developers</id>
+    <id>http://www.35percent.org/blog/2014/05/05/manx-connections-the-off-shore-home-of-the-elephants-developers</id>
     <content type="html"><![CDATA[<p><img class="left" src="http://2.bp.blogspot.com/_L6aHVhWUwKM/TS4-T_x7t1I/AAAAAAAABHQ/Epmn6q55hcY/s1600/Isle_of_Man1.png" width="100" height="100">
 Further research as a follow-up to our <a href="http://affordable.heroku.com/blog/2014/04/15/the-elephants-new-ivory-towers/">previous blog post</a> has uncovered some unexpected connections between the Elephant &amp; Castle and the Isle of Man. The Isle is infamous for two unsavoury practices – <a href="http://www.theguardian.com/uk/datablog/2013/apr/03/uk-companies-controlled-offshore">offshore banking</a> and <a href="http://www.corpun.com/manx.htm">corporal punishment</a>.  Corporal punishment ceased in 1981, but offshore banking remains popular, as does incorporating companies offshore to cane the backside of the British tax authorities.  We have several guilty parties at the Elephant and they include the developers of;</p>
 
@@ -449,9 +449,9 @@ Unfortunately facts are seldom a cure in such serious cases, but these may preve
   
   <entry>
     <title type="html"><![CDATA[The Elephant's New Ivory Towers]]></title>
-    <link href="http://crappistmartin.github.io/blog/2014/04/15/the-elephants-new-ivory-towers/"/>
+    <link href="http://www.35percent.org/blog/2014/04/15/the-elephants-new-ivory-towers/"/>
     <updated>2014-04-15T12:37:00+01:00</updated>
-    <id>http://crappistmartin.github.io/blog/2014/04/15/the-elephants-new-ivory-towers</id>
+    <id>http://www.35percent.org/blog/2014/04/15/the-elephants-new-ivory-towers</id>
     <content type="html"><![CDATA[<center>
 <iframe src="http://affordable.heroku.com/ivorytowers" width="600" height="400"></iframe>
 </br><font size="2">Click <a href="http://affordable.heroku.com/ivorytowers">here</a> to view our interactive map in a separate browser window</font>
@@ -468,7 +468,7 @@ As part of our evidence gathering for the Heygate <a href="http://affordable.her
 </ul>
 
 
-<p><a href="http://crappistmartin.github.io/images/interactivemapfigures.pdf"><img src="http://affordable.heroku.com/images/interactivemapfigures.png"></a></p>
+<p><a href="http://www.35percent.org/images/interactivemapfigures.pdf"><img src="http://affordable.heroku.com/images/interactivemapfigures.png"></a></p>
 
 <p>In order to crunch the numbers properly we had to obtain the total number of habitable rooms in each development. This is how the 35% policy requirement is worked out: 35% of the total number of habitable rooms must be affordable and 50% of these must be social rented as per Southwark&rsquo;s <a href="http://affordable.heroku.com/images/spdpg38.pdf">planning policy requirements</a> at the Elephant. It is worth reiterating that these policy requirements are based on an independent council-commissioned <a href="https://www.southwark.gov.uk/downloads/download/1822/southwark_affordable_housing_viability_study">viability study</a> ensuring that this minimum level of affordable housing requirements is indeed viable.</p>
 
@@ -486,9 +486,9 @@ As part of our evidence gathering for the Heygate <a href="http://affordable.her
   
   <entry>
     <title type="html"><![CDATA[Middlemen on the Make]]></title>
-    <link href="http://crappistmartin.github.io/blog/2014/03/31/middlemen-on-the-make/"/>
+    <link href="http://www.35percent.org/blog/2014/03/31/middlemen-on-the-make/"/>
     <updated>2014-03-31T07:32:00+01:00</updated>
-    <id>http://crappistmartin.github.io/blog/2014/03/31/middlemen-on-the-make</id>
+    <id>http://www.35percent.org/blog/2014/03/31/middlemen-on-the-make</id>
     <content type="html"><![CDATA[<p><img class="left" src="http://www.london-se1.co.uk/news/imageuploads/1299150006_80.177.117.97.jpg" width="300" height="200">It was <a href="http://www.london-se1.co.uk/news/view/7460">announced</a> earlier this month that the Elephant’s 360 tower is in line for yet more public funding. As mentioned in a <a href="http://www.35percent.org/blog/2013/08/10/towering-disgrace">previous blog post</a>, the land for this private development was purchased with £18m of public money back in 2007 to provide key worker housing by English Partnerships, a public housing agency. This all fell through and the development was eventually awarded last summer to developers <a href="http://www.essentialliving.uk.com/developments/360-london/">Essential Living</a> by Mayor Boris Johnson. The 360 Tower is now on the short-list for funding from the government&rsquo;s £1bn build-to-rent scheme, which is designed to help developers build large-scale housing developments specifically for private rent.</p>
 
 <p>Why Essential Living should need help to build homes it will be letting at handsome profit in a booming property market is not clear, particularly when the Tower will not provide any social rented housing (there will be a meagre 29 units of so-called ‘affordable rent’ instead). There will be 159 units for shared ownership, provided without any government grant, but if the developer is getting subsidy instead for its private rented homes then it’s hardly needed. The public purse will be paying for the free-market housing that pays for the affordable housing, which seems to make the developer a bit redundant from our point of view - why bother with the middle man? There is a chance that some money may be recouped on the initial land cost; one of the GLA’s objectives is ‘a land payment at the earliest opportunity representing best value for the GLA but on a partial deferred basis’ – how much this will be remains to be seen; Elephant land values have varied wildly.</p>
@@ -526,9 +526,9 @@ As part of our evidence gathering for the Heygate <a href="http://affordable.her
   
   <entry>
     <title type="html"><![CDATA[Mission Possible - Bringing Viability Assessments Out of the Dark]]></title>
-    <link href="http://crappistmartin.github.io/blog/2014/02/22/viability-assessment-says-no/"/>
+    <link href="http://www.35percent.org/blog/2014/02/22/viability-assessment-says-no/"/>
     <updated>2014-02-22T12:04:00+00:00</updated>
-    <id>http://crappistmartin.github.io/blog/2014/02/22/viability-assessment-says-no</id>
+    <id>http://www.35percent.org/blog/2014/02/22/viability-assessment-says-no</id>
     <content type="html"><![CDATA[<p><img class="right" src="http://affordable.heroku.com/images/confidential.jpg" width="300" height="200">Following the successful FOI request by Heygate campaigners, <a href="http://www.theguardian.com/uk-news/davehillblog/2013/nov/21/earls-court-project-community-benefits-capital-and-counties">Earls Court</a> community activists have also succeeded with their FOI request for disclosure of viability documents behind their local regeneration scheme, which - like the Heygate - has a great absence of truly affordable housing. The Information Commissioner cites the Heygate decision in his <a href="http://ico.org.uk/~/media/documents/decisionnotices/2013/fer_0491596.ashx">decision notice</a>.</p>
 
 <p>However, just as at the Elephant, local authority (Kensington &amp; Chelsea) and developer (Capital &amp; Counties Ltd.) have combined together to appeal against the Information Commissioner&rsquo;s decision. The appeal hearing is due to take place at the beginning of June.</p>
@@ -563,9 +563,9 @@ A decision is expected within around 4 weeks.</p>
   
   <entry>
     <title type="html"><![CDATA[Heygate Tribunal Hearing Extended]]></title>
-    <link href="http://crappistmartin.github.io/blog/2014/02/11/heygate-tribunal-hearing-extended/"/>
+    <link href="http://www.35percent.org/blog/2014/02/11/heygate-tribunal-hearing-extended/"/>
     <updated>2014-02-11T09:40:00+00:00</updated>
-    <id>http://crappistmartin.github.io/blog/2014/02/11/heygate-tribunal-hearing-extended</id>
+    <id>http://www.35percent.org/blog/2014/02/11/heygate-tribunal-hearing-extended</id>
     <content type="html"><![CDATA[<h3>Information Tribunal latest:</h3>
 
 
@@ -589,15 +589,15 @@ The Elephant with its numerous public transport connections was supposed to be a
   
   <entry>
     <title type="html"><![CDATA[Heygate Viability Figures Tribunal Appeal]]></title>
-    <link href="http://crappistmartin.github.io/blog/2014/02/01/heygate-information-commissioner-tribunal-appeal/"/>
+    <link href="http://www.35percent.org/blog/2014/02/01/heygate-information-commissioner-tribunal-appeal/"/>
     <updated>2014-02-01T13:48:00+00:00</updated>
-    <id>http://crappistmartin.github.io/blog/2014/02/01/heygate-information-commissioner-tribunal-appeal</id>
+    <id>http://www.35percent.org/blog/2014/02/01/heygate-information-commissioner-tribunal-appeal</id>
     <content type="html"><![CDATA[<p>The 35% Campaign will be giving evidence this week at the 5-day Tribunal hearing for <a href="http://www.standard.co.uk/news/london/southwark-in-tribunal-fight-to-keep-15bn-heygate-estate-deal-secret-8808759.html">Southwark Council&rsquo;s Appeal</a> against the Information Commissioner&rsquo;s ruling to disclose the Heygate financial viability figures.</p>
 
 <p>We will be supporting the <a href="http://www.35percent.org/blog/2013/07/24/heygate-figures-must-b-be-revealed-information-commissioner">Information Commissioner&rsquo;s decision</a> and giving evidence to show why we think it is important that the figures be disclosed. We will be showing the Tribunal evidence of the original regeneration benefits proposed, and how these have been squeezed or shelved as a result of the confidential viability assessement submitted as part of the Heygate masterplan application.</p>
 
 <p>Examples include the excessive density of the development and the squeezing of London&rsquo;s newest park down to a <a href="http://www.35percent.org/blog/2012/07/04/londons-largest-new-private-park-in-70-years">privately managed landscaped strip</a> overshadowed by 12 storey blocks:<br/>
-<a href="http://crappistmartin.github.io/images/MasterplanComparison.jpg"><img src="http://affordable.heroku.com/images/MasterplanComparison.jpg"></a></p>
+<a href="http://www.35percent.org/images/MasterplanComparison.jpg"><img src="http://affordable.heroku.com/images/MasterplanComparison.jpg"></a></p>
 
 <p><a href="http://www.bdunlop.com/images/Elephant-and-Castle/energy_envrnmtl-services_lge.gif"><img class="right" src="http://www.bdunlop.com/images/Elephant-and-Castle/energy_envrnmtl-services_lge.gif" width="400" height="300"></a> We will be explaining how the green credentials of the scheme have been further compromised by the shelving of the <a href="http://affordable.heroku.com/images/MasterplanObjectives2010.pdf">proposed MUSCo</a> 100% on-site renewable energy facility, which has been <a href="http://affordable.heroku.com/blog/2013/10/11/lean/">dropped</a> by Lend Lease in favour of a less costly <a href="http://www.35percent.org/sustainable-development">gas-fired boiler</a>.<br/>
 </br></p>
@@ -630,15 +630,15 @@ The Elephant with its numerous public transport connections was supposed to be a
 
 <p>Coincidentally the planning application for the first detailed phase of the Heygate masterplan development is being <a href="http://moderngov.southwark.gov.uk/ieListDocuments.aspx?CId=119&amp;MId=4639&amp;Ver=4">heard on Tuesday</a> evening. This is for the so-called MP1 development bordering Wansey St for 360 new homes, of which 76 are &lsquo;affordable&rsquo; homes (55 shared ownership, 17 social rented and 4 affordable rent). The hearing will take place at 6.30pm on Tuesday at Southwark&rsquo;s Tooley street HQ.</p>
 
-<p><font size="1"><p id="footnote-1">[1] See <a href="http://affordable.heroku.com/images/CILviabilitysite11.pdf">this extract</a> from the <a href="http://crappistmartin.github.io/images/Southwark_CIL_viability_report_FINAL_July12.pdf">2012 Southwark CIL Viability Report by BNP Paribas</a>, and pg. 28 of the <a href="http://www.southwark.gov.uk/download/2617/southwark_affordable_housing_viability_study">Jan 2010 Southwark Affordable Housing Viability Study.</a></p> </font></p>
+<p><font size="1"><p id="footnote-1">[1] See <a href="http://affordable.heroku.com/images/CILviabilitysite11.pdf">this extract</a> from the <a href="http://www.35percent.org/images/Southwark_CIL_viability_report_FINAL_July12.pdf">2012 Southwark CIL Viability Report by BNP Paribas</a>, and pg. 28 of the <a href="http://www.southwark.gov.uk/download/2617/southwark_affordable_housing_viability_study">Jan 2010 Southwark Affordable Housing Viability Study.</a></p> </font></p>
 ]]></content>
   </entry>
   
   <entry>
     <title type="html"><![CDATA[D'One at the Elephant]]></title>
-    <link href="http://crappistmartin.github.io/blog/2014/01/11/flogging-the-elephant/"/>
+    <link href="http://www.35percent.org/blog/2014/01/11/flogging-the-elephant/"/>
     <updated>2014-01-11T13:21:00+00:00</updated>
-    <id>http://crappistmartin.github.io/blog/2014/01/11/flogging-the-elephant</id>
+    <id>http://www.35percent.org/blog/2014/01/11/flogging-the-elephant</id>
     <content type="html"><![CDATA[<p><img class="left" src="http://affordable.heroku.com/images/leisurecentreaerial.jpg" width="400" height="300"><a href="http://affordable.heroku.com/images/OneTheElephantRegisterTGL381808.pdf">Land Registry documents</a> reveal that Southwark Council sold 1.4 acres of the old leisure centre site to developer <em>Lend Lease</em> for the bargain price of £6.5m. The site will now be home to <a href="http://www.onetheelephant.com">&lsquo;One the Elephant&rsquo;</a> - a 37 storey tower with 4 storey pavillion. <em>Lend Lease</em> also recently acquired the 23-acre Heygate estate site for a <a href="http://www.standard.co.uk/news/london/elephant-and-castle-estate-revamp-ripped-off-taxpayers-8482794.html">generous £50m</a>.  </br></br></p>
 
 <p><img class="right" src="http://affordable.heroku.com/images/onetheelephant.jpg" width="400" height="400">By way of comparison, the neighbouring and smaller site (1.2acres) of the former London Park Hotel was bought by a government agency <a href="http://affordable.heroku.com/images/360TowerLandRegistry.pdf">for £17.7m in 2004</a>. New shopping centre owners <em>Delancey</em> <a href="http://betterelephant.org/images/OakmayneLandRegistry.pdf">had to pay £40m</a> for another neighbouring site (Tribeca Square - 1.5 acres) to property developer <em>Eadon Ltd</em>, who thereby made a handsome profit having <a href="http://affordable.heroku.com/images/TribecaLR.pdf">bought the land for just £18m</a> from the council in March 2007.
@@ -687,9 +687,9 @@ The Elephant with its numerous public transport connections was supposed to be a
   
   <entry>
     <title type="html"><![CDATA[Stack Em High - 1,000 Homes on the Shopping Centre Site?]]></title>
-    <link href="http://crappistmartin.github.io/blog/2013/12/14/stack-em-high-over-1/"/>
+    <link href="http://www.35percent.org/blog/2013/12/14/stack-em-high-over-1/"/>
     <updated>2013-12-14T15:10:00+00:00</updated>
-    <id>http://crappistmartin.github.io/blog/2013/12/14/stack-em-high-over-1</id>
+    <id>http://www.35percent.org/blog/2013/12/14/stack-em-high-over-1</id>
     <content type="html"><![CDATA[<p><img class="left" src="http://cdn.ltstatic.com/2006/May/DK372644_942long.jpg" width="300" height="200">New owners of the shopping center <em>Delancey</em> is looking to build in excess of 1,000 new homes on the recently acquired site, <a href="http://www.costar.co.uk/en/assets/news/2013/December/CoStar-Column-Delancey-and-APGs-Elephant-move-marks-milestone-for-PRS/">according to the man</a> who arranged the partnership between <em>Delancey</em> and its financial backer <em>APG</em> - Chris Lacey of <a href="http://www.cbre.co.uk/uk-en">CBRE</a>.</p>
 
 <p>One reason for the breach between the previous owners of the shopping centre (St. Modwen) and Southwark Council, was the amount of housing proposed for the 3.5 acre site. According to news reports St Modwen wanted at least 1,000 new homes, but Southwark <a href="http://www.costar.co.uk/en/assets/news/2013/March/Elephant--Castle-mall-sale-hits-housing-hitch/">drew the line at 500</a> and it is easy to see why: the Heygate estate had 1,200 homes and was 7 times the size of the shopping centre site.</p>
@@ -723,9 +723,9 @@ The Elephant with its numerous public transport connections was supposed to be a
   
   <entry>
     <title type="html"><![CDATA[Kim Humphreys - Exit Stage Left, Enter Stage Right]]></title>
-    <link href="http://crappistmartin.github.io/blog/2013/12/07/kim-humphreys-exit-stage-left/"/>
+    <link href="http://www.35percent.org/blog/2013/12/07/kim-humphreys-exit-stage-left/"/>
     <updated>2013-12-07T13:46:00+00:00</updated>
-    <id>http://crappistmartin.github.io/blog/2013/12/07/kim-humphreys-exit-stage-left</id>
+    <id>http://www.35percent.org/blog/2013/12/07/kim-humphreys-exit-stage-left</id>
     <content type="html"><![CDATA[<p><img class="left" src="http://affordable.heroku.com/images/lbskleptocracy.png" width="380" height="285">
 There was much surprise at Southwark&rsquo;s <a href="http://moderngov.southwark.gov.uk/ieListDocuments.aspx?CId=308&amp;MId=4593&amp;Ver=4">Overview and Scrutiny Meeting</a> last Monday, when new shopping centre owner <em><a href="http://www.delancey.com/about.html">&lsquo;Delancey&rsquo;</a></em> turned up accompanied by Southwark Council&rsquo;s <a href="http://www.linkedin.com/pub/kim-humphreys/5/312/a34">former deputy leader and head of housing</a> Kim Humphreys. Kim is now <em><a href="http://carvil-ventures.co.uk/">&lsquo;Carvil Ventures&rsquo;</a></em> - an independent corporate finance and real-estate consultancy and is advising global property developer Delancey. He is not the first former senior councillor to take this road: former council leader Jeremy Fraser <a href="http://www.southwarknews.co.uk/00,news,10971,440,00.htm">founded</a> PR consultancy <em><a href="http://www.fourcommunications.com/">&lsquo;Four Communications&rsquo;</a></em> after leaving the council, which advised developer Oakmayne and prepared <a href="http://planningonline.southwark.gov.uk/DocsOnline/Documents/42382_1.pdf">part of the planning application for its Eileen House development</a>.</p>
 
