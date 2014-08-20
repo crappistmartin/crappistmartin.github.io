@@ -22,7 +22,7 @@ Fellow objector and MP Simon Hughes later arrived to find objectors barred from 
 
 After much debate with officials, the planning committee's legal officer finally intervened and the meeting was forced into recess. The 30 or so objectors who had stayed in the lobby, were then finally admitted at around 9pm - 3 hours into the hearing.
 
-{% img http://affordable.heroku.com/images/planningcommittee3.jpg %}
+{% img /images/planningcommittee3.jpg %}
 
 Those objectors who had been fortunate enough to gain entry at the beginning of the meeting, made the most of the [ridiculous 5 minutes allocated between them](http://35percent.org/blog/2013/01/02/heygate-application-will-objectors-get-a-fair-hearing/) in which to make their representations.
 
@@ -32,7 +32,7 @@ In answer to questions, Flynn made a number of points including: concerns surrou
 
 Glasspool objected that Heygate residents had originally been promised new homes in the development, but that the 79 social rented units proposed wouldn't be sufficient to honour this pledge: _"An entire community has been ousted on the back of false promises that there would be a right to return."_ 
 
-{% img right http://affordable.heroku.com/images/planningcommittee2.JPG 400 300 %}Frustrated that such little time had been allocated for objectors to speak, some residents had prepared placards outlining their concerns. Planning Committee chair Cllr Nick Dolezal immediately halted proceedings and ordered those holding placards to leave the room.
+{% img right /images/planningcommittee2.JPG 400 300 %}Frustrated that such little time had been allocated for objectors to speak, some residents had prepared placards outlining their concerns. Planning Committee chair Cllr Nick Dolezal immediately halted proceedings and ordered those holding placards to leave the room.
 
 The meeting reconvened after Dave Walker from [Southwark Mediation Service](http://southwarkmediation.co.uk) was able to persuade objectors to lower their placards. Those privy to the proceedings witnessed the expected approval after the committee accepted Lendlease’s assurances that they could indeed deliver the scheme despite the risk. The application went on to be approved with councillors predictably voting along party lines, with the exception of Cllr Crookshank-Hilton who abstained.
 
@@ -43,7 +43,7 @@ Simon Hughes summed up the decision [in an interview](http://audioboo.fm/boos/11
 
 Chris Mead, Chair of the Wansey Street Tenants and Residents Association issued the following comment: _"As Chair of the Wansey Street TRA, I am furious that a number of Wansey Street residents (myself included) were barred from the Heygate master-plan committee meeting on Tuesday evening. Wansey Street directly borders the Heygate development area, and residents have genuine and reasonable concerns about aspects of the planning application; those concerns continue to be ignored and remain without receiving a satisfactory answer. Despite receiving over 200 objections from the wider community, less than 50 seats were provisioned for the public at the largest planning application review meeting in Southwark Council's history. At the least, this was incompetent by Council Officers and the meeting's Chairman, or at worst, a contrivance to exclude the public from what is supposed to be a transparent and democratic process."_
 
-{% img http://affordable.heroku.com/images/showustheviability.jpg %}
+{% img /images/showustheviability.jpg %}
 
 SE17 resident Marie Cane was one of the objectors holding up placards - she explained: _"the committee gave us just 5 minutes for 300 objectors to state their case. This is particularly shameful as this is the largest planning application ever submitted to the council. We have been silenced by the council, so we decided to stage a silent protest. We simply wanted committee members to remember the Council's own policy requirements. We are not against change; all we want are guarantees built into this masterplan - guarantees that the council would have required on any other development in the borough."_ 
 

@@ -27,7 +27,7 @@ If you wish to make a comment on the application, you can send this by email to 
 <h2>The Boxpark Vision</h2>
 Artworks may have just got their application in but they are not wasting any time advertising the containers. Below is a response to an email enquiry regarding the boxpark. The price for the container units is a lot clearer than it is in the planning application. £50 per week gets you a market stall, £150 - £170 per week gets you a work space, and full live-work container will set you back £200 per week plus bills. But hurry! 
 
-{% img http://affordable.heroku.com/images/ArtworksEmail.png %}
+{% img /images/ArtworksEmail.png %}
 
 
 

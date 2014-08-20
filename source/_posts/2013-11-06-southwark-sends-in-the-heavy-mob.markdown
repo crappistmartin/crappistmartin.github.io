@@ -9,7 +9,7 @@ The last resident of the Heygate estate was forcibly evicted from his home today
 
 {% img https://www.shergroup.net/images/about.jpg %}
 
-Adrian Glasspol's home [passed into Southwark's ownership](http://affordable.heroku.com/blog/2013/10/27/the-end-for-the-last-heygate-residents/) on Monday. On the same day Adrian, his surveyor and Southwark's surveyor met to make a final valuation of the property. Southwark's surveyor formally asked Adrian to leave that day. Adrian said that he would leave as soon as he received a call from his solicitor telling him that his compensation payment had been paid into his solicitor's holding account.  
+Adrian Glasspol's home [passed into Southwark's ownership](/blog/2013/10/27/the-end-for-the-last-heygate-residents/) on Monday. On the same day Adrian, his surveyor and Southwark's surveyor met to make a final valuation of the property. Southwark's surveyor formally asked Adrian to leave that day. Adrian said that he would leave as soon as he received a call from his solicitor telling him that his compensation payment had been paid into his solicitor's holding account.  
 
 Southwark made no payment and instead today it went ahead with a forced eviction. This evening it informed Adrian's surveyor that payment will be made - after his eviction and less its £6,888 cost.
 </br>
@@ -22,7 +22,7 @@ Southwark has behaved vindictively: Adrian and other leaseholders have fought lo
 
 
 <h4>Leaseholders beware</h4>
-This must also be an alarming event for any leaseholder in Southwark who lies in the path of a regeneration scheme - and there are many, including 580 [on the Aylesbury estate](http://affordable.heroku.com/images/SNWolvertonLeaseholders.pdf) just down the road from the Heygate. Southwark Council have shown that they are not willing to either negotiate or compromise but will instead resort to the harshest methods to get their own way. 
+This must also be an alarming event for any leaseholder in Southwark who lies in the path of a regeneration scheme - and there are many, including 580 [on the Aylesbury estate](/images/SNWolvertonLeaseholders.pdf) just down the road from the Heygate. Southwark Council have shown that they are not willing to either negotiate or compromise but will instead resort to the harshest methods to get their own way. 
 
 Southwark has [broken every promise](http://heygate.github.io/displacement.html) ever made to the residents of the Heygate whether they were leaseholders or tenants, and it seems fitting that the very last of the 3,000 forced out since 2007 should require the assistance of bailiffs. It is entirely consistent with the shabby treatment residents have received right from the beginning of this whole sorry excuse for a regeneration scheme. 
 

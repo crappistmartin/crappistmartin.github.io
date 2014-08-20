@@ -15,12 +15,12 @@ Instead of producing renewable energy on-site through the MUSCo Lend Lease are p
 A close reading of this [Energy Strategy](http://planningonline.southwark.gov.uk/AcolNetCGI.exe?ACTION=UNWRAP&RIPNAME=Root.PgeResultDetail&TheSystemkey=9550213) tells us that while it might have won an award from Bill Clinton, it does not conform to Southwark Council’s planning policy requirements:
 
 
-{% img center http://affordable.heroku.com/images/page11.jpg %}  
+{% img center /images/page11.jpg %}  
 
 Lend Lease assert that notwithstanding this failure, energy emissions will be over 50% less than they would have been without the its strategy of ‘energy hierarchy principles and…energy commitment’. It also lives in hope that Southwark will have a change of heart;
 
 
-{% img center http://affordable.heroku.com/images/page112.jpg %}
+{% img center /images/page112.jpg %}
 
 In short, Lend Lease’s energy strategy is simply to buy in biomethane gas and hope that Southwark brings its planning policy into line with its proposals.
 

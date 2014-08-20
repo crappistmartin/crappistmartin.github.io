@@ -7,7 +7,7 @@ categories:
 ---
 
 
-{% img left http://southwarknotes.files.wordpress.com/2009/12/plazagone1.jpg 350 220 %} An eagle-eyed member of the local community has noticed that the [licence that allows the hoarding](http://affordable.heroku.com/images/TribecaHoardingsLicence.jpg) surrounding the Tribeca Square site - formerly known as Oakmayne Plaza, [formerly known as the Volvo garage](http://affordable.heroku.com/images/volvocpo.jpg) - has expired. Perhaps the licence has since been renewed, but the hoarding stretching from the New Kent road down Elephant road to the Walworth road, has been a great nuisance and inconvenience to pedestrians since 2006.
+{% img left http://southwarknotes.files.wordpress.com/2009/12/plazagone1.jpg 350 220 %} An eagle-eyed member of the local community has noticed that the [licence that allows the hoarding](/images/TribecaHoardingsLicence.jpg) surrounding the Tribeca Square site - formerly known as Oakmayne Plaza, [formerly known as the Volvo garage](/images/volvocpo.jpg) - has expired. Perhaps the licence has since been renewed, but the hoarding stretching from the New Kent road down Elephant road to the Walworth road, has been a great nuisance and inconvenience to pedestrians since 2006.
 After a spurt of on-site activity in 2009 progress has halted.
 
 Oakmayne Director, Martin Lent has recently said that Oakmayne intends to return to Southwark planning to 'tweak' their application before work re-commences. What this means remains to be seen: the [original application was comprehensively tweaked](http://www.london-se1.co.uk/news/view/3641) so that no affordable housing would sully the development. In return, Oakmayne was going to build a huge basement, which was to house the MUSCo 'subterranean servicing complex' between the Heygate and the shopping centre. Now that the [MUSCo has been ditched](http://www.london-se1.co.uk/news/view/5052), there will be plenty of room for some affordable housing in the development - even if it is in the basement.  
@@ -19,7 +19,7 @@ An [FOI request refused by Southwark Council](https://www.whatdotheyknow.com/req
 
 Developers use viability assessments to relieve themselves of the obligation to provide affordable housing. They are supposed to be objective but in fact are highly contested, as this extract from the GLA report for the aforementioned Oakmayne development from 2007 shows:  
 
-{% img http://affordable.heroku.com/images/gla.jpg %}
+{% img /images/gla.jpg %}
 
 Councillors on Southwark's planning committee - the people who actually take the decisions - are not allowed to see viability assessments, despite their critical importance. This is not the case in all boroughs: some like Haringey and Lewisham allow councillors to view them, albeit with certain conditions. Whatever information we will receive, we will be more than happy to share. 
 
@@ -29,7 +29,7 @@ The Heygate estate development [is to be re-phased](http://www.london-se1.co.uk/
  
 Consultation on the Wansey street phase [has now begun](http://www.elephantandcastle.org.uk/pages/news_events/215/elephant_castle.html) and the planning application is expected to be submitted in September.
 
-{% img center http://affordable.heroku.com/images/heygatephases.jpg %}
+{% img center /images/heygatephases.jpg %}
  
 
 

@@ -10,10 +10,10 @@ The 35% Campaign will be giving evidence this week at the 5-day Tribunal hearing
 We will be supporting the [Information Commissioner's decision](http://www.35percent.org/blog/2013/07/24/heygate-figures-must-b-be-revealed-information-commissioner) and giving evidence to show why we think it is important that the figures be disclosed. We will be showing the Tribunal evidence of the original regeneration benefits proposed, and how these have been squeezed or shelved as a result of the confidential viability assessement submitted as part of the Heygate masterplan application.  
 
 Examples include the excessive density of the development and the squeezing of London's newest park down to a [privately managed landscaped strip](http://www.35percent.org/blog/2012/07/04/londons-largest-new-private-park-in-70-years) overshadowed by 12 storey blocks:  
-[{% img http://affordable.heroku.com/images/MasterplanComparison.jpg %}](/images/MasterplanComparison.jpg)
+[{% img /images/MasterplanComparison.jpg %}](/images/MasterplanComparison.jpg)
 
 
-[{% img right http://www.bdunlop.com/images/Elephant-and-Castle/energy_envrnmtl-services_lge.gif 400 300 %}](http://www.bdunlop.com/images/Elephant-and-Castle/energy_envrnmtl-services_lge.gif) We will be explaining how the green credentials of the scheme have been further compromised by the shelving of the [proposed MUSCo](http://affordable.heroku.com/images/MasterplanObjectives2010.pdf) 100% on-site renewable energy facility, which has been [dropped](http://affordable.heroku.com/blog/2013/10/11/lean/) by Lend Lease in favour of a less costly [gas-fired boiler](http://www.35percent.org/sustainable-development).  
+[{% img right http://www.bdunlop.com/images/Elephant-and-Castle/energy_envrnmtl-services_lge.gif 400 300 %}](http://www.bdunlop.com/images/Elephant-and-Castle/energy_envrnmtl-services_lge.gif) We will be explaining how the green credentials of the scheme have been further compromised by the shelving of the [proposed MUSCo](/images/MasterplanObjectives2010.pdf) 100% on-site renewable energy facility, which has been [dropped](/blog/2013/10/11/lean/) by Lend Lease in favour of a less costly [gas-fired boiler](http://www.35percent.org/sustainable-development).  
 </br>
 
 
@@ -25,7 +25,7 @@ Examples include the excessive density of the development and the squeezing of L
 
 
 
-More importantly we will be showing how the viability assessment justified reducing affordable housing from 35% to 25%, and was used to substitute so-called 'affordable rent' (at around 50% market) for [much cheaper](http://affordable.heroku.com/images/se17rents.png) social rented tenure. We will also be pointing out how this contradicts Southwark's position in [its fight](http://www.bbc.co.uk/news/uk-england-london-24002244) with Boris Johnson against the introduction of affordable rent in the Borough as a whole. 
+More importantly we will be showing how the viability assessment justified reducing affordable housing from 35% to 25%, and was used to substitute so-called 'affordable rent' (at around 50% market) for [much cheaper](/images/se17rents.png) social rented tenure. We will also be pointing out how this contradicts Southwark's position in [its fight](http://www.bbc.co.uk/news/uk-england-london-24002244) with Boris Johnson against the introduction of affordable rent in the Borough as a whole. 
 
 
 We plan to refer the Tribunal to viability assessments commisioned by the Council, which support the basis of its 35% affordable housing policy at the Elephant<a href="#footnote-1">[1]</a>, and we will be asking Lend Lease why its viability assessment generated such significantly different results.   
@@ -47,7 +47,7 @@ The Tribunal hearing is open to the public and will be held at the [Competition 
 
 Coincidentally the planning application for the first detailed phase of the Heygate masterplan development is being [heard on Tuesday](http://moderngov.southwark.gov.uk/ieListDocuments.aspx?CId=119&MId=4639&Ver=4) evening. This is for the so-called MP1 development bordering Wansey St for 360 new homes, of which 76 are 'affordable' homes (55 shared ownership, 17 social rented and 4 affordable rent). The hearing will take place at 6.30pm on Tuesday at Southwark's Tooley street HQ.
 
-<font size="1"><p id="footnote-1">[1] See [this extract](http://affordable.heroku.com/images/CILviabilitysite11.pdf) from the [2012 Southwark CIL Viability Report by BNP Paribas](/images/Southwark_CIL_viability_report_FINAL_July12.pdf), and pg. 28 of the [Jan 2010 Southwark Affordable Housing Viability Study.](http://www.southwark.gov.uk/download/2617/southwark_affordable_housing_viability_study)</p> </font>
+<font size="1"><p id="footnote-1">[1] See [this extract](/images/CILviabilitysite11.pdf) from the [2012 Southwark CIL Viability Report by BNP Paribas](/images/Southwark_CIL_viability_report_FINAL_July12.pdf), and pg. 28 of the [Jan 2010 Southwark Affordable Housing Viability Study.](http://www.southwark.gov.uk/download/2617/southwark_affordable_housing_viability_study)</p> </font>
 
 
 

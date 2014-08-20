@@ -11,11 +11,11 @@ The application is the largest ever submitted in the history of the borough: it 
 
 Around 300 local residents have submitted objections to the application, which is due to be heard this Tuesday 15 January- 6pm at the council's offices in London Bridge (160 Tooley st).
 
-Having been allocated [just 5 mins for all objectors to voice their concerns](http://35percent.org/blog/2013/01/02/heygate-application-will-objectors-get-a-fair-hearing/) during the hearing, the Elephant Amenity Network has sent a briefing document to councillors in the hope that they will take up the issues that can't be covered in the 5 minute slot. You can [download a copy of the briefing document here..](http://affordable.heroku.com/images/PlanningCommitteeBrief12AP1092.pdf) and read a summary of the points we wish to raise below.
+Having been allocated [just 5 mins for all objectors to voice their concerns](http://35percent.org/blog/2013/01/02/heygate-application-will-objectors-get-a-fair-hearing/) during the hearing, the Elephant Amenity Network has sent a briefing document to councillors in the hope that they will take up the issues that can't be covered in the 5 minute slot. You can [download a copy of the briefing document here..](/images/PlanningCommitteeBrief12AP1092.pdf) and read a summary of the points we wish to raise below.
 
 The planning committee is a public meeting and anyone concerned about the future of our city and environment is encouraged to attend. 
 
-{% img right http://affordable.heroku.com/images/viability.png 300 200 %}__Financial Viability__  
+{% img right /images/viability.png 300 200 %}__Financial Viability__  
 * Doubts about the financial viability of the scheme  
 * How will the ‘viability gap’ in the scheme be bridged?  
 * How will we avoid the Heygate becoming yet another stalled development site?  
@@ -25,19 +25,19 @@ How is the viability gap between the viable level of affordable housing at 9.4% 
 
 The London Park Hotel and Oakmayne Plaza(Tribeca Square) sites were granted planning permission six years ago; these sites remain undeveloped. There is no reference to the time schedule for the delivery of the detailed planning applications in the report. We propose that a condition be attached to any approval of the application requiring a fixed schedule of applications.
 
-{% img right http://affordable.heroku.com/images/affordable.png 400 300 %}__Housing__  
+{% img right /images/affordable.png 400 300 %}__Housing__  
 * Lack of social rented housing  
 * Phasing of the affordable housing delivery  
 The scheme will provide only 71 social rented units out of a total 2,300 new homes (para. 159). This is in breach of Southwark Council's planning policy, which would require approx. 400 social rented units. 198 affordable rent properties are also being provided, but they are not affordable for many residents of the borough. 
 
 Affordable rent is also not a type of social rented housing. Both the National Planning Policy Framework and draft revisions to the London Plan have social rent and affordable rent as separate categories of affordable housing (with intermediate housing as a third category). A consortium of 9 boroughs including Southwark supported this position at the London Plan examination in public in November 2012. Therefore affordable rent units cannot be used to meet the social rented proportion of the affordable housing required by policy. The application should therefore be rejected on these grounds. 
 
-{% img left http://affordable.heroku.com/images/affordableseventeen.png 300 200 %}
+{% img left /images/affordableseventeen.png 300 200 %}
 The first two tranches of the six tranches of the scheme only deliver 20% affordable housing (para. 156). This means that the first 1,200 units of the scheme will only provide 20% affordable housing. This should be changed so that 25% minimum is delivered from the beginning of the scheme. 
 
 An initial review of the affordable housing delivery is proposed only after two years beyond the first approved application (para. 154). We are also concerned that the conditions for changes in phasing will not be strong enough to ensure that the development is delivered in a timely fashion (para. 35). 
 
-{% img right http://affordable.heroku.com/images/animals.jpg 300 200 %}__Public Realm__  
+{% img right /images/animals.jpg 300 200 %}__Public Realm__  
 * The reduction in amount of green and open space  
 * The private management of the park  
 * Maintaining real public accessibility of the park  
@@ -50,7 +50,7 @@ We note the Highway Authority's comments quoted here and support its proposals f
 
 "General concern is raised about the proposed number of new private streets (unadopted highways) within the application given the likely impact on the council’s ability to control the network and manage the boroughs streets and spaces for the benefit of residents, businesses and the travelling public.  If this course is pursued then it is strongly recommended that robust alternative management and enforcement regimes are included in any consent." (Appendix 2 - Para. 11)
 
-{% img right http://affordable.heroku.com/images/cars.jpg 300 200 %}
+{% img right /images/cars.jpg 300 200 %}
 __Car Parking__  
 * Contrary to Southwarks car-free policy  
 * Reduce the number of car-parking spaces  
@@ -60,7 +60,7 @@ The development is not free of car parking as originally envisioned and set out 
 616 car-parking spaces are proposed for the scheme (para 225) despite Council policy requiring it to be car free.  The Elephant has the highest possible public transport accessibility rating (PTAL 6b) so why are so many car-parking spaces needed?
 Strata Tower which has been completed has car parking set at 14%, the consented Oakmayne development 11%. Most recently St Mary’s Residential was granted at 16% (8% disabled and 8% private). If parking is to be allowed it should be at a far lower rate.
  
-{% img right http://affordable.heroku.com/images/trees.jpg 300 200 %}__Trees__  
+{% img right /images/trees.jpg 300 200 %}__Trees__  
 * Concern about caveat on retention of existing trees  
 * Unnecessary removal of trees  
 * Highway Authority recommendation for tree planting  
@@ -70,7 +70,7 @@ These RPA surveys should be carried out now and a firm commitment given to reten
 
 We note the objection made by the Highways Authority that the proposed streets will be too narrow to give sufficient space between buildings for newly-planted trees to grow adequately. We support the Highway Authority's recommendation: "It is recommended that the minimum critical distance for streets be increased to 12m in all instances. In the absence of this it is unlikely that street trees and other planting will be accommodated adequately;" (Para. 11 - Appendix 2)
 
-{% img right http://affordable.heroku.com/images/sustainability.png 300 200 %}
+{% img right /images/sustainability.png 300 200 %}
 __Sustainability__  
 * Lack of sustainable alternatives  
 * Unrealistic energy centre connection proposals  
@@ -85,7 +85,7 @@ We propose that the 20% on-site renewable energy requirement is met using a comb
 
 We note the report's comment that through planning permission additional plant can be installed to accommodate additional capacity (para. 404). We request that a planning condition is applied upon granting the application accordingly: The new Energy Centre should be constructed such that it has sufficient capacity to supply all of the surrounding developments as identified in the Energy Strategy.
 
-{% img right http://affordable.heroku.com/images/cyclists.png 300 200 %}__CYCLING__  
+{% img right /images/cyclists.png 300 200 %}__CYCLING__  
 * Inadequacies of proposed new routes  
 * There is no proper transport assessment  
 * There is no proper connection to strategic routes  
@@ -101,7 +101,7 @@ The Heyate comprised a total of 2,500 sq metres of community facilities; the sch
 The transport infrastructure spend is still insufficient to fund improvements to the tube station and northern roundabout.     
 
 
-{% img right http://affordable.heroku.com/images/jobs.png 300 200 %}__Employment/Retail__  
+{% img right /images/jobs.png 300 200 %}__Employment/Retail__  
 * Will the London Living wage be paid for employment on scheme?  
 * There is no long term commitment to affordable retail units for existing small and independent traders who are likely to be displaced  
 * There are no targets for jobs for local residents post construction  

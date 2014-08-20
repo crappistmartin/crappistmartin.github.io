@@ -5,7 +5,7 @@ date: 2013-07-30 18:27
 comments: true
 categories: 
 ---
-Since our [last blog post](http://affordable.heroku.com/blog/2013/07/24/heygate-figures-must-b-be-revealed-information-commissioner/) we have been asked to explain more about viability assessments - also known as viability reports. These are a developer's analysis of the finances of their own scheme, and if this self-assessment demonstrates to the council's satisfaction that the scheme is not financially viable, then the developer is able do duck out of providing affordable housing. 
+Since our [last blog post](/blog/2013/07/24/heygate-figures-must-b-be-revealed-information-commissioner/) we have been asked to explain more about viability assessments - also known as viability reports. These are a developer's analysis of the finances of their own scheme, and if this self-assessment demonstrates to the council's satisfaction that the scheme is not financially viable, then the developer is able do duck out of providing affordable housing. 
 
 
 As can be imagined, nearly all developers opt to submit a ‘financial viability assessment’.  
@@ -17,7 +17,7 @@ In planning terms affordable housing is known as a section 106 obligation, and p
 
 For between £1,000 - £3,000 ['S106 Management Ltd'](http://www.s106management.co.uk/) will produce a viability report that reduces or eliminates your affordable housing obligation. You can then take a holiday with the money that you have saved or pile it into your wheelbarrow as their website illustrates:
 
-[{% img http://affordable.heroku.com/images/s106management2.jpg %}](http://www.s106management.co.uk/)
+[{% img /images/s106management2.jpg %}](http://www.s106management.co.uk/)
 
 
 Viability reports are confidential, they are not made public and even members of the planning committee do not see them. They have to rely on the recommendation of planning officers (who in turn rely upon an assessment by the District Valuer’s Service).
@@ -27,7 +27,7 @@ So the [Information Commissioner's decision](http://betterelephant.org/images/He
 Southwark is [committed to transparency](http://www.youtube.com/watch?v=sbSCIuaLFQ4&feature=share&list=UU1yTdlADczSqDS-DsEliI8A), it must now accept the Commissioner's decision and release the report. 
 
 
-[{% img http://affordable.heroku.com/images/s106management.jpg %}](http://www.s106management.co.uk/)
+[{% img /images/s106management.jpg %}](http://www.s106management.co.uk/)
 
 
 

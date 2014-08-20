@@ -29,15 +29,15 @@ In the ITV interview, Councillor Colley also referred to Southwark Council's [re
 
 
 <h2>Overseas and Off-Plan</h2>
-[{% img right http://affordable.heroku.com/images/TrafalgarPlaceCN.png 400 300 %}](http://affordable.heroku.com/images/TrafalgarPlaceCN.png) The BBC report also focused on the amount of free-market housing that Lend Lease is selling off-plan overseas for buy-to-let investment. Neither Boris Johnson nor Fiona Colley could say how much this would be, but if _One the Elephant_ follows the [trend of 75% going overseas](http://www.ft.com/cms/s/0/605cdea2-fb69-11e2-a641-00144feabdc0.html#axzz2auDlY5Ft) then there will only be 70 units for British-based buyers who are wealthy enough to afford them. 
+[{% img right /images/TrafalgarPlaceCN.png 400 300 %}](/images/TrafalgarPlaceCN.png) The BBC report also focused on the amount of free-market housing that Lend Lease is selling off-plan overseas for buy-to-let investment. Neither Boris Johnson nor Fiona Colley could say how much this would be, but if _One the Elephant_ follows the [trend of 75% going overseas](http://www.ft.com/cms/s/0/605cdea2-fb69-11e2-a641-00144feabdc0.html#axzz2auDlY5Ft) then there will only be 70 units for British-based buyers who are wealthy enough to afford them. 
  
 
 Another recent [BBC report](http://youtu.be/7yuT3RlR1Zc) also addresses the overseas buyer issue and local MP Simon Hughes initiated an [adjournment debate](http://www.bbc.co.uk/democracylive/house-of-lords-22992949) in the House of Commons where he gave his own ideas about how to solve the problem. 
 
 <h2>Those who have had to leave us</h2>
-[{% img left http://affordable.heroku.com/images/EveningStandardHeygateResidentsForcedOut.png 200 390 %}](/images/EveningStandardHeygateResidentsForcedOut.pdf)In an [Evening Standard article](http://affordable.heroku.com/images/EveningStandardHeygateResidentsForcedOut.pdf) respected journalist Mira Bar-Hillel focuses on those who have had to leave the Elephant to make way for the regeneration.
+[{% img left /images/EveningStandardHeygateResidentsForcedOut.png 200 390 %}](/images/EveningStandardHeygateResidentsForcedOut.pdf)In an [Evening Standard article](/images/EveningStandardHeygateResidentsForcedOut.pdf) respected journalist Mira Bar-Hillel focuses on those who have had to leave the Elephant to make way for the regeneration.
 
-We covered this briefly in our [recent blog post](http://affordable.heroku.com/blog/2013/06/08/the-heygate-diaspora/). The Standard article puts some faces to the statistics and shows what the regeneration has really been about for these former local people. 
+We covered this briefly in our [recent blog post](/blog/2013/06/08/the-heygate-diaspora/). The Standard article puts some faces to the statistics and shows what the regeneration has really been about for these former local people. 
 
 </br>
 </br>

@@ -5,14 +5,14 @@ date: 2013-11-15 17:13
 comments: true
 categories: 
 ---
-{% img left http://affordable.heroku.com/images/pjtutankhaman.jpg 300 310 %}The Heygate is to get a pyramid.  Turner Prize nominee Mike Nelson and public arts organisation [Artangel Trust](http://www.artangel.org.uk/)  would like to reconfigure one of the Heygate’s maisonette blocks to build a giant square pyramid, not far from where the last Heygate resident was [evicted last week](http://affordable.heroku.com/blog/2013/11/06/southwark-sends-in-the-heavy-mob/).  Artangel organised [‘Seizure’](http://www.artangel.org.uk/projects/2008/seizure), the blue crystal-filled council flat, also at the Elephant a couple of years ago.  Artist Mike was described ‘as the next big thing’ by the [Guardian in 2001](http://www.theguardian.com/culture/2001/sep/04/artsfeatures.turnerprize2001), and in the spirit of artistic intervention we have here our own image of how Southwark Council leader Peter John might look in his new role. 
+{% img left /images/pjtutankhaman.jpg 300 310 %}The Heygate is to get a pyramid.  Turner Prize nominee Mike Nelson and public arts organisation [Artangel Trust](http://www.artangel.org.uk/)  would like to reconfigure one of the Heygate’s maisonette blocks to build a giant square pyramid, not far from where the last Heygate resident was [evicted last week](/blog/2013/11/06/southwark-sends-in-the-heavy-mob/).  Artangel organised [‘Seizure’](http://www.artangel.org.uk/projects/2008/seizure), the blue crystal-filled council flat, also at the Elephant a couple of years ago.  Artist Mike was described ‘as the next big thing’ by the [Guardian in 2001](http://www.theguardian.com/culture/2001/sep/04/artsfeatures.turnerprize2001), and in the spirit of artistic intervention we have here our own image of how Southwark Council leader Peter John might look in his new role. 
 
 Local speculation is that this masterwork is being paid for by Lend Lease. The planning application for the pyramid can be found through [this link](http://planningonline.southwark.gov.uk/AcolNetCGI.exe?ACTION=UNWRAP&RIPNAME=Root.PgeResultDetail&TheSystemkey=9552014); click on ‘documents’- the deadline for comments is 21 Nov. Below is an extract from [one of the planning application's documents](http://planningonline.southwark.gov.uk/DocsOnline/Documents/328350_1.pdf), which shows how the remnants of Heygate residents' former homes are to be used in this imaginative reconstruction.
 
 
 
 
-[{% img http://affordable.heroku.com/images/pyramid1.jpg %}](http://affordable.heroku.com/images/pyramid1.jpg)
+[{% img /images/pyramid1.jpg %}](/images/pyramid1.jpg)
 
  
 <h3>Eileen House – latest latest</h3>

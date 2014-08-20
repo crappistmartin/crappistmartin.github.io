@@ -5,7 +5,7 @@ date: 2014-02-22 12:04
 comments: true
 categories: 
 ---
-{% img right http://affordable.heroku.com/images/confidential.jpg 300 200 %}Following the successful FOI request by Heygate campaigners, [Earls Court](http://www.theguardian.com/uk-news/davehillblog/2013/nov/21/earls-court-project-community-benefits-capital-and-counties) community activists have also succeeded with their FOI request for disclosure of viability documents behind their local regeneration scheme, which - like the Heygate - has a great absence of truly affordable housing. The Information Commissioner cites the Heygate decision in his [decision notice](http://ico.org.uk/~/media/documents/decisionnotices/2013/fer_0491596.ashx).  
+{% img right /images/confidential.jpg 300 200 %}Following the successful FOI request by Heygate campaigners, [Earls Court](http://www.theguardian.com/uk-news/davehillblog/2013/nov/21/earls-court-project-community-benefits-capital-and-counties) community activists have also succeeded with their FOI request for disclosure of viability documents behind their local regeneration scheme, which - like the Heygate - has a great absence of truly affordable housing. The Information Commissioner cites the Heygate decision in his [decision notice](http://ico.org.uk/~/media/documents/decisionnotices/2013/fer_0491596.ashx).  
 
 However, just as at the Elephant, local authority (Kensington & Chelsea) and developer (Capital & Counties Ltd.) have combined together to appeal against the Information Commissioner's decision. The appeal hearing is due to take place at the beginning of June.  
 

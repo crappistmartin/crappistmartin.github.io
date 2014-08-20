@@ -9,9 +9,9 @@ categories:
 Southwark Council stole our homes and we are not going to forget it.
 {% endblockquote %}
 
-{% img left http://affordable.heroku.com/images/LendLeaseStoleMyHome.jpg 259 387 %}The final two Heygate residents must leave the estate by 4th Nov. These will be the last of the 990 households still resident on the Heygate when the [notorious Heygate Action Plan](http://heygate.github.io/displacement.html) was put into effect in 2007. This plan decreed that everybody would be moved off the estate before the new homes they were promised would rehouse them were built.
+{% img left /images/LendLeaseStoleMyHome.jpg 259 387 %}The final two Heygate residents must leave the estate by 4th Nov. These will be the last of the 990 households still resident on the Heygate when the [notorious Heygate Action Plan](http://heygate.github.io/displacement.html) was put into effect in 2007. This plan decreed that everybody would be moved off the estate before the new homes they were promised would rehouse them were built.
 
-The final residents [have been told](http://affordable.heroku.com/images/LBS3Oct2013.pdf) that if they are not gone by 4th Nov the bailiffs will be knocking at their doors. They are in a quandary however: The compensation they need to buy a new home will not be paid until after they have left. 
+The final residents [have been told](/images/LBS3Oct2013.pdf) that if they are not gone by 4th Nov the bailiffs will be knocking at their doors. They are in a quandary however: The compensation they need to buy a new home will not be paid until after they have left. 
 
 A request to Southwark Council that the compensation be paid before they leave - which only seems reasonable - has been refused. On top of this, Southwark has threatened to reduce the compensation by the amount required to pay any bailiffs and associated legal costs. 
 
@@ -32,7 +32,7 @@ Leaseholders were <a href="http://heygate.github.io/img/HeygateLeaseholderPolicy
 
 Most leaseholders have subsequently been forced to relocate to outer London boroughs because of the low valuations offered in compensation for their homes. Any leaseholder wanting to return to the Heygate will have to compete with overseas buyers at market prices well beyond their means. New-build Heyate homes are currently being sold at prices starting from <a href="http://trafalgarplace.com">£340,000</a> for a 1-bed flat, and are being heavily marketed overseas in <a href="http://www2.hkej.com/property/article/id/77797">China</a>, <a href="http://www.65house.com/news/20130412/2638.html">Singapore</a>, <a href="http://www.theborneopost.com/2013/04/24/lend-lease-launches-trafalgar-place-development-in-london/">Malaysia</a> and <a href="http://colliersip.com/uk/trafalgar-place-london/">Hong Kong</a>.
 
-{% img http://affordable.heroku.com/images/TrafalgarPlaceCN.png %}
+{% img /images/TrafalgarPlaceCN.png %}
 
 <a href="http://heygate.github.io/img/LBSHeygateacquisitionsOct2012.xls">Analysis of information received from FOI requests</a> shows that the average compensation received by leaseholders as the council's valuation of their homes is as follows:</p>
 <b>
