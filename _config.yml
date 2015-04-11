@@ -105,7 +105,7 @@ facebook_like: false
 # ----------------------- #
 prose:
   rooturl: "source"
-  site: "http://jake.ginnivan.net"
+  site: "http://35percent.org"
   media: "source/assets/posts"
   metadata:
     "source/_posts":
