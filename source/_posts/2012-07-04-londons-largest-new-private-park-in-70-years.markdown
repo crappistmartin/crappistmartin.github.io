@@ -6,11 +6,11 @@ comments: true
 categories: 
 ---
 
-{% img right /images/elephantpark.JPG %}The Heygate estate used to have a sizeable public park (Elephant Park), which was closed last year [- despite opposition from local residents -](http://elephantamenity.wordpress.com/2011/02/28/no-more-football-on-the-elephant-park/) after half of it was leased by the Council to the neighbouring [Delancey development](http://www.london-se1.co.uk/news/view/7208) for use as a compound and the other half appropriated by Heygate developer Lend Lease for use as a Temporary Box Park (before it builds a 35 storey block on the site). 
+{% img right /images/elephantpark.JPG %}The Heygate estate used to have a sizeable public park ([Elephant Park](https://southwarknotes.files.wordpress.com/2013/10/elephant-rd.jpg)). The park had long been designated public open space in the council's planning policy[^1]. In 2006 the council described the site as _"being poor in terms of security and a problem site requiring action"_ It was removed from open space designation on the basis that _"The space principally addresses the needs of Heygate residents and following the demolition of the estate there will no longer be a need for this type of estate-based facility"_[^2]. The park was finally closed in 2011 despite [fierce opposition](http://elephantamenity.wordpress.com/2011/02/28/no-more-football-on-the-elephant-park/) from local residents and subsequently leased to the neighbouring [Delancey development](http://35percent.org/tribeca-square) to be used as a 'market square'.  
 
-According to [this 2002 audit by independent planning consultant Michael Parkes,](/images/HeygateCommunityAssetAudit.pdf) the development footprint (Heygate North & South) comprised a total of 24,195m2 of public amenity open space.
+According to [this 2002 audit by planning consultant Michael Parkes,](/images/HeygateCommunityAssetAudit.pdf) the Heygate estate used to comprise a total 24,195 square metres of public amenity open space.
 
-{% img left /images/parkdimensions.png 300 200 %}In spite of this, much fanfare has been made of Lend Lease's plan to create [London's largest park in more than 70 years'](http://www.southwark.gov.uk/news/article/672/final_masterplan_for_heygate_estate_revamp_revealed). However, according to Lend Lease's [planning application](http://planningonline.southwark.gov.uk/AcolNetCGI.exe?ACTION=UNWRAP&RIPNAME=Root.PgeResultDetail&TheSystemkey=9544643), the new park will be just 8,220m2 in size - representing a net loss of more than two thirds of the existing open amenity space. When probed during the Feb 2013 CPO public inquiry into the scheme, architect [Ken Shuttleworth said](/images/KenShuttleworthCPOevidenceFeb2013.pdf) the 70 years reference related to the nearby Geraldine Harmsworth Park (Imperial War Museum) as being the larger park opened in 1934. We did a little research and found that the claim to being central London's largest new park in 70 years is pure fiction and plainly ridiculous. Infact, it's not even the largest new park in Southwark in 70 years: the following Southwark parks are all larger than the one proposed by Lend Lease (0.82H) and have all received park designation since the Geraldine Harmsworth park was opened in 1934:
+{% img left /images/parkdimensions.png 300 200 %}Much fanfare has been made of Lend Lease's plan to create [central London's largest park in more than 70 years'](http://www.southwark.gov.uk/news/article/672/final_masterplan_for_heygate_estate_revamp_revealed). However, according to Lend Lease's [planning application](http://planningonline.southwark.gov.uk/AcolNetCGI.exe?ACTION=UNWRAP&RIPNAME=Root.PgeResultDetail&TheSystemkey=9544643), the new park will be just 8,220 square metres in size - representing a net loss of more than two thirds of the site's open amenity space. When probed during the Feb 2013 CPO public inquiry into the scheme, architect [Ken Shuttleworth said](/images/KenShuttleworthCPOevidenceFeb2013.pdf) the 70 years reference related to the nearby Geraldine Harmsworth Park (Imperial War Museum) as being the larger park opened in 1934. We did a little research and found that the claim to being central London's largest new park in 70 years is pure fiction and plainly ridiculous. Infact, it's not even the largest new park in Southwark in 70 years - let alone central London: the following [Southwark parks](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!3CFumZzyYn8kb1LBVrWDlg%3d%3d!%7d%7d%7d) are all larger than the one proposed by Lend Lease (0.82H) and have all received open space designation since the Geraldine Harmsworth park was opened in 1934:
 
     *Potter's Field  1.35H
     *Mint Street Park  .92H
@@ -27,15 +27,18 @@ This is a real kick in the teeth for local residents who can remember the promis
 
 {% img http://heygate.github.io/img/elephantparkcomparison.png %} 
 
+Furthermore, the remaining green spaces on the development will consist of 'raised courtyards' enclosed between clusters of blocks, which will have zero public access:
+  
+[{% img http://crappistmartin.github.io/images/heygate_raised_courtyards2.png %}](http://planningonline.southwark.gov.uk/DocsOnline/Documents/267119_1.pdf)
 
- However, what is more disconcerting is that the planning application's ['Estate Management Strategy' statement](http://planningonline.southwark.gov.uk/DocsOnline/Documents/224077_1.pdf) states that the new park - and indeed the entire footprint of the development - is going to be privately owned and privately managed:
+But what is even more disconcerting is that the planning application's ['Estate Management Strategy' statement](http://planningonline.southwark.gov.uk/DocsOnline/Documents/224077_1.pdf) states that the new park - and indeed the entire footprint of the development - is going to be privately owned and privately managed:
 
 _"The long term regeneration vision is founded on the core principles of place making and central to this is the effective management of the spaces around Plots in addition to effective Plot and building management."_
 
 _"It is likely that an umbrella Estate Management Company (EMC) will be created, with separate Plot Management Companies responsible for managing each Plot sitting under it. Each Plot will have its own Plot Management Company (PMC). Each PMC will be controlled by the leasehold owners of the new homes, the Registered Provider and the leasehold owners of the retail spaces within the Plot."_
 
 _"The Estate Management Company (EMC) will hold the land on a long leasehold basis from Lend Lease. The Estate Management Company shall be controlled by a main board of directors responsible for managing the company."_  
-{% img left /images/emc.png %} 
+{% img /images/emc.png %}  
 
 
 The Estate Management Strategy appears to have quite clear ideas of how the behaviour of its residents will be monitored and controlled:
@@ -54,6 +57,8 @@ Furthermore, the 'Play Strategy' [(in the Landscape Strategy, pg 93)](http://pla
 {% img right http://betterelephant.org/images/gatedcommunity.png 350 493 %}We have been campaigning to have arrangements here formalised by the Council, in order to avoid the [‘privatised public space’ model](http://www.guardian.co.uk/commentisfree/2012/jun/11/public-spaces-undemocratic-land-ownership) – places like More London or New Street Square. 
 
 Lend Lease owns the Bluewater retail and leisure centre in Kent, where it has banned shoppers who swear or wear hooded tops or baseball caps. It has also outlawed smoking, leafleting and canvassing on the 240-acre Bluewater site. We don't want Lend Lease to use Bluewater as a blueprint for its Heygate redevelopment. The Mayor of London's 2009 Manifesto for Public Space expresses concern at the _"growing trend towards the private management of publicly accessible space, where this type of ‘corporatisation occurs, especially in the larger commercial developments, Londoners can feel themselves excluded from parts of their own city."_ This need not be the case: at the Kings Cross redevelopment it was agreed that the London Borough of Camden will adopt the streets and public areas; unfortunately Southwark has rejected all calls for it to do the same.
-</p>
+
+[^1]: Elephant Park was designated as Public Open Space (ref:A20) in the borough's [Unitary Development Plan](http://crappistmartin.github.io/images/SouthwarkPlan_OpenSpaces.pdf)
+[^2]: See paragraph 52 of [this planning officer report](http://crappistmartin.github.io/images/CastleIndustrialEstateOR.pdf)
   
 

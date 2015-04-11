@@ -5,7 +5,7 @@ date: 2014-01-11 13:21
 comments: true
 categories: 
 ---
-{% img left /images/leisurecentreaerial.jpg 400 300 %}[Land Registry documents](/images/OneTheElephantRegisterTGL381808.pdf) reveal that Southwark Council sold 1.4 acres of the old leisure centre site to developer _Lend Lease_ for the bargain price of £6.5m. The site will now be home to ['One the Elephant'](http://www.onetheelephant.com) - a 37 storey tower with 4 storey pavillion. _Lend Lease_ also recently acquired the 23-acre Heygate estate site for a [generous £50m](http://www.standard.co.uk/news/london/elephant-and-castle-estate-revamp-ripped-off-taxpayers-8482794.html).  </br></br>
+{% img left /images/leisurecentreaerial.jpg 400 300 %}[Land Registry documents](/images/OneTheElephantRegisterTGL381808.pdf) reveal that Southwark Council sold 1.4 acres of the old leisure centre site to developer _Lend Lease_ for the bargain price of £6.5m. The site will now be home to ['One the Elephant'](http://www.onetheelephant.com) - a 37 storey tower with 4 storey pavillion. _Lend Lease_ also recently acquired the 25-acre Heygate estate site for a [generous £50m](http://www.standard.co.uk/news/london/elephant-and-castle-estate-revamp-ripped-off-taxpayers-8482794.html).  </br></br>
 
 {% img right /images/onetheelephant.jpg 400 400 %}By way of comparison, the neighbouring and smaller site (1.2acres) of the former London Park Hotel was bought by a government agency [for £17.7m in 2004](/images/360TowerLandRegistry.pdf). New shopping centre owners _Delancey_ [had to pay £40m](http://betterelephant.org/images/OakmayneLandRegistry.pdf) for another neighbouring site (Tribeca Square - 1.5 acres) to property developer _Eadon Ltd_, who thereby made a handsome profit having [bought the land for just £18m](/images/TribecaLR.pdf) from the council in March 2007. 
 </br>
@@ -18,7 +18,7 @@ categories:
 
 The buoyant sales are undoubtedly due in part to [Lend Lease's sales pitch](http://www.onetheelephant.com/facilities/leisure-centre) that new homes would have a brand new leisure centre on their doorstep.
 
-Once completed, Lend Lease's 'One the Elephant' development is expected to be worth around £200m<a href="#footnote-1">[1].
+Once completed, Lend Lease's 'One the Elephant' development is expected to be worth around £230m<a href="#footnote-1">[1].
 
 The revelation comes [amidst separate news](/images/SNleisurecentre.pdf) that council chiefs had ignored the results of a public poll created in order to name the new leisure centre, in favour of a suggestion put forward by Lend Lease.  
 
@@ -48,7 +48,7 @@ We don't think that Cllr John should worry too much about property developers - 
 It should be noted that most of these developments didn't entail the huge transfer of public land that the Heygate development requires. So the case for revealing the facts and the figures that allowed this to happen - without getting the affordable housing in return - is that much stronger, and as the Information Commissioner said in his report: disclosure is __ _"heavily in the public interest"_ __. 
 
 
-<font size="1"><p id="footnote-1">[1] This is based on an expected average sales value of £700 per sq foot (269,000sq ft total = £188m). The Strata [achieved £615 per sq foot](http://www.24dash.com/news/housing/2010-10-14-strata-inside-the-marmite-tower) on average. Plus 13,000 sq ft of retail in One the Elephant's pavilion = approx value between £5-10m) </p></font>
+<font size="1"><p id="footnote-1">[1] This is based on an expected average sales value of £815 per sq foot, which was the average sales price [achieved](http://www.colliers.com/~/media/Files/EMEA/UK/research/residential/201202-central-london-residential-market.pdf) by the Strata tower.  __One the Elephant__ comprises 269,000sq ft of residential floorspace in total; the total expected residential sales is therefore £219m (269k X £815), plus 13,000 sq ft of retail in __One the Elephant__'s pavilion with an approximate value of £10m.</p></font>
 
  
 

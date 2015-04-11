@@ -28,7 +28,7 @@ While we know what has happened to the secure tenants, Southwark can supply no i
 We are still gathering information about leaseholders. What we know so far is that they have moved furthest of all residents, as the following illustration shows:  
 </br><h3>
 [Heygate Leaseholder Displacement Map](https://maps.google.co.uk/maps/ms?msid=206540700955382422085.0004ddeb74e646a7276ee&msa=0&ll=51.541211,0.223846&spn=0.699521,1.234589)</h3>(using data submitted by Southwark Council at the Feb 2013 Heygate CPO Public Inquiry)  
-[{% img http://betterelephant.github.com/images/LeaseholderDisplacement1.png %}](https://maps.google.co.uk/maps/ms?msid=206540700955382422085.0004ddeb74e646a7276ee&msa=0&ll=51.541211,0.223846&spn=0.699521,1.234589)
+[{% img http://crappistmartin.github.io/images/LeaseholderDisplacement3.png %}](https://maps.google.co.uk/maps/ms?msid=206540700955382422085.0004ddeb74e646a7276ee&msa=0&ll=51.541211,0.223846&spn=0.699521,1.234589)
 
 
 Around half have relocated to SE postcodes (including Woolwich, Thamesmead and Welling), most of the rest have had to move to suburbs such as Sidcup, St. Albans, Chelmsford, Croydon, Bexleyheath, Ilford, Romford, Dartford, Cheshunt, Mitcham and West Thurrock. The reason for this is clear: the very low levels of compensation leaseholders have received for their Heygate homes. [This link](/images/LBSHeygateacquisitionsOct2012.xls) has a full list of the amounts paid to Heygate leaseholders. It is compiled from information received through Freedom of Information requests, and includes an indexed column showing today's value of the settlements.

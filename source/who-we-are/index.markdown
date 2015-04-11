@@ -23,4 +23,4 @@ We don't believe that the existing regeneration plans are set to benefit all mem
 
 </br></br></br></br>
 
-For more information please contact: __admin@35percent.org__
+For more information please contact: <a href="mailto:35percentelephant@gmail.com">35percentelephant@gmail.com</a>

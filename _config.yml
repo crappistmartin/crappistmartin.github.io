@@ -4,7 +4,7 @@
 
 url: http://www.35percent.org
 title: 35% Campaign
-subtitle: Campaigning for a more affordable Elephant & Castle
+subtitle: For a more affordable Elephant
 author: EAN
 simple_search: https://www.google.com/search
 description: Campaigning for compliance with affordable housing policies at the Elephant & Castle
@@ -41,7 +41,7 @@ rdiscount:
     - smart
 highlighter: pygments # default python pygments have been replaced by pygments.rb
 
-paginate: 10          # Posts per page on the blog index
+paginate: 1          # Posts per page on the blog index
 paginate_path: "posts/:num"  # Directory base for pagination URLs eg. /posts/2/
 recent_posts: 5       # Posts in the sidebar Recent Posts section
 excerpt_link: "Read on &rarr;"  # "Continue reading" link text at the bottom of excerpted articles
@@ -70,7 +70,7 @@ github_show_profile_link: true
 github_skip_forks: true
 
 # Twitter
-twitter_user: betterelephant
+twitter_user: 35percent_EAN
 twitter_tweet_button: true
 
 # Google +1

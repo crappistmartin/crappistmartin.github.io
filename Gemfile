@@ -1,5 +1,13 @@
 source "https://rubygems.org"
 
+require 'rbconfig'
+gem 'rb-kqueue', '>= 0.2'
+if RbConfig::CONFIG['target_os'] =~ /bsd|dragonfly/i
+  gem 'rb-kqueue', '>= 0.2'
+  gem 'ffi', github: 'carpetsmoker/ffi', ref: 'ac63e07f7'
+  gem 'celluloid', '~> 0.16.0.pre'
+end
+
 group :development do
   gem 'rake', '~> 10.0'
   gem 'jekyll', '~> 2.0'
