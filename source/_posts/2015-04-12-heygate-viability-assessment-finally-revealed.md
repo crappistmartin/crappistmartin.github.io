@@ -7,11 +7,24 @@ comments: true
 
 Here's link to West Grove Price list: http://heygatewashome.org/img/WestGrove_EP.pdf
 
-<img src="http://crappistmartin.github.io/images/ViabilityAssessment.png" width="250" align="right">After months of heel dragging by Southwark Council, Lend Lease's viability assessment for the Heygate development was finally disclosed today. Adrian Glasspool received the document from Southwark Council two and a half years after his [initial request](https://www.whatdotheyknow.com/request/viability_assessment_for_plannin?unfold=1) in 2012. Southwark had rejected his request and appealed after his subsequent complaint to the Information Commissioner had been [upheld](http://ico.org.uk/~/media/documents/decisionnotices/2013/fer_0461281.ashx). A long battle through the Tribunal system culminated in a 6 day [hearing](http://35percent.org/blog/2014/02/11/heygate-tribunal-hearing-extended/) in February this year and was followed by a [decision notice](http://35percent.org/blog/2014/05/10/foi-appeal-decision/) issued by the Information Tribunal in May last year, which [directed](http://heygate.github.io/img/FirstTierDecisionHeygate.pdf) Southwark to release the assessment minus some of its financial modelling figures[^1]. Following a further dispute about which figures were allowed to be withheld, the Tribunal reconvened in January and issued a [final decision](http://www.informationtribunal.gov.uk/DBFiles/Decision/i1505/London%20Borough%20of%20Southwark%20EA.2013.0162%20%2810.3.15%29%202nd%20Decision.pdf) in March. The Heygate case has since triggered decisions to disclose viability information for other large regeneration schemes including [Earls Court regeneration](http://ico.org.uk/~/media/documents/decisionnotices/2013/fer_0491596.ashx) and [Greenwich Peninsula](http://ico.org.uk/~/media/documents/decisionnotices/2014/fer_0524770.pdf). 
+<img src="http://crappistmartin.github.io/images/ViabilityAssessment.png" width="250" align="right">After months of heel dragging by Southwark Council, Lend Lease's viability assessment for the Heygate development was finally disclosed today. Adrian Glasspool received the document from Southwark Council two and a half years after his [initial request](https://www.whatdotheyknow.com/request/viability_assessment_for_plannin?unfold=1) in 2012. Southwark had rejected his request and appealed after his subsequent complaint to the Information Commissioner had been [upheld](http://ico.org.uk/~/media/documents/decisionnotices/2013/fer_0461281.ashx). A long battle through the Tribunal system culminated in a 6 day [hearing](http://35percent.org/blog/2014/02/11/heygate-tribunal-hearing-extended/) in February this year and was followed by a [decision notice](http://35percent.org/blog/2014/05/10/foi-appeal-decision/) issued by the Information Tribunal in May last year, which [directed](http://heygate.github.io/img/FirstTierDecisionHeygate.pdf) Southwark to release the assessment minus some of its financial modelling figures[^1]. Following a further dispute about which figures were allowed to be withheld, the Tribunal reconvened and issued a [final decision](http://www.informationtribunal.gov.uk/DBFiles/Decision/i1505/London%20Borough%20of%20Southwark%20EA.2013.0162%20%2810.3.15%29%202nd%20Decision.pdf) in March this year. The Heygate case has since triggered decisions to disclose viability information for other large regeneration schemes including [Earls Court regeneration](http://ico.org.uk/~/media/documents/decisionnotices/2013/fer_0491596.ashx) and [Greenwich Peninsula](http://ico.org.uk/~/media/documents/decisionnotices/2014/fer_0524770.pdf). 
 
 
-## Our first impressions
-We are still digesting much of the information disclosed, but the first point that struck us is that __Unviable doesn't mean unprofitable:__  
+# Our first impressions
+## Viability benchmark
+We are still digesting much of the information disclosed, but the first thing we have learned is that __unviable doesn't mean unprofitable.__ A viability assessment tests to see if a development provides an 'acceptable' level of developer's return (i.e. profit). This provides the 'viability benchmark' against which the projected profit of the development is compared to see if it's viable. If the viability assessment shows an estimated profit below the 'viablity benchmark' then the affordable housing is reduced until the profit increases to the benchmark level. 
+
+We know from the leaked Heygate Regeneration Agreement that Southwark had agreed a 20% developer's return for Lend Lease, so we were perplexed as to why this key figure was one which Southwark & Lend Lease fought so bitterly to withhold. But now we know why: the viability assessment used a higher level of developer's return than the 20% that had been agreed with Southwark. [img pg. 28]
+
+
+
+
+Cost of the social rented units -> how much to build?
+How many social rented units could one have built with the gap?
+
+
+
+
 Whilst the development is not viable enough to provide the required levels of affordable housing, Lend Lease is set to make a profit of £xxxm, plus a 2.6% 'Project Management Fee'[^2] on this £1bn development.
 
 [img insert cut-out of para 10.1. ]
