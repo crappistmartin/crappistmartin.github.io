@@ -1,10 +1,12 @@
 ---
 layout: post
-title: "Manifesto for the destruction of council estates"
-date: 2015-03-28 13:22:05 +0000
+title: Manifesto for the destruction of council estates
+date: "2015-03-28 13:22:05 +0000"
 comments: true
-categories: 
+categories: null
+published: true
 ---
+
 {% img right /images/adonis.png 300 200 %}The prestigious __Institute of Public Policy Research (IPPR)__ has published a [policy paper](http://www.ippr.org/publications/city-villages-more-homes-better-communities) that proposes the wholesale demolition of London's council estates, in the name of regeneration and to allow for the creation of so-called 'City Villages'. 
 
 The paper is the brainchild of New Labour peer [Lord Adonis](http://en.wikipedia.org/wiki/Andrew_Adonis,_Baron_Adonis) and includes a chapter by Southwark council leader Peter John. 
@@ -24,6 +26,8 @@ Both his Lordship and Councillor John acknowledge that this can all be a bit con
 
 We beg to differ; over the past 10 years estate regenerations have [lost us 8,000 social rented units](https://www.london.gov.uk/media/assembly-press-releases/2015/02/8000-social-homes-lost-in-a-decade), while increasing free-market housing ten-fold and doubling the overall housing density. The lessons that we've learned are that anyone who stands in the way of a regeneration - whether council tenant or leaseholder - is going to lose their home and will unlikely be able to afford any of the new ones.
 
+We are not the only ones to take issue with his Lordship's policy proposals; Duncan Bowie, member of the EC of London Labour Housing Group and former advisor to Ken Livingstone has published a [detailed critique](https://redbrickblog.wordpress.com/2015/03/31/city-villages-the-wrong-solution-to-londons-housing-crisis/) of Adonis's proposals, which he describes as _'grossly out of touch'_. 
+
 ## Aylesbury planning application - get your tickets now!
 The date of the planning committee meeting for the Aylesbury redevelopment applications has been set back from the 14th April, possibly to the 21st April. The council has said it is expecting 'much interest' and it's likely that the meeting will be ticketed, which requires anyone wishing to attend to register with the council beforehand. Health and safety concerns are clearly uppermost in Southwark council's mind and will no doubt mean that numbers will also be limited.
 
@@ -32,10 +36,4 @@ The date of the planning committee meeting for the Aylesbury redevelopment appli
 ## P.S. - IPPR makes a couple of good suggestions 
 To return to the IPPR policy paper - it does make one or two constructive suggestions, such as the recommendation that __ _"At a minimum, tenants should be balloted on regeneration schemes"_ __. Cllr John couldn't have read this bit, because of course the Aylesbury residents [gave a resounding 'NO'](http://www.theguardian.com/society/2001/dec/27/1) to regeneration when they were balloted in 2001.
 
-Another recommendation __ _"Transparency about the future tenure mix is essential from the outset"_ __ is also absent from the Aylesbury redevelopment; as we saw in our last two blog posts, Notting Hill Housing's definition of social rented tenure is as clear as mud and it has also been [reported](http://www.theguardian.com/society/2015/mar/29/tenants-face-70m-rent-rise-as-social-housing-converted-to-affordable-homes) to be converting its existing social tenancies at an alarming rate. 
-
-
-
- 
-
-
+Another recommendation __ _"Transparency about the future tenure mix is essential from the outset"_ __ is also absent from the Aylesbury redevelopment; as we saw in our last two blog posts, Notting Hill Housing's definition of social rented tenure is as clear as mud and it has also been [reported](http://www.theguardian.com/society/2015/mar/29/tenants-face-70m-rent-rise-as-social-housing-converted-to-affordable-homes) to be converting its existing social tenancies at an alarming rate.
