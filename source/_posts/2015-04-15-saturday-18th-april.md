@@ -11,6 +11,12 @@ http://www.london-se1.co.uk/news/view/8192
 ## 81 Homes mayor question
 http://questions.london.gov.uk/QuestionSearch/searchclient/questions/question_281359
 
+## The Exchange
+Maybe we should knock on Mr and Mrs Levent's door and ask how much rent they pay?
+http://www.southwark.gov.uk/news/article/1837/councils_housing_partners_reach_milestone_in_southwark
+
+
+
 ## Elmington
 GLA planning report says _"The Edmund Street proposal is intending to provide 192 market homes, 24 intermediate homes, 41 social rented homes and 22 affordable rented homes. This equates to 31.1% affordable housing by unit (all tenures) and 68.8% private, market sale housing. This level of affordable housing is very low for an estate regeneration scheme, and unlikely to be acceptable, even in the context of the Southwark planning policy which requires a minimum of 35% private housing in new developments in this area."_ (Para. 31)
 
