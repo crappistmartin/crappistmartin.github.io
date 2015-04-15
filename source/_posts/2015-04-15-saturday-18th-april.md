@@ -27,9 +27,14 @@ http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!J5kImYW5llmj0
 Elmington deed of variation: http://planbuild.southwark.gov.uk/documents/?casereference=14/AP/4012&system=DC
 
 ## Aylesbury outline planning application officer's report published
-![](https://pbs.twimg.com/media/CCou9dGWMAEQshn.png)                                  ![](https://pbs.twimg.com/media/CCoxHXoWYAAyHtv.png)                                                                                                     
-![](https://pbs.twimg.com/media/CCoz1JKW4AAmeJb.png) 
+Big reduction in open amenity space justified on grounds that "clearer distinction between public an private realm will result in a clear sense of ownership"..
+![](https://pbs.twimg.com/media/CCou9dGWMAEQshn.png)
+Looks like all public realm is going to be privately managed:
 ![](https://pbs.twimg.com/media/CCo3RrxW8AEWRN1.png)
+Confusion over what 'target rent' has been cleared up but it could be 31st July before we know what the legal definition wording is..
+![](https://pbs.twimg.com/media/CCoxHXoWYAAyHtv.png)                                                                                                     
+![](https://pbs.twimg.com/media/CCoz1JKW4AAmeJb.png) 
+
 
 ## Heygate viability assessment about to be released?
 
