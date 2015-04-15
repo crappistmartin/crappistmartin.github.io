@@ -20,7 +20,7 @@ http://www.london.gov.uk/sites/default/files/planning_decisions-edmund_street_se
 Officer's report: http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!XXOecz%2bOmRk2JFLLeX0iRw%3d%3d!%7d%7d%7d
 See para. 73 - 41 social rented units.
 
-![](/images/elmingtons106.png)
+![](http://35percent.org/images/elmingtons106.png)
 S106 agreement:
 http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!J5kImYW5llmj0BA4PEvWpw%3d%3d!%7d%7d%7d
 
