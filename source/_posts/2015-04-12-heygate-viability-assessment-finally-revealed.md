@@ -23,7 +23,11 @@ We know this because it's stated in the Regeneration Agreement between Southwark
 
 ![](image of regen agrement cutout 20%)
 
-But why didn't the council's planning officers pick up on this and flag it up when the viability assessment was submitted?
+So the question is why didn't the council's planning officers pick up on this when the viability assessment was submitted?
+
+The answer is that twofold:
+
+a) they didn't take a good look at it because they relied on the DVS to 
 
 According to the council's Tribunal evidence, because of its highly confidential status only one planning officer was given access to the viability assessment. This planning officer 
 Neither could she open it entirely because of her version of excel.
