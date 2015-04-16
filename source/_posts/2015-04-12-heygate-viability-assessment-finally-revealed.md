@@ -5,7 +5,7 @@ title: Heygate Viability Assessment finally revealed
 comments: true
 ---
 
-<img src="http://crappistmartin.github.io/images/ViabilityAssessment.png" width="250" align="right">After [three years of appeals](chronology.pdf) by Southwark Council & development partner Lend Lease, Adrian Glasspool finally received the Heygate viability assessment in response to his May 2012 [FOI/EIR request](https://www.whatdotheyknow.com/request/viability_assessment_for_plannin?unfold=1). Southwark had initially rejected his request and appealed after his subsequent complaint to the Information Commissioner had been [upheld](http://ico.org.uk/~/media/documents/decisionnotices/2013/fer_0461281.ashx). A long battle through the Tribunal system then culminated in a 6 day [hearing](http://35percent.org/blog/2014/02/11/heygate-tribunal-hearing-extended/) in February last year, which was followed by a [decision notice](http://35percent.org/blog/2014/05/10/foi-appeal-decision/) issued by the Information Tribunal in May last year [directing](http://heygate.github.io/img/FirstTierDecisionHeygate.pdf) Southwark to release the assessment minus some of its financial modelling figures[^1]. Following a further dispute about which figures were allowed to be withheld, the Tribunal reconvened and issued a [final decision](http://www.informationtribunal.gov.uk/DBFiles/Decision/i1505/London%20Borough%20of%20Southwark%20EA.2013.0162%20%2810.3.15%29%202nd%20Decision.pdf) in March this year. The Heygate case has since triggered decisions to disclose viability information for other large regeneration schemes including [Earls Court regeneration](http://ico.org.uk/~/media/documents/decisionnotices/2013/fer_0491596.ashx) and [Greenwich Peninsula](http://ico.org.uk/~/media/documents/decisionnotices/2014/fer_0524770.pdf). 
+<img src="http://crappistmartin.github.io/images/ViabilityAssessment.png" width="250" align="right">After three years of appeals by Southwark Council & development partner Lend Lease, Adrian Glasspool finally received the Heygate viability assessment in response to his May 2012 [FOI/EIR request](https://www.whatdotheyknow.com/request/viability_assessment_for_plannin?unfold=1). Southwark had initially rejected his request and appealed after his subsequent complaint to the Information Commissioner had been [upheld](http://ico.org.uk/~/media/documents/decisionnotices/2013/fer_0461281.ashx). A long battle through the Tribunal system then culminated in a 6 day [hearing](http://35percent.org/blog/2014/02/11/heygate-tribunal-hearing-extended/) in February last year, which was followed by a [decision notice](http://35percent.org/blog/2014/05/10/foi-appeal-decision/) issued by the Information Tribunal in May last year [directing](http://heygate.github.io/img/FirstTierDecisionHeygate.pdf) Southwark to release the assessment minus some of its financial modelling figures[^1]. Following a further dispute about which figures were allowed to be withheld, the Tribunal reconvened and issued a [final decision](http://www.informationtribunal.gov.uk/DBFiles/Decision/i1505/London%20Borough%20of%20Southwark%20EA.2013.0162%20%2810.3.15%29%202nd%20Decision.pdf) in March this year. The Heygate case has since triggered decisions to disclose viability information for other large regeneration schemes including [Earls Court regeneration](http://ico.org.uk/~/media/documents/decisionnotices/2013/fer_0491596.ashx) and [Greenwich Peninsula](http://ico.org.uk/~/media/documents/decisionnotices/2014/fer_0524770.pdf). 
 
 
 # Our first impressions
@@ -29,7 +29,7 @@ So the question is why did the council's planning officers fail to pick up on th
 
 The answer is twofold:
 
-a) they didn't take a good look at it because they relied on the DVS to 
+a) as already [reported](http://www.independent.co.uk/voices/comment/when-councils-shroud-their-deals-with-private-developers-in-secrecy-you-get-the-feeling-somethings-up-9161072.html) the council's planning officers didn't look at the viability assessment - partly because of confidentiality, partly because they didn't have the expertise and relied on the DVS to do the job. 
 
 According to the council's Tribunal evidence, because of its highly confidential status only one planning officer was given access to the viability assessment. This planning officer 
 Neither could she open it entirely because of her version of excel.
@@ -37,7 +37,12 @@ Chinese Wall
 She sent it to the DVS - who were also not informed that 20% developers return had been agreed contractually. 
 
 None of the council's planning officers could open the viability assessment: In his
-witness statement, Southwark's Director of Planning makes a point of saying that the VA was sent to the DVS because "none of the council's planning officers has the expertise to analyse a viability assessment"(para 41) and that the council was unable to examine the assumptions in the viability assessment because "the council's computer systems were not compatible with the version of Excel used." (para 70)
+witness statement, Southwark's Director of Planning makes a point of saying that the VA was sent to the DVS because _"none of the council's planning officers has the expertise to analyse a viability assessment"_(para 41) 
+
+Find SBevan quote where he says it was sent directly to DVS.
+
+
+and that the council was unable to examine the assumptions in the viability assessment because "the council's computer systems were not compatible with the version of Excel used." (para 70)
 
 
 In summary: the viability assessment required a higher developer's profit than the 20% agreed contractually. As explained by Given the 
