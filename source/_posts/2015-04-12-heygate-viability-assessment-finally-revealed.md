@@ -25,6 +25,10 @@ We know this because it's stated in the Regeneration Agreement between Southwark
 
 But why didn't the council's planning officers pick up on this and flag it up when the viability assessment was submitted?
 
+According to the council's Tribunal evidence, because of its highly confidential status only one planning officer was given access to the viability assessment. This planning officer 
+Neither could she open it entirely because of her version of excel.
+Chinese Wall
+She sent it to the DVS - who were also not informed that 20% developers return had been agreed contractually. 
 
 
 
