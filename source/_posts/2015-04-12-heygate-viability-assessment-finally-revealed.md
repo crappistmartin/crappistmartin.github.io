@@ -23,9 +23,9 @@ We know this because it's stated in the Regeneration Agreement between Southwark
 
 ![](image of regen agrement cutout 20%)
 
-So the question is why didn't the council's planning officers pick up on this when the viability assessment was submitted?
+So the question is why did the council's planning officers fail to pick up on this when the viability assessment was submitted?
 
-The answer is that twofold:
+The answer is twofold:
 
 a) they didn't take a good look at it because they relied on the DVS to 
 
