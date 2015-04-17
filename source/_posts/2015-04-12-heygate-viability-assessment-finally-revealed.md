@@ -41,7 +41,9 @@ As a result of these concerns and, as confirmed in the Director of Planning's ev
 
 But Southwark ultimately failed to implement this crucial DVS recommendation. It's planning officer's report says "so unviable that it's not worth including a review mechanism". 
 
-As a result 
+As a result flats that were predicted to sell for £600 per sqft are now selling for an average of £900 per sqft.
+Here's link to West Grove Price list: http://heygatewashome.org/img/WestGrove_EP.pdf
+
 
 { imgfromappendix12conclusion private values on the site should be 600 - 700 per square foot }
 
@@ -52,31 +54,15 @@ In fact, Lend Lease's viability assessment estimated that its private flats in b
 
 
 
-
-
-
-
-
-We reported in a previous blog that developers of the Neo Bankside development had undervalued their development by £143m in order to avoid providing any on-site affordable housing. Only a relatively small proportion of the Heygate new-build flats have been sold to date so we don't know yet how much it has been undervalued by, but we do know that the flats are currently on sale for significantly more than the viability assessment estimate of £xxx/sqft. We found a total of [34 properties](http://github.io/heygate-new-build-sales/) on Zoopla advertising new-builds for sale on the Heygate masterplan site, the average £/sqft sale price of these was £792/sqft.   
-
-Here's link to West Grove Price list: http://heygatewashome.org/img/WestGrove_EP.pdf
-
-
 Strata achieved £829 per square foot (http://www.colliers.com/~/media/Files/EMEA/UK/research/residential/201202-central-london-residential-market.pdf)
 
 With Lend Lease having sold just 20% of its units so far, it has xxx new homes coming forward over the next 10 years before the Heygate development is due to complete in 2025. Any further increase in sales values will be converted directly into Lend Lease profit. Despite recommendations from the DVS, there is no effective review mechanism in the planning permission that will allow the affordable housing contribution to benefit from any improved viability of the scheme.   
 
-According to Simon Bevan evidence, the DVS recommended _"that there should be some level of safeguarding by way of a review mechanism linked with delivery."_(para 92).
 
-But planning officer's report says "so unviable that it's not worth including a review mechanism". 
-
-
-
-The viability assessment enabled LL to forgo the payment of £90m worth of affordable housing(10%).
 
 
 <h2>Balance Sheet</h2>
-It also has to be borne in mind that it has lost 1,000 council houses and has displaced 179 leaseholders. Most of the affordable housing it is getting in return is not affordable and is getting just 79 social rented units. 
+It also has to be borne in mind that it has lost 1,000 council houses and has displaced 179 leaseholders. Most of the affordable housing it is getting in return is not affordable and is getting just 74 social rented units. 
 
 The viability assessment is a long and complicated document and they said we were too dum to understand it, but we have many sympathetic friends with the knowledge to understand it and we will be reporting on their views. 
 
@@ -87,9 +73,6 @@ In the meantime here is a short summary of some of the other things we found out
 
 link to question - £59k spent on barristers fees paid by LL : http://moderngov.southwark.gov.uk/documents/s47631/Members%20Question%20Time%20Report%20with%20responses.pdf
 
-Page 46 shows average sales revenues for developments at the Elephant: http://www.southwark.gov.uk/download/downloads/id/6770/s106_tariff_development_viability_report
-
-2013 Heygate CIL viability study: http://www.southwark.gov.uk/download/downloads/id/10170/cde1_cil_viability_study_-_appendices
 
 
 
