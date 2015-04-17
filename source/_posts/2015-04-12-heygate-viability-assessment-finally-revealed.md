@@ -30,15 +30,22 @@ The answer is - the planning officers didn't read the viability assessment, they
 ### Underestimations
 Southwark's Director of Planning goes on to explain that the _"DVS will interrogate the data"_ and in many cases _"ask the developer to provide further information to support the projected figures"_ but that _"council officers will not be directly involved in the discussions"_. The DVS will then _"provide a report to the council"_ but that the _"council keeps DVS's report strictly confidential also"_.  
 
-We don't know what the DVS report says because the council has rejected our FOI/EIR request for a copy of it. This is now the subject of a referral to the Information Commissioner. But we do know from the Director of Planning's evidence that the _"DVS considered that a number of the projections in the viability assessment were too conservative. For example, the projected values of the units in the high-rise blocks were too low"_ and we know that the viability assessment estimated these to sell for between £600 - £700 per sqft:
+We don't know what the DVS report says because the council has rejected our FOI/EIR request for a copy of it. This is now the subject of a referral to the Information Commissioner. But we do know from the Director of Planning's evidence that the _"DVS considered that a number of the projections in the viability assessment were too conservative. For example, the projected values of the units in the high-rise blocks were too low"_. The DVS report flagged up Lend Lease's overall £600 per sqft average sales projection in the viability assessment as a problem, mainly due to the lack of any comparable evidence: 
+
+![](/images/DVSreport_extract.png)
+
+
+and we know that the viability assessment estimated these to sell for between £600 - £700 per sqft:
 
 { imgfromappendix12conclusion private values on the site should be 600 - 700 per square foot }
 
-In fact Lend Lease's viability assessment estimated that its private flats in both high and low-rise blocks would sell for an overall average of £598 per sqft:
+In fact, Lend Lease's viability assessment estimated that its private flats in both high and low-rise blocks would sell for an overall average of £598 per sqft:
 
 { imgof main report cutout }
 
-that to  DVS recommended _"DVS suggested that there should be some level of safeguarding by way of a review mechanism linked with delivery."_(para 92).
+![](/images/DVSreport_extract.png)
+
+The DVS report expressed concerns that the estimated sales values were "conservative.. etc" and recommended "review mechanism". This is confirmed in the Director of Planning's evidence: _"The DVS suggested that there should be some level of safeguarding by way of a review mechanism linked with delivery."_(para 92).
 
 But planning officer's report says "so unviable that it's not worth including a review mechanism". 
 
