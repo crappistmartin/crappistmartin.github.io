@@ -39,7 +39,11 @@ As a result of these concerns and, as confirmed in the Director of Planning's ev
 ![](DVSreviewmechanism.png)
 
 
-But Southwark ultimately failed to implement this crucial DVS recommendation. It's planning officer's report says "so unviable that it's not worth including a review mechanism". 
+But Southwark ultimately failed to implement this crucial DVS recommendation. Its justification for not doing so is found in the planning case officer's report. She claims that DVS says 9.4% is viable level and gap is so large that it's not worth including a review mechanism". 
+
+But then we found out that 9.4% was just one of 28 scenarios:
+
+[](/images/DVS28scenarios.png)
 
 As a result flats that were predicted to sell for £600 per sqft are now selling for an average of £900 per sqft.
 Here's link to West Grove Price list: http://heygatewashome.org/img/WestGrove_EP.pdf
