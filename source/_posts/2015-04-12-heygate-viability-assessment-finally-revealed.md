@@ -18,48 +18,30 @@ This minimum profit requirement provides the 'viability benchmark' against which
  
 In justifying its high profit requirement, Lend Lease's Development Director explained in his [Tribunal evidence](https://www.dropbox.com/s/ljlg8vgt2zywied/RobHeasmanLegallyPrivileged%26Confidential.pdf) that _"Lend Lease is, of course, a profit-making company and, as a listed company, is responsible to its shareholders"_(para 57); and that _"if investors do not have confidence that they will earn an adequate rate of return on their investment, the project will not be fundable."_(para 58)
 
-The second thing to strike us came when we realised that not only was Lend Lease requiring a high profit margin, but its 24% requirement in the viability assessment was higher than the 20% it had agreed contractually in its partnership agreement with the council. 
-
-We know this because it's stated in the Regeneration Agreement between Southwark and Lend Lease, which was accidentally leaked in 2013:
+The second thing to strike us came when we realised that not only was Lend Lease requiring a high profit margin, but its 24% requirement in the viability assessment was higher than the 20% it had agreed contractually in its Regeneration Partnership Agreement with the council. We know this because agreement was accidentally leaked in 2013:
 
 
 ![](image of regen agrement cutout 20%)
 
-So the question is why did the council's planning officers fail to pick up on this when the viability assessment was submitted?
-
-The answer is twofold:
-
-a) as already [reported](http://www.independent.co.uk/voices/comment/when-councils-shroud-their-deals-with-private-developers-in-secrecy-you-get-the-feeling-somethings-up-9161072.html) the council's planning officers didn't look at the viability assessment - partly because of confidentiality, partly because they didn't have the expertise and relied on the DVS to do the job. 
-
-According to the council's Tribunal evidence, because of its highly confidential status only one planning officer was given access to the viability assessment. This planning officer 
-Neither could she open it entirely because of her version of excel.
-Chinese Wall
-She sent it to the DVS - who were also not informed that 20% developers return had been agreed contractually. 
-
-None of the council's planning officers could open the viability assessment: In his
-witness statement, Southwark's Director of Planning makes a point of saying that the VA was sent to the DVS because _"none of the council's planning officers has the expertise to analyse a viability assessment"_(para 41) 
-
-Find SBevan quote where he says it was sent directly to DVS.
+So the question is - how did the council's planning officers fail to pick up on this when the viability assessment was submitted?
+The answer is - the planning officers didn't read the viability assessment, they sent it directly to the District Valuer Service (DVS). In his Tribunal evidence, the council's Director of Planning explained that __ _"None of the council's planning officers has the expertise to analyse a viability assessment. The council's planning officers refer all viability assessments, without exception, either to the District Valuer Service, or to the council's internal Property Valuation team."_ __(para 41). 
 
 
-and that the council was unable to examine the assumptions in the viability assessment because "the council's computer systems were not compatible with the version of Excel used." (para 70)
+### Underestimations
+Southwark's Director of Planning goes on to explain that the _"DVS will interrogate the data"_ and in many cases _"ask the developer to provide further information to support the projected figures"_ but that _"council officers will not be directly involved in the discussions"_. The DVS will then _"provide a report to the council"_ but that the _"council keeps DVS's report strictly confidential also"_.  
+
+We don't know what the DVS report says because the council has rejected our FOI/EIR request for a copy of it. This is now the subject of a referral to the Information Commissioner. But we do know from the Director of Planning's evidence that the _"DVS considered that a number of the projections in the viability assessment were too conservative. For example, the projected values of the units in the high-rise blocks were too low"_ and that to  DVS recommended _"that there should be some level of safeguarding by way of a review mechanism linked with delivery."_(para 92).
+
+But planning officer's report says "so unviable that it's not worth including a review mechanism". 
 
 
-In summary: the viability assessment required a higher developer's profit than the 20% agreed contractually. As explained by Given the 
-Comment from Bob/Pat "astonished that the local authority would accept "
-Southwark didn't open viability assessment - it sent it straight to DVS. DVS didn't know that 20% profit had been agreed
-
-Cost of the social rented units -> how much to build?
-How many social rented units could one have built with the gap?
-
-City of London Benchmark for IRR is 14-18%: http://www.cityoflondon.gov.uk/services/environment-and-planning/planning/planning-policy/local-development-framework/Documents/CIL-viability-assessment.pdf
-
-Neo Bankside devlopers content with 13% profit and Tribeca square with 12%. Why Lend Lease requires 20% and how did it get away with putting in a higher figure for the purposes of the viability assessment?
-
-Developers of the Neo Bankside development were happy with a 13% profit margin in their [viability assessment](http://planningonline.southwark.gov.uk/DocsOnline/Documents/6014_1.pdf) and this was a development on private land with no council involvement. We don't understand why Lend Lease is requiring 20% when the lions share of the risk is borne clearly by the council.
 
 
-## Underestimations
+
+
+
+
+
 We reported in a previous blog that developers of the Neo Bankside development had undervalued their development by £143m in order to avoid providing any on-site affordable housing. Only a relatively small proportion of the Heygate new-build flats have been sold to date so we don't know yet how much it has been undervalued by, but we do know that the flats are currently on sale for significantly more than the viability assessment estimate of £xxx/sqft. We found a total of [34 properties](http://github.io/heygate-new-build-sales/) on Zoopla advertising new-builds for sale on the Heygate masterplan site, the average £/sqft sale price of these was £792/sqft.   
 
 Here's link to West Grove Price list: http://heygatewashome.org/img/WestGrove_EP.pdf
@@ -85,7 +67,7 @@ The viability assessment is a long and complicated document and they said we wer
 
 Watch this space!
 
-In the meantime here is a short summary of some of the other things we found out from the viability assessment and Tribunal evidence accompanied by a chronology of proceedings.[link to pdf of factsheet]() 
+In the meantime here is a short summary of some of the other things we found out from the viability assessment and Tribunal evidence accompanied by a chronology of proceedings.[link to pdf of factsheet]() (add paragraph on 'data room' suggestion)
 
 
 link to question - £59k spent on barristers fees paid by LL : http://moderngov.southwark.gov.uk/documents/s47631/Members%20Question%20Time%20Report%20with%20responses.pdf
