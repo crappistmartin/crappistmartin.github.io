@@ -8,20 +8,33 @@ comments: true
 ![](http://crappistmartin.github.io/images/Tribunalfolderssmall.jpg)
 After three years of appeals by Southwark Council & development partner Lend Lease, Adrian Glasspool has finally received the Heygate viability assessment in response to his [May 2012 FOI/EIR request](https://www.whatdotheyknow.com/request/viability_assessment_for_plannin?unfold=1). Southwark had initially rejected his request and appealed after his subsequent complaint to the Information Commissioner had been [upheld](http://ico.org.uk/~/media/documents/decisionnotices/2013/fer_0461281.ashx). A long battle through the Tribunal system then culminated in a 6 day [hearing](http://35percent.org/blog/2014/02/11/heygate-tribunal-hearing-extended/) in February last year, followed by a [decision notice](http://heygate.github.io/img/FirstTierDecisionHeygate.pdf) directing Southwark to release the assessment minus some of its financial modelling figures[^1]. Following a further dispute about which figures were allowed to be withheld, the Tribunal reconvened and issued a [final decision](http://www.informationtribunal.gov.uk/DBFiles/Decision/i1505/London%20Borough%20of%20Southwark%20EA.2013.0162%20%2810.3.15%29%202nd%20Decision.pdf) in March this year. The Heygate case has since triggered decisions to disclose viability information for other large regeneration schemes including [Earls Court regeneration](http://ico.org.uk/~/media/documents/decisionnotices/2013/fer_0491596.ashx) and [Greenwich Peninsula](http://ico.org.uk/~/media/documents/decisionnotices/2014/fer_0524770.pdf). 
 
+As well as the viability assessment, the 35% campaign has also received a heavily redacted copy of the District Valuer Service appraisal of the viability assessment, commissioned by Southwark council.  
 
 ## First impressions
 1. Profitability assessment- not viability assessment
 ![](http://crappistmartin.github.io/images/ViabilityAssessment.png)
-It is clear from the disclosed information that __unviable doesn't mean unprofitable.__ A viability assessment tests to see if a development provides an 'acceptable' level of developer's return (i.e. profit margin) - not whether it breaks even.
+Lend Lease commissioned Savills to produce the viability assessment and it is clear from the disclosed information that __unviable doesn't mean unprofitable.__ Savills tested to see how the development could provide an 'acceptable' level of return (i.e. profit margin) - and sets the level of affordable housing accordingly.
  
 2. 25% is the acceptable level of profit
-Lend Lease thought that 25% was an acceptable level of profit and the minimum needed to test the viability of the scheme - 'the viability benchmark'. This is 5% more than the 20% agreed in the Regeneration Partnership Agreement with Southwark council. 
+Savills settled on 25% as an acceptable level of profit and the minimum needed to test the viability of the scheme - 'the viability benchmark'. 
 
-The affordable housing was reduced until the profit reached the 25% benchmark level. The number of social rented units were consequently reduced from the 432[^2] required by policy [to just 74](/affordable-housing) and the total number of 'affordable' homes to 603 units. 
+![](http://crappistmartin.github.io/images/RAdevelopersreturn.png)
 
-In cash terms this 25% margin amounts to about £300m[^3]. This does not mean that Lend Lease will make any more profit than the 20% agreed in the Regeneration Agreement (in cash terms ca. £250m)[^4], but it does inflate the projected development costs and allow the consequent reduction of affordable housing.
+Savills says this:
+
+Savills don't say why they didn't use the 20% profit Lend Lease and Southwark had negotiated in the [Regeneration Partnership Agreement](https://southwarknotes.files.wordpress.com/2013/02/ra.pdf) (page 83)
 
 ![](http://crappistmartin.github.io/images/viabilitybenchmark.png)
+
+
+The affordable housing was reduced until the profit reached this 25% benchmark level. The number of social rented units being consequently reduced from the 432[^2] required by policy [to just 74](/affordable-housing) and the total number of 'affordable' homes to 603 units. 
+
+In cash terms this 25% margin amounts to around £300m[^3].  This does not mean that Lend Lease will make any more profit than the 20% agreed in the Regeneration Agreement (in cash terms ca. £250m)[^4], but it does inflate the projected development costs and allow the consequent reduction of affordable housing.
+
+
+
+
+
 
 
 The second thing to strike us came when we realised that not only was Lend Lease's 25% profit requirement high, but it was higher than the 20% that had been agreed contractually and we know this from page 83 of the [Regeneration Partnership Agreement](https://southwarknotes.files.wordpress.com/2013/02/ra.pdf) which was [accidentally leaked](http://www.newstatesman.com/news/2013/02/southwark-accidentally-leaks-confidential-information) in 2013:
