@@ -6,7 +6,7 @@ comments: true
 ---
 
 ![](http://crappistmartin.github.io/images/Tribunalfolderssmall.jpg)
-After three years of appeals by Southwark Council & development partner Lend Lease, Adrian Glasspool has finally received the Heygate viability assessment in response to his [May 2012 FOI/EIR request](https://www.whatdotheyknow.com/request/viability_assessment_for_plannin?unfold=1). Southwark had initially rejected his request and appealed after his subsequent complaint to the Information Commissioner had been [upheld](http://ico.org.uk/~/media/documents/decisionnotices/2013/fer_0461281.ashx). A long battle through the Tribunal system then culminated in a 6 day [hearing](http://35percent.org/blog/2014/02/11/heygate-tribunal-hearing-extended/) in February last year, followed by a [decision notice](http://heygate.github.io/img/FirstTierDecisionHeygate.pdf) directing Southwark to release the assessment minus some of its financial modelling figures[^1]. Following a further dispute about which figures were allowed to be withheld, the Tribunal reconvened and issued a [final decision](http://www.informationtribunal.gov.uk/DBFiles/Decision/i1505/London%20Borough%20of%20Southwark%20EA.2013.0162%20%2810.3.15%29%202nd%20Decision.pdf) in March this year. The Heygate case has since triggered decisions to disclose viability information for other large regeneration schemes including [Earls Court regeneration](http://ico.org.uk/~/media/documents/decisionnotices/2013/fer_0491596.ashx) and [Greenwich Peninsula](http://ico.org.uk/~/media/documents/decisionnotices/2014/fer_0524770.pdf). 
+After three years of appeals by Southwark Council & development partner Lend Lease, Adrian Glasspool has finally received the viability assessment for the Heygate outline masterplan in response to his [May 2012 FOI/EIR request](https://www.whatdotheyknow.com/request/viability_assessment_for_plannin?unfold=1). Southwark had initially rejected his request and appealed after his subsequent complaint to the Information Commissioner had been [upheld](http://ico.org.uk/~/media/documents/decisionnotices/2013/fer_0461281.ashx). A long battle through the Tribunal system then culminated in a 6 day [hearing](http://35percent.org/blog/2014/02/11/heygate-tribunal-hearing-extended/) in February last year, followed by a [decision notice](http://heygate.github.io/img/FirstTierDecisionHeygate.pdf) directing Southwark to release the assessment minus some of its financial modelling figures[^1]. Following a further dispute about which figures were allowed to be withheld, the Tribunal reconvened and issued a [final decision](http://www.informationtribunal.gov.uk/DBFiles/Decision/i1505/London%20Borough%20of%20Southwark%20EA.2013.0162%20%2810.3.15%29%202nd%20Decision.pdf) in March this year. The Heygate case has since triggered decisions to disclose viability information for other large regeneration schemes including [Earls Court regeneration](http://ico.org.uk/~/media/documents/decisionnotices/2013/fer_0491596.ashx) and [Greenwich Peninsula](http://ico.org.uk/~/media/documents/decisionnotices/2014/fer_0524770.pdf). 
 
 As well as the viability assessment, the 35% campaign has also received a heavily redacted copy of the District Valuer Service appraisal of the viability assessment, commissioned by Southwark council.  
 
@@ -39,18 +39,23 @@ At the Tribunal hearing council officers acknowledged that they did not actually
 
 3. Residential sales prices were underestimated
 
-An important part of the viability assessment is the anticipated sales prices of the new homes. If this is underestimated it reduces the amount of money that could be used for affordable housing. Savills estimated to sell at an average of £600 per sqft. 
+An important part of the viability assessment is the anticipated sales prices of the new homes. If this is underestimated it reduces the amount of money that could be used for affordable housing. Savills estimated to sell at an average of £600 per sqft. The actual sales values are now readily available. A quick trip to Lend Lease's marketing showroom [pic] is enough to find out homes in 'West Grove'- the latest phase of 'Elephant Park' (aka The new Heygate) are selling for an average of just over £1,000 per sqft. If we multiply this against the net internal area of the whole development, we get the staggering figure of £..
 
-At the Tribunal hearing, Southwark council officials confirmed that the __ _"DVS considered that a number of the projections in the viability assessment were too conservative. For example, the projected values of the units in the high-rise blocks were too low"_ __. The DVS report had specifically flagged up Lend Lease's sales projection in the viability assessment as problematic, mainly due to the lack of comparable developments at the Elephant: 
+The DVS was alive to the probability of an escalation in sales values, so he recommended a 'review mechanism'. He recognised that a relatively small improvement in sales values has a __ _"significant impact on the profitability and this underlines the need to have a review mechanism."_ __(ref).
 
-![](http://crappistmartin.github.io/images/DVSreport_extract.png)
+Southwark however, did not think it worth their while. The [officer's report](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!hgyBVuEH%2b8BxXry2bGRAtA%3d%3d!%7d%7d%7d) for the masterplan application said 
 
-As a result of these concerns and, as confirmed in the Director of Planning's evidence __ _"the DVS suggested that there should be some level of safeguarding by way of a review mechanism linked with delivery."_ __(para 92).
-
-![](http://crappistmartin.github.io/images/DVSreviewmechanism.png)
+__ _"Given that the development is phased and extends over a prolonged period, it would normally be expected that the viability situation should be reviewed so that in the event of an economic upturn an increased level of affordable housing could be secured. It should however be noted that the indicative viable level of 9.4% indicates that a very significant economic upturn would be required in order to bring the viability to a level of affordable housing above the 25% proposed in this application. Hence it is unlikely (in light of the current viability gap) that a review would secure any increase in the quantum of affordable housing that could be supported by the scheme."_ __  (paras. 153-154)
 
 
-But Southwark ultimately failed to implement this crucial DVS recommendation. Its justification for not doing so is found in the [planning case officer's report](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!hgyBVuEH%2b8BxXry2bGRAtA%3d%3d!%7d%7d%7d). In paragraph 150, it claims that the DVS says 9.4% is viable level and gap is so large that it's not worth including a review mechanism". 
+Southwark council acknowledges that it did not have the expertise nor the experience to appraise the viability assessment. Southwark's Director of Planning said in [evidence] given at the Tribunal __ _"None of the council's planning officers has the expertise to analyse a viability assessment. The council's planning officers refer all viability assessments, without exception, either to the District Valuer Service, or to the council's internal Property Valuation team."_ __(para 41). 
+
+This is why it had to send it to the DVS. It had so little confidence in its own ability to understand the assessment that it did not even open its critical financial model.
+
+__ _"The [financial] model could not be opened as the file was incompatible with the Council's computer systems."_ __(para. 73)
+
+Nonetheless, despite being so dependent on the District Valuer Southwark ignored his criticism of the profit level and ignored his recommendation that there should be a review mechanism. As a result Southwark has lost 358 social rented homes, while Lend Lease stands to make whacking profits. 
+
 
 But then we found out that 9.4% was just one of 28 scenarios:
 
@@ -68,8 +73,6 @@ In fact, Lend Lease's viability assessment estimated that its private flats in b
 
 
 
-
-Strata achieved £829 per square foot (http://www.colliers.com/~/media/Files/EMEA/UK/research/residential/201202-central-london-residential-market.pdf)
 
 With Lend Lease having sold just 20% of its units so far, it has xxx new homes coming forward over the next 10 years before the Heygate development is due to complete in 2025. Any further increase in sales values will be converted directly into Lend Lease profit. Despite recommendations from the DVS, there is no effective review mechanism in the planning permission that will allow the affordable housing contribution to benefit from any improved viability of the scheme.   
 
