@@ -1,24 +1,27 @@
 ---
 layout: post
-published: true 
+published: true
 title: Heygate Viability Assessment finally revealed
 comments: true
 ---
-[{% img right /images/Tribunalfolderssmall.jpg 400 300 %}](/images/Tribunalfolders.jpg)After three years of appeals by Southwark Council & development partner Lend Lease, Adrian Glasspool has finally received the Heygate viability assessment in response to his May 2012 [FOI/EIR request](https://www.whatdotheyknow.com/request/viability_assessment_for_plannin?unfold=1). Southwark had initially rejected his request and appealed after his subsequent complaint to the Information Commissioner had been [upheld](http://ico.org.uk/~/media/documents/decisionnotices/2013/fer_0461281.ashx). A long battle through the Tribunal system then culminated in a 6 day [hearing](http://35percent.org/blog/2014/02/11/heygate-tribunal-hearing-extended/) in February last year, which was followed by a [decision notice](http://35percent.org/blog/2014/05/10/foi-appeal-decision/) issued by the Information Tribunal in May last year [directing](http://heygate.github.io/img/FirstTierDecisionHeygate.pdf) Southwark to release the assessment minus some of its financial modelling figures[^1]. Following a further dispute about which figures were allowed to be withheld, the Tribunal reconvened and issued a [final decision](http://www.informationtribunal.gov.uk/DBFiles/Decision/i1505/London%20Borough%20of%20Southwark%20EA.2013.0162%20%2810.3.15%29%202nd%20Decision.pdf) in March this year. The Heygate case has since triggered decisions to disclose viability information for other large regeneration schemes including [Earls Court regeneration](http://ico.org.uk/~/media/documents/decisionnotices/2013/fer_0491596.ashx) and [Greenwich Peninsula](http://ico.org.uk/~/media/documents/decisionnotices/2014/fer_0524770.pdf). 
+
+![](/images/Tribunalfolderssmall.jpg)
+After three years of appeals by Southwark Council & development partner Lend Lease, Adrian Glasspool has finally received the Heygate viability assessment in response to his May 2012 [FOI/EIR request](https://www.whatdotheyknow.com/request/viability_assessment_for_plannin?unfold=1). Southwark had initially rejected his request and appealed after his subsequent complaint to the Information Commissioner had been [upheld](http://ico.org.uk/~/media/documents/decisionnotices/2013/fer_0461281.ashx). A long battle through the Tribunal system then culminated in a 6 day [hearing](http://35percent.org/blog/2014/02/11/heygate-tribunal-hearing-extended/) in February last year, which was followed by a [decision notice](http://35percent.org/blog/2014/05/10/foi-appeal-decision/) issued by the Information Tribunal in May last year [directing](http://heygate.github.io/img/FirstTierDecisionHeygate.pdf) Southwark to release the assessment minus some of its financial modelling figures[^1]. Following a further dispute about which figures were allowed to be withheld, the Tribunal reconvened and issued a [final decision](http://www.informationtribunal.gov.uk/DBFiles/Decision/i1505/London%20Borough%20of%20Southwark%20EA.2013.0162%20%2810.3.15%29%202nd%20Decision.pdf) in March this year. The Heygate case has since triggered decisions to disclose viability information for other large regeneration schemes including [Earls Court regeneration](http://ico.org.uk/~/media/documents/decisionnotices/2013/fer_0491596.ashx) and [Greenwich Peninsula](http://ico.org.uk/~/media/documents/decisionnotices/2014/fer_0524770.pdf). 
 
 
 ## First impressions => not a viability but profitability assessment
-{% img  left http://crappistmartin.github.io/images/ViabilityAssessment.png 250 300 %}The first thing that struck us from the disclosed information is that __unviable doesn't mean unprofitable.__ A viability assessment tests to see if a development provides an 'acceptable' level of developer's return (i.e. profit margin) - not whether it breaks even.
+![](http://crappistmartin.github.io/images/ViabilityAssessment.png)
+The first thing that struck us from the disclosed information is that __unviable doesn't mean unprofitable.__ A viability assessment tests to see if a development provides an 'acceptable' level of developer's return (i.e. profit margin) - not whether it breaks even.
  
 This minimum developer's return provides the 'viability benchmark' against which the projected profit is compared. If the projected profit is below the 'viablity benchmark' then affordable housing is reduced until the profit margin increases to the benchmark level. In this case Lend Lease claimed it required 25% profit as its viability benchmark and the number of social rented units were consequently reduced from the 432[^2] required by policy [to just 74](/affordable-housing) as a result. 
 
-[{% img /images/viabilitybenchmark.png %}]()
+![](/images/viabilitybenchmark.png)
  
 In justifying its high profit requirement, Lend Lease's Development Director explained in his [Tribunal evidence](https://www.dropbox.com/s/ljlg8vgt2zywied/RobHeasmanLegallyPrivileged%26Confidential.pdf) that _"Lend Lease is, of course, a profit-making company and, as a listed company, is responsible to its shareholders"_(para 57); and that _"if investors do not have confidence that they will earn an adequate rate of return on their investment, the project will not be fundable."_(para 58)
 
 The second thing to strike us came when we realised that not only was Lend Lease's 25% profit requirement relatively high, but it was higher than the 20% that had been agreed contractually and we know this from the [Regeneration Partnership Agreement](https://southwarknotes.files.wordpress.com/2013/02/ra.pdf) which was [accidentally leaked](http://www.newstatesman.com/news/2013/02/southwark-accidentally-leaks-confidential-information) in 2013:
 
-{% img center /images/RAdevelopersreturn.png %}
+![](/images/RAdevelopersreturn.png)
 
 So the question is - how did the council's planning officers fail to pick up on this when the viability assessment was submitted?
 The answer is - the planning officers didn't read the viability assessment, they sent it directly to the District Valuer Service (DVS). In his Tribunal evidence, the council's Director of Planning explained that __ _"None of the council's planning officers has the expertise to analyse a viability assessment. The council's planning officers refer all viability assessments, without exception, either to the District Valuer Service, or to the council's internal Property Valuation team."_ __(para 41). 
@@ -40,7 +43,7 @@ But Southwark ultimately failed to implement this crucial DVS recommendation. It
 
 But then we found out that 9.4% was just one of 28 scenarios:
 
-[](/images/DVS28scenarios.png)
+![](/images/DVS28scenarios.png)
 
 As a result flats that were predicted to sell for £600 per sqft are now selling for an average of £900 per sqft.
 Here's link to West Grove Price list: http://heygatewashome.org/img/WestGrove_EP.pdf
