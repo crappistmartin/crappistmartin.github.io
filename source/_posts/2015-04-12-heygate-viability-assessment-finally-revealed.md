@@ -25,22 +25,22 @@ No explanation is given as to why 25% profit was used as the benchmark, rather t
 
 The DVS was not impressed with this explanation. __ _"I do not adopt the profit benchmark that Savills have adopted.."_ __
 
+He goes on:
+
+![](http://crappistmartin.github.io/images/DVSacceptablereturn.png)
+
 Nonetheless, the 25% figure (equivalent to approx £300m[^4]) was used as the benchmark.
 
 This does not mean that Lend Lease will make any more profit than the 20% agreed in the Regeneration Agreement (in cash terms ca. £250m)[^4], but it does inflate the projected development costs and allow the consequent reduction of affordable housing, to meet the higher benchmark figure and in the event the number of social rented units was reduced from the 432[^3] required by policy [to just 74](/affordable-housing) and the total number of 'affordable' homes to 603 units. 
 
 At the Tribunal hearing council officers acknowledged that they did not actually see the assessment themselves, but depended entirely upon the DVS. He said that 25% profit was too high and the Regeneration Agreement has 20% so why did Southwark allow 25% to be used?
 
-![](http://crappistmartin.github.io/images/DVSacceptablereturn.png)
-
-So the question is - how did the council's planning officers fail to pick up on this when the viability assessment was submitted?
-The answer is - the planning officers didn't read the viability assessment, they sent it directly to the District Valuer Service (DVS). In his Tribunal evidence, the council's Director of Planning explained that __ _"None of the council's planning officers has the expertise to analyse a viability assessment. The council's planning officers refer all viability assessments, without exception, either to the District Valuer Service, or to the council's internal Property Valuation team."_ __(para 41). 
 
 
-### Underestimations
-Southwark's Director of Planning goes on to explain that the __ _"DVS will interrogate the data"_ __ and in many cases __ _"ask the developer to provide further information to support the projected figures"_ __ but that __ _"council officers will not be directly involved in the discussions"_ __. The DVS will then __ _"provide a report to the council"_ __ but that the __ _"council keeps DVS's report strictly confidential also"_ __.  
+## Underestimations
 
-We made an FOI/EIR request for a copy of the DVS report and the council provided us with a heavily redacted one, so we don't know exactly what the District Valuer said about the ... . This is now the subject of a referral to the Information Commissioner. But we do know from the Director of Planning's evidence that the __ _"DVS considered that a number of the projections in the viability assessment were too conservative. For example, the projected values of the units in the high-rise blocks were too low"_ __. The DVS report had specifically flagged up Lend Lease's sales projection in the viability assessment as problematic, mainly due to the lack of comparable sales at the Elephant: 
+
+We know from the Director of Planning's evidence that the __ _"DVS considered that a number of the projections in the viability assessment were too conservative. For example, the projected values of the units in the high-rise blocks were too low"_ __. The DVS report had specifically flagged up Lend Lease's sales projection in the viability assessment as problematic, mainly due to the lack of comparable sales at the Elephant: 
 
 ![](http://crappistmartin.github.io/images/DVSreport_extract.png)
 
