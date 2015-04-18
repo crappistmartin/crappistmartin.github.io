@@ -5,12 +5,6 @@ title: Saturday 18th April
 comments: true
 ---
 
-## Adonis visits Heygate
-http://www.london-se1.co.uk/news/view/8192
-
-## 81 Homes mayor question
-http://questions.london.gov.uk/QuestionSearch/searchclient/questions/question_281359
-
 ## The Exchange
 Maybe we should knock on Mr and Mrs Levent's door and ask how much rent they pay?
 http://www.southwark.gov.uk/news/article/1837/councils_housing_partners_reach_milestone_in_southwark
