@@ -21,6 +21,7 @@ Savills settled on 25% as an acceptable level of profit and the minimum needed t
 ![](http://crappistmartin.github.io/images/RAdevelopersreturn.png)
 
 Savills says this:
+![](http://crappistmartin.github.io/images/savillsdr.png)
 
 Savills don't say why they didn't use the 20% profit Lend Lease and Southwark had negotiated in the [Regeneration Partnership Agreement](https://southwarknotes.files.wordpress.com/2013/02/ra.pdf) (page 83)
 
