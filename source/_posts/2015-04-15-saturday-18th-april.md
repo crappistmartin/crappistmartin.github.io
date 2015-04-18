@@ -13,9 +13,9 @@ http://www.southwark.gov.uk/news/article/1837/councils_housing_partners_reach_mi
 
 ## Elmington
 
-## Aylesbury estate planning applications to be decided this week
+## Aylesbury redevelopment - day of decision
 
-The planning applications for the redevelopment of the Aylesbury estate are to be considered by Southwark council's planning commitee on Thursday. 
+The planning applications for the redevelopment of the Aylesbury estate are to be considered by Southwark council's planning commitee on Thursday. Officers recommend that approval be granted - their report can be found here.
 
 ## We don't have any social rented properties here" (Notting Hill Housing spokesperson).
 
@@ -24,19 +24,25 @@ We previously blogged about the Notting Hill Housing's development at the Bermon
 
 We can confirm that there indeed is no social rented housing at the Exchange - see quote above. We have also learned through local councillors that the rents charged are affordable rents and they range from 42% market rent for 3 beds to 63% market rent for the 1 beds (averaging 58% market rents).
 
-The Exchange isn't alone - another Notting Hill Housing development (Elmington estate regeneration) has had its social rented units changed in the same way.
+The Exchange isn't alone - another Notting Hill Housing development (Elmington estate regeneration) has a definition of social rented housing that allows the same kind of tenure change.
 
 ![](http://35percent.org/images/elmingtons106.png)
 S106 agreement:
 http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!J5kImYW5llmj0BA4PEvWpw%3d%3d!%7d%7d%7d
 
+Concern about the same thing happening on the Aylesbury has been amplified by Notting Hill Housing's use of the term 'target rent', which has raised great suspicion amongst local people. On the very eve of the Planning application committee hearing Notting Hill were obliged to send [letters] to all objectors 'clarifying' amongst other things that the term 'target rent' means social rent. 
+However, Notting Hill Housing's [Development Partnership Agreement](http://35percent.org/images/LBS_NHHT_DPAgreement.pdf) for the Aylesbury has no such definiton; 'target rent' is defined with a vague reference to a 'target' and 'formula' set by government, without any reference to the term social rent or the National Rent Regime regulatory framework which governs it. Past planning committees have had the wool pulled over their eyes by Notting Hill Housing. If the same happens again on Thursday the we can add the loss of roughly 1300 social rented units promised by Notting Hill to the 44 units lost at Bermondsey Spa and the 41 units lost on the Elmington estate. 
+
+![](http://crappistmartin.github.io/images/Aylesbury_targetrents.png)
 
 
 
-GLA planning report says _"The Edmund Street proposal is intending to provide 192 market homes, 24 intermediate homes, 41 social rented homes and 22 affordable rented homes. This equates to 31.1% affordable housing by unit (all tenures) and 68.8% private, market sale housing. This level of affordable housing is very low for an estate regeneration scheme, and unlikely to be acceptable, even in the context of the Southwark planning policy which requires a minimum of 35% private housing in new developments in this area."_ (Para. 31)
 
-_"A viability appraisal has been submitted to support the proposed level of affordable housing as this is currently being independently assessed to determine whether the proposed level of private housing is required to cross-subsidise the reprovision of affordable housing at 31% and whether there is potential for the site to deliver an increased level of affordable housing. Southwark Council is assessing the viability appraisal in house and the results of this assessment are also awaited at the time of writing, although it is understood that the use of site acquisition cost in the appraisal has been raised as a concern."_ (Para. 32)
-http://www.london.gov.uk/sites/default/files/planning_decisions-edmund_street_se5_report.pdf
+
+
+
+
+
 
 Officer's report: http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!XXOecz%2bOmRk2JFLLeX0iRw%3d%3d!%7d%7d%7d
 See para. 73 - 41 social rented units.
