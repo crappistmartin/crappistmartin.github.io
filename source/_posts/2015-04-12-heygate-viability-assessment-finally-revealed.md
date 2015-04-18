@@ -57,39 +57,9 @@ __ _"The [financial] model could not be opened as the file was incompatible with
 Nonetheless, despite being so dependent on the District Valuer Southwark ignored his criticism of the profit level and ignored his recommendation that there should be a review mechanism. As a result Southwark has lost 358 social rented homes, while Lend Lease stands to make whacking profits. 
 
 
-But then we found out that 9.4% was just one of 28 scenarios:
-
-![](http://crappistmartin.github.io/images/DVS28scenarios.png)
-
-As a result flats that were predicted to sell for £600 per sqft are now selling for an average of £900 per sqft.
-Here's link to West Grove Price list: http://heygatewashome.org/img/WestGrove_EP.pdf
+ http://heygatewashome.org/img/WestGrove_EP.pdf
 
 
-{ imgfromappendix12conclusion private values on the site should be 600 - 700 per square foot }
-
-In fact, Lend Lease's viability assessment estimated that its private flats in both high and low-rise blocks would sell for an overall average of £598 per sqft:
-
-{ imgof main report cutout }
-
-
-
-
-With Lend Lease having sold just 20% of its units so far, it has xxx new homes coming forward over the next 10 years before the Heygate development is due to complete in 2025. Any further increase in sales values will be converted directly into Lend Lease profit. Despite recommendations from the DVS, there is no effective review mechanism in the planning permission that will allow the affordable housing contribution to benefit from any improved viability of the scheme.   
-
-
-
-
-<h2>Balance Sheet</h2>
-It also has to be borne in mind that it has lost 1,000 council houses and has displaced 179 leaseholders. Most of the affordable housing it is getting in return is not affordable and is getting just 74 social rented units. 
-
-The viability assessment is a long and complicated document and they said we were too dum to understand it, but we have many sympathetic friends with the knowledge to understand it and we will be reporting on their views. 
-
-Watch this space!
-
-In the meantime here is a short summary of some of the other things we found out from the viability assessment and Tribunal evidence accompanied by a chronology of proceedings.[link to pdf of factsheet]() (add paragraph on 'data room' suggestion)
-
-
-link to question - £59k spent on barristers fees paid by LL : http://moderngov.southwark.gov.uk/documents/s47631/Members%20Question%20Time%20Report%20with%20responses.pdf
 
 
 
