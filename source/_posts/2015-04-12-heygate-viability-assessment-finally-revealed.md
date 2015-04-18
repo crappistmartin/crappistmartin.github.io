@@ -37,10 +37,11 @@ At the Tribunal hearing council officers acknowledged that they did not actually
 
 
 
-## Underestimations
+3. Residential sales prices were underestimated
 
+An important part of the viability assessment is the anticipated sales prices of the new homes. If this is underestimated it reduces the amount of money that could be used for affordable housing. Savills estimated to sell at an average of £600 per sqft. 
 
-We know from the Director of Planning's evidence that the __ _"DVS considered that a number of the projections in the viability assessment were too conservative. For example, the projected values of the units in the high-rise blocks were too low"_ __. The DVS report had specifically flagged up Lend Lease's sales projection in the viability assessment as problematic, mainly due to the lack of comparable sales at the Elephant: 
+At the Tribunal hearing, Southwark council officials confirmed that the __ _"DVS considered that a number of the projections in the viability assessment were too conservative. For example, the projected values of the units in the high-rise blocks were too low"_ __. The DVS report had specifically flagged up Lend Lease's sales projection in the viability assessment as problematic, mainly due to the lack of comparable developments at the Elephant: 
 
 ![](http://crappistmartin.github.io/images/DVSreport_extract.png)
 
