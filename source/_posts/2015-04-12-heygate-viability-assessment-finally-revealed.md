@@ -15,11 +15,13 @@ The first thing that struck us from the disclosed information is that __unviable
  
 This minimum developer's return provides the 'viability benchmark' against which the projected profit is compared. If the projected profit is below the 'viablity benchmark' then affordable housing is reduced until the profit margin increases to the benchmark level. In this case Lend Lease claimed it required 25% profit as its viability benchmark and the number of social rented units were consequently reduced from the 432[^2] required by policy [to just 74](/affordable-housing) as a result. 
 
+What does 25% equate to in cash terms? - according to DVS - ca. £250m.
+
 ![](http://crappistmartin.github.io/images/viabilitybenchmark.png)
  
 In justifying its high profit requirement, Lend Lease's Development Director explained in his [Tribunal evidence](https://www.dropbox.com/s/ljlg8vgt2zywied/RobHeasmanLegallyPrivileged%26Confidential.pdf) that __ _"Lend Lease is, of course, a profit-making company and, as a listed company, is responsible to its shareholders"_ __(para 57); and that __ _"if investors do not have confidence that they will earn an adequate rate of return on their investment, the project will not be fundable."_ __(para 58)
 
-The second thing to strike us came when we realised that not only was Lend Lease's 25% profit requirement relatively high, but it was higher than the 20% that had been agreed contractually and we know this from the [Regeneration Partnership Agreement](https://southwarknotes.files.wordpress.com/2013/02/ra.pdf) which was [accidentally leaked](http://www.newstatesman.com/news/2013/02/southwark-accidentally-leaks-confidential-information) in 2013:
+The second thing to strike us came when we realised that not only was Lend Lease's 25% profit requirement high, but it was higher than the 20% that had been agreed contractually and we know this from page 83 of the [Regeneration Partnership Agreement](https://southwarknotes.files.wordpress.com/2013/02/ra.pdf) which was [accidentally leaked](http://www.newstatesman.com/news/2013/02/southwark-accidentally-leaks-confidential-information) in 2013:
 
 ![](http://crappistmartin.github.io/images/RAdevelopersreturn.png)
 
@@ -30,7 +32,7 @@ The answer is - the planning officers didn't read the viability assessment, they
 ### Underestimations
 Southwark's Director of Planning goes on to explain that the __ _"DVS will interrogate the data"_ __ and in many cases __ _"ask the developer to provide further information to support the projected figures"_ __ but that __ _"council officers will not be directly involved in the discussions"_ __. The DVS will then __ _"provide a report to the council"_ __ but that the __ _"council keeps DVS's report strictly confidential also"_ __.  
 
-We don't know what the DVS report says because the council has rejected our FOI/EIR request for a copy of it. This is now the subject of a referral to the Information Commissioner. But we do know from the Director of Planning's evidence that the __ _"DVS considered that a number of the projections in the viability assessment were too conservative. For example, the projected values of the units in the high-rise blocks were too low"_ __. The DVS report had specifically flagged up Lend Lease's sales projection in the viability assessment as problematic, mainly due to the lack of comparable sales at the Elephant: 
+We made an FOI/EIR request for a copy of the DVS report and the council provided us with a heavily redacted one, so we don't know exactly what the District Valuer said about the ... . This is now the subject of a referral to the Information Commissioner. But we do know from the Director of Planning's evidence that the __ _"DVS considered that a number of the projections in the viability assessment were too conservative. For example, the projected values of the units in the high-rise blocks were too low"_ __. The DVS report had specifically flagged up Lend Lease's sales projection in the viability assessment as problematic, mainly due to the lack of comparable sales at the Elephant: 
 
 ![](http://crappistmartin.github.io/images/DVSreport_extract.png)
 
