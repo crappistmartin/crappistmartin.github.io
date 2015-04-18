@@ -12,35 +12,35 @@ As well as the viability assessment, the 35% campaign has also received a heavil
 
 ## First impressions
 1. Profitability assessment- not viability assessment
-![](http://crappistmartin.github.io/images/ViabilityAssessment.png)
 Lend Lease commissioned Savills to produce the viability assessment and it is clear from the disclosed information that __unviable doesn't mean unprofitable.__ Savills tested to see how the development could provide an 'acceptable' level of return (i.e. profit margin) - and sets the level of affordable housing accordingly.
  
 2. 25% is the acceptable level of profit
 Savills settled on 25% as an acceptable level of profit and the minimum needed to test the viability of the scheme - 'the viability benchmark'. 
+No explanation is given as to why 25% profit rather than the 20% profit on cost Lend Lease and Southwark had negotiated in the Regeneration Partnership Agreement[^2].
 
-![](http://crappistmartin.github.io/images/RAdevelopersreturn.png)
 
-Savills says this:
-![](http://crappistmartin.github.io/images/savillsdr.png)
-
-No explanation is given as to why 25% profit rather than the 20% Lend Lease and Southwark had negotiated in the [Regeneration Partnership Agreement](https://southwarknotes.files.wordpress.com/2013/02/ra.pdf) (page 83).
 
 ![](http://crappistmartin.github.io/images/viabilitybenchmark.png)
 
 
-The affordable housing was reduced until the profit reached this 25% benchmark level. The number of social rented units being consequently reduced from the 432[^2] required by policy [to just 74](/affordable-housing) and the total number of 'affordable' homes to 603 units. 
-
-In cash terms this 25% margin amounts to around £300m[^3].  This does not mean that Lend Lease will make any more profit than the 20% agreed in the Regeneration Agreement (in cash terms ca. £250m)[^4], but it does inflate the projected development costs and allow the consequent reduction of affordable housing.
 
 
-
+Savills says this:
+![](http://crappistmartin.github.io/images/savillsdr.png)
 
 
 
 
-The second thing to strike us came when we realised that not only was Lend Lease's 25% profit requirement high, but it was higher than the 20% that had been agreed contractually and we know this from page 83 of the [Regeneration Partnership Agreement](https://southwarknotes.files.wordpress.com/2013/02/ra.pdf) which was [accidentally leaked](http://www.newstatesman.com/news/2013/02/southwark-accidentally-leaks-confidential-information) in 2013:
+The affordable housing was reduced until the profit reached this 25% benchmark level. The number of social rented units being consequently reduced from the 432[^3] required by policy [to just 74](/affordable-housing) and the total number of 'affordable' homes to 603 units. 
 
-![](http://crappistmartin.github.io/images/RAdevelopersreturn.png)
+In cash terms this 25% margin amounts to around £300m[^4].  This does not mean that Lend Lease will make any more profit than the 20% agreed in the Regeneration Agreement (in cash terms ca. £250m)[^4], but it does inflate the projected development costs and allow the consequent reduction of affordable housing.
+
+
+
+
+
+
+
 
 So the question is - how did the council's planning officers fail to pick up on this when the viability assessment was submitted?
 The answer is - the planning officers didn't read the viability assessment, they sent it directly to the District Valuer Service (DVS). In his Tribunal evidence, the council's Director of Planning explained that __ _"None of the council's planning officers has the expertise to analyse a viability assessment. The council's planning officers refer all viability assessments, without exception, either to the District Valuer Service, or to the council's internal Property Valuation team."_ __(para 41). 
@@ -98,14 +98,19 @@ link to question - £59k spent on barristers fees paid by LL : http://moderngov.
 
 
 
-
+![](http://crappistmartin.github.io/images/ViabilityAssessment.png)
 
 
 [^1]: The Tribunal ruled that Lend Lease could withold its financial model in appendix 22 of the viability assessment and commercial information relating to Lend Lease's negotiations with other businesses - see paras 55 & 56 of the [decision notice](http://heygatewashome.org/img/FirstTierDecisionHeygate.pdf) respectively.  
 
-[^2]: Southwark's policy requires 35% affordable housing, 50% of which must be social rented (i.e. 17.5% of the total number of new Heygate homes (2,469) = 432).
+[^2]: See page 83 of the leaked [Regeneration Agreement](https://southwarknotes.files.wordpress.com/2013/02/ra.pdf)    
+![](http://crappistmartin.github.io/images/RAdevelopersreturn.png)
+
+[^3]: Southwark's policy requires 35% affordable housing, 50% of which must be social rented (i.e. 17.5% of the total number of new Heygate homes (2,469) = 432).
 
 [^3]: See page 2 of Lend Lease's [2013 annual report](http://phx.corporate-ir.net/External.File?item=UGFyZW50SUQ9MjA0NTA3fENoaWxkSUQ9LTF8VHlwZT0z&t=1) - para 3 (Integrated Property Model) 
+
+[^4]: link to 28 scenarios DVS report
 
 [^4]: See paragraph 50(ix) of [Lend Lease's response to the Tribunal](https://www.dropbox.com/s/rnblpa0ajaxk8em/LON_LIB1-%239487917-v1-Lend_Lease_EA_2013_0162_Response_to_LBS_Grounds_of_....pdf) - _"The Council’s costs as at January  2013  amounted  to about  £47.5  million  in  capital  expenditure  and  just under £18million in review costs  managing the estate"_.
 
