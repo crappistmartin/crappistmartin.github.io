@@ -9,7 +9,7 @@ footer: true
 {% img http://crappistmartin.github.io/images/tribeca2.jpg %}  
 The latest Elephant tower has begun to loom over the rubble of the Heygate estate. __Delancey DV4__'s _'Tribeca Square'_ is a suitably absurd name (Tribeca is a neighbourhood in Manhattan) for an absurd development - 450 student beds & 373 private residences in a [prefabricated tower](http://www.london-se1.co.uk/news/view/7609) with no affordable housing. 
 
-The Tribeca Square site was public land until 1987, it then housed an industrial estate which was demolished when the land was [sold](/images/LR_DV4Eadon2006.pdf) in 2006 to [Delancey shell company](/images/dv4.pdf) __Eadon Estates__ for £8.5m.
+{% img right http://35percent.org/images/tribeca_cropped.png 300 500 %}The Tribeca Square site was public land until 1987, it then housed an industrial estate which was demolished when the land was [sold](/images/LR_DV4Eadon2006.pdf) in 2006 to [Delancey shell company](/images/dv4.pdf) __Eadon Estates__ for £8.5m.
 
 __Delancey DV4__ is a multimillion pound real-estate developer registered in the British Virgin Islands, which has been [accussed](http://35percent.org/images/PrivateEyeNo1311.pdf) of 'aggressive tax avoidance. It is funded by George Soros and managed by [Tory donor](http://www.independent.co.uk/news/uk/politics/party-funding-tory-coffers-benefit-from-fear-of-labour-mansion-tax-9716614.html) Jamie Ritblatt. 
 
@@ -30,6 +30,8 @@ For failing to provide any on-site affordable housing, Delancey should have paid
 [{% img left http://crappistmartin.github.io/images/TribecaSquare_VA.png 200 450 %}](http://crappistmartin.github.io/images/Delancey_Tribeca_ViabilityAssessment.pdf)We show here the confidential [viability assessment](http://crappistmartin.github.io/images/Delancey_Tribeca_ViabilityAssessment.pdf) Delancey submitted for this application. It states that the completed residential flats would sell for an average of just £525 per square foot. This is well below the £829 per square foot[^3] average sales price achieved by the neighbouring [Strata Tower](http://35percent.org/strata-tower/) development. If we take this as the measure and multiply the difference by Tribeca's total residential square footage (247,079 sqft) we get a staggering £75 million undervaluation.
 
 A different comparison would be against the current sales price of flats on the neighbouring Heygate redevelopment, the cheapest of which is a 1-bed flat [currently on sale](http://www.rightmove.co.uk/new-homes-for-sale/property-48785797.html) for £415,000 giving £967 per sqft; nearly double the Delancey estimate. Multiplying the Heygate/Tribeca difference by the total Tribeca floorspace gives an undervaluation of £109m. 
+
+{% img http://35percent.org/images/tribeca_rental.png %}
 
 The huge discrepancy between estimated and actual end sales values, might be explained to some extent by rising property values in the (sometimes prolonged) period between planning approval and completion. But even time-adjusted comparisons show that the original estimates for Tribeca Square were extremely pessimistic. The result is that Southwark has lost a great deal of affordable housing and Delancey have made a great deal of profit.
 
