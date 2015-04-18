@@ -16,31 +16,22 @@ Lend Lease commissioned Savills to produce the viability assessment and it is cl
  
 2. 25% is the acceptable level of profit
 Savills settled on 25% as an acceptable level of profit and the minimum needed to test the viability of the scheme - 'the viability benchmark'. 
-No explanation is given as to why 25% profit rather than the 20% profit on cost Lend Lease and Southwark had negotiated in the Regeneration Partnership Agreement[^2].
-
-
 
 ![](http://crappistmartin.github.io/images/viabilitybenchmark.png)
 
+No explanation is given as to why 25% profit was used as the benchmark, rather than the 20% profit on cost Lend Lease and Southwark had negotiated in the Regeneration Partnership Agreement[^2], but Savills does say this:
 
-
-
-Savills says this:
 ![](http://crappistmartin.github.io/images/savillsdr.png)
 
+The DVS was not impressed with this explanation. __ _"I do not adopt the profit benchmark that Savills have adopted.."_ __
 
+Nonetheless, the 25% figure (equivalent to approx £300m[^4]) was used as the benchmark.
 
+This does not mean that Lend Lease will make any more profit than the 20% agreed in the Regeneration Agreement (in cash terms ca. £250m)[^4], but it does inflate the projected development costs and allow the consequent reduction of affordable housing, to meet the higher benchmark figure and in the event the number of social rented units was reduced from the 432[^3] required by policy [to just 74](/affordable-housing) and the total number of 'affordable' homes to 603 units. 
 
-The affordable housing was reduced until the profit reached this 25% benchmark level. The number of social rented units being consequently reduced from the 432[^3] required by policy [to just 74](/affordable-housing) and the total number of 'affordable' homes to 603 units. 
+At the Tribunal hearing council officers acknowledged that they did not actually see the assessment themselves, but depended entirely upon the DVS. He said that 25% profit was too high and the Regeneration Agreement has 20% so why did Southwark allow 25% to be used?
 
-In cash terms this 25% margin amounts to around £300m[^4].  This does not mean that Lend Lease will make any more profit than the 20% agreed in the Regeneration Agreement (in cash terms ca. £250m)[^4], but it does inflate the projected development costs and allow the consequent reduction of affordable housing.
-
-
-
-
-
-
-
+![](http://crappistmartin.github.io/images/DVSacceptablereturn.png)
 
 So the question is - how did the council's planning officers fail to pick up on this when the viability assessment was submitted?
 The answer is - the planning officers didn't read the viability assessment, they sent it directly to the District Valuer Service (DVS). In his Tribunal evidence, the council's Director of Planning explained that __ _"None of the council's planning officers has the expertise to analyse a viability assessment. The council's planning officers refer all viability assessments, without exception, either to the District Valuer Service, or to the council's internal Property Valuation team."_ __(para 41). 
