@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>The Elephant's Ivory Towers'</title>
+	<meta charset="utf-8" />
+
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+	<link rel="stylesheet" href="http://leafletjs.com/dist/leaflet.css" />
+	
+	<script>
+			CM_ATTR = 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, ' +
+					'<a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, ' +
+					'Imagery © <a href="http://cloudmade.com">CloudMade</a>';
+
+			CM_URL = 'http://{s}.tiles.mapbox.com/v3/enrico-in-w.ka4k56fp/{z}/{x}/{y}.png';
+
+			OSM_URL = 'http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png';
+			OSM_ATTRIB = '&copy; <a href="http://openstreetmap.org/copyright">OpenStreetMap</a> contributors';
+		</script>
+	
+	
+	
+</head>
+<body>
+	<div id="map" style="width: 600px; height: 400px"></div>
+
+	<script src="http://leafletjs.com/dist/leaflet.js"></script>
+	<script>
+		var map = L.map('map').setView([51.494848, -0.096676], 15);
+
+		L.tileLayer(CM_URL, {attribution: CM_ATTR, styleId: 22677}).addTo(map);
+
+		var LeafIcon = L.Icon.extend({
+			options: {
+				
+				
+				
+				iconAnchor:   [22, 94],
+			
+				popupAnchor:  [-3, -76]
+			}
+		});
+
+		var greenIcon = new LeafIcon({iconUrl: '/images/tribeca.png'}),
+			redIcon = new LeafIcon({iconUrl: '/images/heygate.png'}),
+			strataIcon = new LeafIcon({iconUrl: '/images/strata.png'}),
+			towerIcon = new LeafIcon({iconUrl: '/images/360tower.png'}),
+			eileenIcon = new LeafIcon({iconUrl: '/images/eileen.png'}),
+			orangeIcon = new LeafIcon({iconUrl: '/images/onetheelephant.png'});
+       
+	    L.marker([51.492069, -0.100023], {icon: strataIcon}).bindPopup('<strong><i>Strata Tower</strong></i></br>Private__________408</br>Intermediate______98</br>Social rented______0</br><a href="http://www.24dash.com/news/housing/2010-10-14-strata-inside-the-marmite-tower#.U0hLWV5RTLQ">Read more..</a>').addTo(map);
+		L.marker([51.497199, -0.100002], {icon: eileenIcon}).bindPopup('<strong><i>Eileen House</strong></i></br>Private________335</br>Intermediate____65</br>Social rented____0</br><a href="http://www.london-se1.co.uk/news/view/6553">Read more..</a>').addTo(map);
+		
+		L.marker([51.492724, -0.103564], {icon: towerIcon}).bindPopup('<strong><i>360 Tower</strong></i></br>Private_________462</br>Intermediate____188</br>Social rented_____0</br><a href="http://www.35percent.org/blog/2013/08/10/towering-disgrace">Read more..</a>').addTo(map);  
+		  
+		L.marker([51.494260, -0.097148], {icon: greenIcon}).bindPopup('<strong><i>Tribeca Square</strong></i></br>Private_________534</br>Intermediate_____0</br>Social rented____0</br><a href="http://www.35percent.org/blog/2013/12/07/kim-humphreys-exit-stage-left">Read more..</a>').addTo(map);
+		
+		L.marker([51.493479, -0.098264], {icon: redIcon}).bindPopup('<strong><i>Heygate Development</strong></i></br>Private___________2535</br>Intermediate_______508</br>Social rented_______79</br><a href="http://www.newstatesman.com/politics/2013/11/look-heygate-estate-whats-wrong-londons-housing">Read more..</a>').addTo(map);
+		
+		L.marker([51.493579, -0.101321], {icon: orangeIcon}).bindPopup('<strong><i>One the Elephant</strong></i></br>Private________487</br>Intermediate_____0</br>Social rented____0</br><a href="http://www.35percent.org/blog/2014/01/11/flogging-the-elephant">Read more..</a>').addTo(map);
+
+	</script>
+</body>
+</html>
+
