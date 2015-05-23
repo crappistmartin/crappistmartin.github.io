@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>http://35percent.org/blog/2015/05/23/viability-assessment-finally-revealed/</loc>
-    <lastmod>2015-05-23T10:44:23+01:00</lastmod>
-  </url>
-  <url>
     <loc>http://35percent.org/blog/2015/05/16/aylesbury-cpo-inquiry-extra-time/</loc>
     <lastmod>2015-05-16T13:54:39+01:00</lastmod>
   </url>
@@ -570,9 +566,6 @@
   </url>
   <url>
     <loc>http://35percent.org/posts/75/</loc>
-  </url>
-  <url>
-    <loc>http://35percent.org/posts/76/</loc>
   </url>
   <url>
     <loc>http://35percent.org/developments/index.html</loc>
