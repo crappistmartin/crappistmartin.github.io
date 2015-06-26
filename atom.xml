@@ -4,7 +4,7 @@
   <title><![CDATA[35% Campaign]]></title>
   <link href="http://35percent.org/atom.xml" rel="self"/>
   <link href="http://35percent.org/"/>
-  <updated>2015-06-22T23:23:42+01:00</updated>
+  <updated>2015-06-26T00:59:52+01:00</updated>
   <id>http://35percent.org/</id>
   <author>
     <name><![CDATA[EAN]]></name>
@@ -12,6 +12,119 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Heygate Viability Assessment Finally Revealed]]></title>
+    <link href="http://35percent.org/blog/2015/06/25/heygate-viability-assessment-finally-revealed/"/>
+    <updated>2015-06-25T21:47:03+01:00</updated>
+    <id>http://35percent.org/blog/2015/06/25/heygate-viability-assessment-finally-revealed</id>
+    <content type="html"><![CDATA[<p><img class="right" src="http://crappistmartin.github.io/images/Tribunalfolderssmall.jpg" width="400" height="300">
+After three years of appeals by Southwark Council and its development partner Lend Lease, Adrian Glasspool has finally received the <a href="http://35percent.org/collated-viability-assessments/">viability assessment</a> for the Heygate outline masterplan in response to his <a href="https://www.whatdotheyknow.com/request/viability_assessment_for_plannin?unfold=1">May 2012 FOI/EIR request</a>. Southwark had initially rejected the request and appealed after his subsequent complaint was <a href="http://ico.org.uk/~/media/documents/decisionnotices/2013/fer_0461281.ashx">upheld</a> by the Information Commissioner. A long battle through the Tribunal system then culminated in a 6 day <a href="http://35percent.org/blog/2014/02/11/heygate-tribunal-hearing-extended/">hearing</a> in February last year, followed by a <a href="http://heygate.github.io/img/FirstTierDecisionHeygate.pdf">decision notice</a> directing Southwark to release the assessment minus some of its financial modelling figures<sup id="fnref:1"><a href="#fn:1" rel="footnote">1</a></sup>. Following a further dispute about exactly which figures could be withheld, the Tribunal resumed and issued a <a href="http://www.informationtribunal.gov.uk/DBFiles/Decision/i1505/London%20Borough%20of%20Southwark%20EA.2013.0162%20%2810.3.15%29%202nd%20Decision.pdf">final decision</a> in March this year. The viability assessment was then received in April and after examination by sympathetic industry experts we can now disclose our findings. The Heygate tribunal case has since triggered decisions to disclose viability information for other large regeneration schemes including <a href="http://ico.org.uk/~/media/documents/decisionnotices/2013/fer_0491596.ashx">Earls Court regeneration</a> and <a href="http://ico.org.uk/~/media/documents/decisionnotices/2014/fer_0524770.pdf">Greenwich Peninsula</a>.</p>
+
+<p>As well as a copy of the disclosed viability assessment, the 35% campaign has also obtained via FOI a (heavily redacted) <a href="http://crappistmartin.github.io/images/DVSreport_HeygateOutline.pdf">copy</a> of the <a href="https://www.gov.uk/government/organisations/district-valuer-services-dvs/about">District Valuer Service</a>(DVS) appraisal of the viability assessment, commissioned by Southwark council.</p>
+
+<h2>First impressions</h2>
+
+<h3>This is a profitability assessment- not a viability assessment</h3>
+
+<p>Lend Lease commissioned Savills to produce the viability assessment and the first thing that becomes clear from the disclosed information is that <strong>unviable doesn&rsquo;t mean unprofitable.</strong> Savills tested to see how the development could provide an &lsquo;acceptable&rsquo; level of developer&rsquo;s return for Lend Lease (i.e. profit margin) - and set the level of affordable housing accordingly.</p>
+
+<h3>25% is deemed the acceptable level of profit</h3>
+
+<p>Savills settled on 25% as the acceptable level of profit and the minimum needed to test the viability of the scheme - i.e. the &lsquo;viability benchmark&rsquo;.</p>
+
+<p><img class="center" src="http://crappistmartin.github.io/images/viabilitybenchmark.png"></p>
+
+<p>But no explanation is given as to why 25% profit was used as the viability benchmark, rather than the 20% profit Lend Lease had agreed contractually with Southwark in its Partnership Agreement<sup id="fnref:2"><a href="#fn:2" rel="footnote">2</a></sup> (Southwark is a development partner in this scheme); all that Savills says is this:</p>
+
+<p><img class="center" src="http://crappistmartin.github.io/images/savillsdr.png"></p>
+
+<p>In his report on the viability assessment, the District Valuer was clearly not impressed with this explanation. <a href="http://35percent.org/images/DVSreport_HeygateOutline.pdf"><em>&ldquo;I do not adopt the profit benchmark that Savills have adopted..&rdquo;</em></a>(page 30, para. 2)</p>
+
+<p>He goes on to say:</p>
+
+<p><img class="center" src="http://crappistmartin.github.io/images/DVSacceptablereturn.png"></p>
+
+<p>Nonetheless, the 25% figure (equivalent to a cash profit of approx £300m<sup id="fnref:3"><a href="#fn:3" rel="footnote">3</a></sup>) was still used as the viability benchmark in calculating the affordable housing offer. It&rsquo;s important to note that as well as the viability assessment, <em>&ldquo;the Council keeps DVS&rsquo;s report confidential also&rdquo;</em><sup id="fnref:4"><a href="#fn:4" rel="footnote">4</a></sup>; it is not shown to planning committee councillors and there is nothing obliging the council&rsquo;s planning officers to implement or act upon any of the DVS&rsquo;s recommendations.</p>
+
+<p>The 25% required profit figure in the viability assessment serves to inflate the projected development costs and allow the consequent reduction of affordable housing. In the event, the number of social rented units was reduced from the 432<sup id="fnref:5"><a href="#fn:5" rel="footnote">5</a></sup> required by policy <a href="http://35percent.org/affordable-housing">to just 74</a>, and the total number of <a href="http://www.thelondoneconomic.com/2015/03/17/trafalgar-place-a-damning-indictment-of-affordable-housing-in-london/">&lsquo;affordable&rsquo;</a> homes from 35% to 25% (a reduction of £90m worth of affordable housing<sup id="fnref:6"><a href="#fn:6" rel="footnote">6</a></sup>).</p>
+
+<p><a href="http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!cvj%2buF2v8VRqQhUGaBSuKw%3d%3d!%7d%7d%7d"><span class='caption-wrapper'><img class='caption' src='http://crappistmartin.github.io/images/UpdatedAHStatement.png' width='' height='' title='Lend Lease's final proposed tenure mix for the Heygate masterplan site'><span class='caption-text'>Lend Lease&rsquo;s final proposed tenure mix for the Heygate masterplan site</span></span></a></p>
+
+<p>During the Tribunal hearing, council officers acknowledged that they did not actually see the viability assessment themselves, but depended entirely upon the District Valuer. However, the District Valuer said that the 25% profit margin was too high and well above the 15% average. So with this in mind and, in the knowledge that the Partnership Agreement had stipulated a lower figure (20%), why did Southwark continue to allow the 25% to be used as the viability benchmark?</p>
+
+<h3>Residential sales prices were grossly underestimated</h3>
+
+<p>An important element of the viability assessment is the anticipated sales prices of the new homes. If this is underestimated it reduces the projected profitability of the development and the amount of money available for affordable housing. The viability assessment estimated that Lend Lease&rsquo;s new flats would sell for an average of £600 per sqft<sup id="fnref:7"><a href="#fn:7" rel="footnote">7</a></sup>.</p>
+
+<p>The District Valuer flagged this up and expressed concern that Lend Lease&rsquo;s sales projections were <a href="http://crappistmartin.github.io/images/Southwark-Simon-Bevan.pdf"><em>&ldquo;too conservative&rdquo;</em></a>(para. 81). He explained that <a href="http://crappistmartin.github.io/images/DVSreport_HeygateOutline.pdf"><em>&ldquo;much of the local sales evidence is not comparable to what is proposed&rdquo;</em> and <em>&ldquo;does not give an idea of what may be achieved following redevelopment.&rdquo;</em></a>(page 40)</p>
+
+<p><span class='caption-wrapper right'><img class='caption' src='http://35percent.org/images/88_LangdaleClose_SE17.JPG' width='400' height='300' title='88 Langdale Close (comparable no. 24)'><span class='caption-text'>88 Langdale Close (comparable no. 24)</span></span>The local &lsquo;comparable&rsquo; sales evidence provided in <a href="http://crappistmartin.github.io/images/Appendix12.pdf">appendix 12</a> of the viability assessment, shows just how poor the supporting evidence is. Property number 24 on the comparables list is this 2-bed ex-council flat on a council estate straddling the Walworth/Camberwell borders; a long way from the 35-storey, concierge-serviced luxury towers Lend Lease is building up at the Elephant.</p>
+
+<p>A quick trip to Lend Lease&rsquo;s marketing showroom at the Elephant shows that its <a href="http://crappistmartin.github.io/images/WestGrovePrices.pdf">price list</a> for <a href="http://www.elephantpark.co.uk/news-and-editorial/news/west-grove-film-premiere">&lsquo;West Grove&rsquo;</a> (the latest phase to go on sale) is advertising flats for sale at an average of £1,012 per sqft - i.e. £400 per sqft more than Lend Lease&rsquo;s viability assessment estimate.</p>
+
+<h3>Why no review mechanism?</h3>
+
+<p><a href="http://35percent.org/images/LLWestGrove.PNG"><span class='caption-wrapper left'><img class='caption' src='http://35percent.org/images/LLWestGrove.PNG' width='400' height='300' title='Flats for sale on redeveloped Heygate (from £430k)'><span class='caption-text'>Flats for sale on redeveloped Heygate (from £430k)</span></span></a>As a result of his concerns about the pessimistic sales projections, the District Valuer recommended that a &lsquo;review mechanism&rsquo; be made a condition of planning consent. He recognised that even a small increase in the sales values given could have a <a href="http://35percent.org/images/DVSreport_HeygateOutline.pdf"><em>&ldquo;significant impact on the profitability and this underlines the need to have a review mechanism.&rdquo;</em></a>(page 39, para. h).</p>
+
+<p>Southwark however, did not think a review mechanism was worth their while; the case officer&rsquo;s <a href="http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!hgyBVuEH%2b8BxXry2bGRAtA%3d%3d!%7d%7d%7d">report</a> for the masterplan application said:</p>
+
+<p><a href="http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!hgyBVuEH%2b8BxXry2bGRAtA%3d%3d!%7d%7d%7d"><em>&ldquo;Given that the development is phased and extends over a prolonged period, it would normally be expected that the viability situation should be reviewed, so that in the event of an economic upturn an increased level of affordable housing could be secured. It should however be noted that the indicative viable level of 9.4%, indicates that a very significant economic upturn would be required in order to bring the viability to a level of affordable housing above the 25% proposed in this application. Hence it is unlikely (in light of the current viability gap) that a review would secure any increase in the quantum of affordable housing that could be supported by the scheme.&rdquo;</em></a>  (paras. 153-154)</p>
+
+<p>Southwark council acknowledges that it did not have the expertise nor the experience to appraise the viability assessment. Southwark&rsquo;s Director of Planning said in <a href="http://crappistmartin.github.io/images/Southwark-Simon-Bevan.pdf">evidence</a> given at the Tribunal that <em>&ldquo;None of the council&rsquo;s planning officers has the expertise to analyse a viability assessment. The council&rsquo;s planning officers refer all viability assessments, without exception, either to the District Valuer Service, or to the council&rsquo;s internal Property Valuation team.&rdquo;</em>(para 41).</p>
+
+<p>This is why it had to send the viability assessment to the District Valuer Service. It had so little confidence in its own ability to understand the assessment that it did not even open the viability assessment&rsquo;s critical financial model:</p>
+
+<p><a href="http://crappistmartin.github.io/images/Southwark-Simon-Bevan.pdf"><em>&ldquo;The [financial] model could not be opened as the file was incompatible with the Council&rsquo;s computer systems.&rdquo;</em></a>(para. 73)</p>
+
+<p>Nonetheless, despite being so dependent on the District Valuer, Southwark ignored his criticism of the profit level and ignored his recommendation that there should be a review mechanism. As a result Southwark has lost 358 social rented homes, while Lend Lease stands to make whacking profits.</p>
+
+<h2>Something Sinister</h2>
+
+<p>Southwark has spent 3 years and a significant amount of taxpayer&rsquo;s money on lawyers, arguing that local people don’t have the right to see documents that their elected councillors had based planning decisions on.</p>
+
+<p>Southwark&rsquo;s regeneration boss justified the council&rsquo;s position by <a href="http://www.insidehousing.co.uk/development/council-to-refuse-demands-about-heygate-estate/6528392.article">claiming</a> that it had <em>&ldquo;entered into negotiations with Lend Lease on a confidential basis, and I am not willing to break that agreement because a handful of people wrongly think the document contains something sinister.&rdquo;</em></p>
+
+<p>We have published the <a href="http://35percent.org/collated-viability-assessments/">disclosed viability assessment</a> on our website, and will be further exploring the information it contains in a series of blog posts to follow. In the meantime Southwark has got some serious questions to answer. As a result of the findings in a similar Tribunal case in Greenwich Peninsula, <a href="https://www.thebureauinvestigates.com/2015/05/26/dismay-doesnt-do-it-justice-how-a-secret-system-was-used-to-axe-hundreds-of-affordable-homes-on-britains-most-iconic-construction-site/">media pressure</a> forced Greenwich Council to change its policy and make all viability assessments public by default. Southwark on the other hand has shown no such humility; in response to the <a href="http://www.theguardian.com/cities/2015/jun/25/london-developers-viability-planning-affordable-social-housing-regeneration-oliver-wainwright">Guardian&rsquo;s exclusive story</a> on our findings, council leader Peter John claimed that the article was <em>&ldquo;wrong&rdquo;</em> and accused the Guardian of <em>&ldquo;crap journalism&rdquo;</em>. Guardian journalist Olly Wainwright then responded by inviting Councillor John to <em>&ldquo;get in touch if you think there are mistakes&rdquo;</em>, to which he replied <em>&ldquo;Corrected your articles previously - can&rsquo;t do it every time.&rdquo;</em></p>
+
+<p><a href="https://twitter.com/ollywainwright/status/614174166045052928"><img src="http://35percent.org/images/PJ_HeygateViabilityResponse.png"></a></p>
+
+<p>We have been campaigning for several years now around the Elephant &amp; Castle regeneration, much of which has involved trying to instigate some kind of reasoned debate around planning decisions affecting local people. We have made a point of ensuring that our criticisms are founded in fact and supported by evidence (even when information has not been made readily available). To date these criticisms have been largely ignored by Southwark council. This time the assertions are relatively serious and grounded in fact for all to see. Rather than claiming these assertions are simply <em>&ldquo;wrong&rdquo;</em> or <em>&ldquo;crap journalism&rdquo;</em>, we invite Councillor John to make a more dignified response. Beyond correcting what he believes is inaccurate, we invite him to answer two very simple questions:</p>
+
+<ul>
+<li>Why did the council fail to follow the District Valuer&rsquo;s advice in negotiating a viability review mechanism over the course of the eleven year development period?</li>
+<li>Why did it allow Lend Lease&rsquo;s viability assessment to assume a profit benchmark 5% higher than had been agreed contractually? the 5% represents approximately £50m that could have been spent on affordable housing.[^4] .</li>
+</ul>
+
+
+<p>Over to you Councillor John?..</p>
+
+<p></br>
+</br>
+</br>
+<strong>Footnotes:</strong></p>
+<div class="footnotes">
+<hr/>
+<ol>
+<li id="fn:1">
+<p>The Tribunal ruled that Lend Lease could withold its financial model in appendix 22 of the viability assessment and commercial information relating to Lend Lease&rsquo;s negotiations with other businesses - see paras 55 &amp; 56 of the <a href="http://heygatewashome.org/img/FirstTierDecisionHeygate.pdf">decision notice</a> respectively.  <a href="#fnref:1" rev="footnote">&#8617;</a></p></li>
+<li id="fn:2">
+<p>See page 83 of the leaked <a href="https://southwarknotes.files.wordpress.com/2013/02/ra.pdf">Regeneration Agreement</a>  <a href="#fnref:2" rev="footnote">&#8617;</a></p></li>
+<li id="fn:3">
+<p>See column &lsquo;Scheme Profit&rsquo; on lower section of page 36 of the <a href="http://35percent.org/images/DVSreport_HeygateOutline.pdf">District Valuer&rsquo;s report</a>.<a href="#fnref:3" rev="footnote">&#8617;</a></p></li>
+<li id="fn:4">
+<p>See paragraph 49 of the Director of Planning&rsquo;s <a href="http://crappistmartin.github.io/images/Southwark-Simon-Bevan.pdf">Tribunal evidence.</a><a href="#fnref:4" rev="footnote">&#8617;</a></p></li>
+<li id="fn:5">
+<p>Southwark&rsquo;s policy requires 35% affordable housing, 50% of which must be social rented (i.e. 17.5% of the total number of new Heygate homes (2,469) = 432).<a href="#fnref:5" rev="footnote">&#8617;</a></p></li>
+<li id="fn:6">
+<p>Total number of habitable rooms in the Heygate masterplan application was 9052. The viability assessment justified the 10% reduction in affordable housing - 10% of 9052 is 905 habitable rooms; <a href="http://35percent.org/images/affordablehousingspg.pdf">Southwark&rsquo;s tariff</a> for in-lieu affordable housing payments at the Elephant is £100,000 per habitable room; £100,000 X 905 = £90.5m.  <a href="#fnref:6" rev="footnote">&#8617;</a></p></li>
+<li id="fn:7">
+<p>See paragraph 9.1.1.4 of the <a href="http://35percent.org/images/HeygateViabilityAssessment_MainReport.pdf">main viability assessment report</a> and <a href="http://35percent.org/images/Appendix12.pdf">Appendix 12</a>.<a href="#fnref:7" rev="footnote">&#8617;</a></p></li>
+</ol>
+</div>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[£63m Public Money to Build 274 Private Homes]]></title>
@@ -60,11 +173,15 @@ Our very own <a href="http://moderngov.southwark.gov.uk/mgUserInfo.aspx?UID=116"
 <h2>Aylesbury CPO Public Inquiry</h2>
 
 <p>A date has been set for the Aylesbury CPO Inquiry to resume. The Inquiry will reconvene on Tuesday October 13th back at the Den. It is scheduled to last for two days and will hear further arguments relating to Human Rights, which the council was unable to respond to during the last hearing. This time the objectors have instructed counsel and will be represented at the hearing by a barrister from <a href="http://landmarkchambers.co.uk">Landmark Chambers</a>.</p>
+
+<p></br>
+</br>
+<strong>Footnotes:</strong></p>
 <div class="footnotes">
 <hr/>
 <ol>
 <li id="fn:1">
-<p>On 6th Jan 1999 Fiona Colley bought flat 8, Yew House, 2 Woodlands Crescent SE16 6YH (Canada Water regeneration) off-plan for £159,000 and then sold it post-construction on 31st July 2003 for £271,000. On Sept 3rd 2003, she bought flat 8, Rowan House, 3 Woodlands Crescent SE16 6YF (Canada Water regeneration) for £390,000 and then sold it in May 20th 2011 for £610,000. <a href="#fnref:1" rev="footnote">&#8617;</a></p></li>
+<p>On 6th Jan 1999 Fiona Colley purchased flat 8, Yew House, 2 Woodlands Crescent SE16 6YH (Canada Water regeneration) off-plan for £159,000 and then sold it post-construction on 31st July 2003 for £271,000. On Sept 3rd 2003, she purchased flat 8, Rowan House, 3 Woodlands Crescent SE16 6YF (Canada Water regeneration) for £390,000 and then sold it in May 20th 2011 for £610,000. <a href="#fnref:1" rev="footnote">&#8617;</a></p></li>
 </ol>
 </div>
 
@@ -518,7 +635,7 @@ Borough Triangle is the second largest development in the Elephant &amp; Castle 
 
 <p>It seems Peabody has come a long way from the philanthropic intentions it was founded on in 1862, by George Peabody who wanted to <a href="http://www.peabody.org.uk/about-us/our-story"><strong> <em>&ldquo;ameliorate the condition of the poor and needy in this great metropolis&rdquo;</em> </strong></a>.</p>
 
-<p>You can object to Peabody&rsquo;s application (ref:14/AP/3130) by sending an email to <a href="&#x6d;&#97;&#105;&#x6c;&#x74;&#111;&#58;&#112;&#x6c;&#97;&#x6e;&#x6e;&#x69;&#x6e;&#103;&#x2e;&#x61;&#x70;&#x70;&#x6c;&#x69;&#x63;&#x61;&#x74;&#x69;&#x6f;&#110;&#115;&#x40;&#115;&#x6f;&#117;&#116;&#x68;&#x77;&#x61;&#114;&#x6b;&#x2e;&#x67;&#111;&#118;&#46;&#x75;&#107;">&#112;&#108;&#x61;&#110;&#x6e;&#105;&#x6e;&#103;&#46;&#97;&#112;&#x70;&#108;&#105;&#x63;&#x61;&#116;&#x69;&#x6f;&#x6e;&#x73;&#x40;&#x73;&#111;&#117;&#x74;&#104;&#x77;&#x61;&#x72;&#x6b;&#46;&#x67;&#111;&#118;&#46;&#x75;&#x6b;</a></p>
+<p>You can object to Peabody&rsquo;s application (ref:14/AP/3130) by sending an email to <a href="&#x6d;&#97;&#105;&#108;&#116;&#x6f;&#x3a;&#112;&#x6c;&#x61;&#110;&#x6e;&#x69;&#x6e;&#103;&#46;&#x61;&#x70;&#x70;&#108;&#x69;&#99;&#x61;&#x74;&#105;&#111;&#x6e;&#x73;&#x40;&#x73;&#111;&#x75;&#x74;&#x68;&#x77;&#x61;&#114;&#107;&#x2e;&#103;&#111;&#x76;&#x2e;&#x75;&#107;">&#x70;&#x6c;&#x61;&#x6e;&#110;&#x69;&#110;&#x67;&#46;&#97;&#x70;&#x70;&#x6c;&#105;&#99;&#97;&#116;&#x69;&#111;&#x6e;&#115;&#x40;&#115;&#x6f;&#x75;&#116;&#x68;&#119;&#x61;&#114;&#x6b;&#46;&#x67;&#111;&#x76;&#46;&#117;&#107;</a></p>
 
 <h2>Peabody engages &lsquo;political intelligence&rsquo; services</h2>
 
@@ -1057,7 +1174,7 @@ The absence of any review or reappraisal mechanism in the planning approval, mea
 <h2>Cooltan Arts - threat</h2>
 
 
-<p><img class="right" src="http://www.cooltanarts.org.uk/wp-content/uploads/2013/03/DSCF4054-lr.jpg" width="300" height="200">Cooltan Arts, long term residents of the Walworth road were relocated last year on the <a href="http://www.cooltanarts.org.uk/2013/10/cooltan-arts-community-space-for-237-walworth-road/">promise</a> that they would be able to return to redveloped premises on their former site off the Walworth road. But a revised planning application for the site no longer contains this promise to reprovide space for Cooltan (nor does it contain the amount of affordable housing required by policy). Objections to the application <a href="http://planningonline.southwark.gov.uk/AcolNetCGI.exe?ACTION=UNWRAP&amp;RIPNAME=Root.PgeResultDetail&amp;TheSystemkey=9553921">ref:(14/AP/0830)</a> can still be sent to <a href="&#x6d;&#97;&#x69;&#x6c;&#116;&#111;&#x3a;&#112;&#x6c;&#x61;&#x6e;&#110;&#x69;&#x6e;&#x67;&#x2e;&#x61;&#112;&#112;&#108;&#105;&#99;&#97;&#x74;&#105;&#x6f;&#110;&#115;&#x40;&#x73;&#x6f;&#117;&#x74;&#104;&#x77;&#x61;&#114;&#107;&#x2e;&#x67;&#111;&#x76;&#x2e;&#x75;&#107;&#46;">&#112;&#x6c;&#x61;&#110;&#110;&#x69;&#110;&#103;&#x2e;&#x61;&#112;&#x70;&#x6c;&#x69;&#99;&#97;&#x74;&#105;&#111;&#110;&#x73;&#x40;&#115;&#x6f;&#117;&#116;&#104;&#119;&#x61;&#114;&#107;&#46;&#103;&#x6f;&#118;&#46;&#x75;&#x6b;&#46;</a></p>
+<p><img class="right" src="http://www.cooltanarts.org.uk/wp-content/uploads/2013/03/DSCF4054-lr.jpg" width="300" height="200">Cooltan Arts, long term residents of the Walworth road were relocated last year on the <a href="http://www.cooltanarts.org.uk/2013/10/cooltan-arts-community-space-for-237-walworth-road/">promise</a> that they would be able to return to redveloped premises on their former site off the Walworth road. But a revised planning application for the site no longer contains this promise to reprovide space for Cooltan (nor does it contain the amount of affordable housing required by policy). Objections to the application <a href="http://planningonline.southwark.gov.uk/AcolNetCGI.exe?ACTION=UNWRAP&amp;RIPNAME=Root.PgeResultDetail&amp;TheSystemkey=9553921">ref:(14/AP/0830)</a> can still be sent to <a href="&#x6d;&#x61;&#105;&#x6c;&#116;&#111;&#x3a;&#x70;&#x6c;&#x61;&#110;&#110;&#x69;&#110;&#x67;&#x2e;&#x61;&#112;&#112;&#x6c;&#105;&#x63;&#97;&#x74;&#105;&#x6f;&#110;&#115;&#64;&#115;&#x6f;&#x75;&#x74;&#x68;&#119;&#x61;&#x72;&#107;&#46;&#x67;&#x6f;&#x76;&#x2e;&#x75;&#x6b;&#x2e;">&#112;&#x6c;&#x61;&#110;&#110;&#x69;&#x6e;&#103;&#46;&#x61;&#x70;&#x70;&#108;&#x69;&#x63;&#x61;&#116;&#105;&#111;&#x6e;&#x73;&#x40;&#x73;&#x6f;&#117;&#116;&#104;&#119;&#x61;&#114;&#x6b;&#x2e;&#x67;&#111;&#x76;&#x2e;&#x75;&#x6b;&#x2e;</a></p>
 
 <h2>Developers award Southwark top marks</h2>
 
@@ -1074,38 +1191,6 @@ The absence of any review or reappraisal mechanism in the planning approval, mea
 
 
 <p>After a long appeal against the Information Commisioner&rsquo;s decision, the Information Tribunal ordered Southwark Council and Lend Lease to disclose the Heygate viability assessment back in May. The Tribunal extended the time for forwarding the assessment to the Information Commissioner back in June, but the assessment has still not been revealed. After inquiries to the Tribunal by Mr Glasspool who requested the information, a case management hearing has now been scheduled for 15th October.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Setting the Record Straight]]></title>
-    <link href="http://35percent.org/blog/2014/09/20/setting-the-record-straight/"/>
-    <updated>2014-09-20T13:15:14+01:00</updated>
-    <id>http://35percent.org/blog/2014/09/20/setting-the-record-straight</id>
-    <content type="html"><![CDATA[<p>Southwark Council has had its feathers ruffled by both the Guardian and the BBC lately. A <a href="http://www.theguardian.com/cities/2014/sep/17/truth-property-developers-builders-exploit-planning-cities">Guardian article</a> by Oliver Wainright uses the redevelopment of the Heygate estate as an example of how developers are <em>&lsquo;exploiting planning authorities and ruining our cities&rsquo;</em>.</p>
-
-<p>Southwark Council has posted a <a href="http://www.southwark.gov.uk/news/article/1785/setting_the_record_straight_the_true_value_of_the_elephant_and_castle_regeneration">press statement</a> <strong>&lsquo;setting the record straight&rsquo;</strong>, in which it claims it will receive <em>&ldquo;phased payments as the scheme progresses&rdquo;</em> and this will amount to <em>&ldquo;hundreds of millions&rdquo;</em>.</p>
-
-<p><a href="http://southwarknotes.files.wordpress.com/2013/02/ra.pdf"><img class="center" src="http://crappistmartin.github.io/images/HeygateLandReceipts.png"></a></p>
-
-<p><a href="http://southwarknotes.files.wordpress.com/2013/02/ra.pdf"><img class="right" src="http://crappistmartin.github.io/images/rapage70.png" width="400" height="620"></a>It is true that there will be phased payments amounting to £50m (£46m for the main site + £4m for the Rodney road site) - this figure is now well known from the leaked <a href="http://southwarknotes.files.wordpress.com/2013/02/ra.pdf">Regeneration Agreement</a>, but getting the <em>&ldquo;hundreds of millions&rdquo;</em> of pounds depends upon the so-called &lsquo;overage&rsquo; or &lsquo;super-profit&rsquo; and how much this will be, if anything, won&rsquo;t be known until the project is completed in 2025.</p>
-
-<p>The overage will be what is left over after building costs, a 2.6% management fee and 20% priority developer return is deducted from the total sales revenue and it will be calculated according to Lend Lease&rsquo;s financial model, as detailed in a 3000 page spreadsheet known as Appendix 22 of the Heygate viability assessment. This complicated accounting process is entirely under Lend Lease&rsquo;s control and while the Council has the right to inspect the financial model, this may not guarantee the expected overage windfall as the Barangaroo Delivery Authority in Sydney Australia <a href="http://www.smh.com.au/nsw/barangaroo-public-works-in-doubt-after-government-loses-court-battle-with-lend-lease-20140821-106lke.html">is finding out</a> to its cost.</p>
-
-<p>Any reckoning of the gain due to Southwark must also take into account the £65m<a href="#footnote-1">[1]</a> it has spent on Heygate decant costs plus an unquantified amount of public money devoted to regeneration since the wider E&amp;C scheme was conceived, starting with the £25m Single Regeneration Budget (SRB) funding received back in 1999.</p>
-
-<p>On top of the Guardian’s Heygate story the BBC has taken up the plight of Aylesbury leaseholders being &lsquo;forced out of the city&rsquo;, with an <a href="http://www.bbc.co.uk/news/uk-england-london-29098960">online article</a> and televised reports on both its London News and <a href="http://youtu.be/RtvghCKNJjQ">Inside Out programme</a> on 8th Sep. Inside Out did not think much of the paltry amount of compensation leaseholders on the Aylesbury estate were being offered, particularly in comparison to the £340k cost of one-bed properties in the area and described the situation as <em>&lsquo;the Right to Buy dream turned sour&rsquo;</em>.</p>
-
-<center>
-<iframe width="350" height="197" src="//www.youtube.com/embed/RtvghCKNJjQ" frameborder="0" allowfullscreen></iframe>
-</center>
-
-
-<p>Southwark again &lsquo;sets the record straight&rsquo; and <a href="http://www.southwark.gov.uk/news/article/1767/southwark_councils_full_response_to_bbc_inside_out_programme">insists</a> that offers such as <a href="http://35percent.org/blog/2014/05/16/southwark-gives-green-light-to-slum-landlords/">£85k for a 1-bed flat</a> are based on <em>&ldquo;actual market evidence of properties being sold on the Aylesbury estate&rdquo;</em>. This method of basing valuations on the sales prices of other properties depressed by the prospect of demolition has been <a href="http://35percent.org/blog/2014/05/30/aylesbury-leaseholder-fights-incestuous-valuation/">criticised</a> by the Lands Tribunal. Southwark Council&rsquo;s valuers are also pretty imaginative in the way they gather &lsquo;market evidence&rsquo;, using a <a href="http://35percent.org/blog/2014/05/16/southwark-gives-green-light-to-slum-landlords/">1-bed property which had been illegally converted</a> to 4 beds flat as the basis of the compensation for one unfortunate leaseholder.  The derisory compensation offered to Aylesbury leaseholders is in stark contrast to the abundant profit that the builder of the Aylesbury redevelopment Barratt has just <a href="http://www.thisismoney.co.uk/money/markets/article-2750592/Booming-UK-housing-market-fuels-doubling-annual-profits-Barratt.html">announced</a>.</p>
-
-<p>The Guardian and BBC stories reflect a wide-spread public view that developers and housebuilders are making big profits at local people’s expense and taking Southwark for a ride (an <a href="https://www.change.org/p/heygate-estate-scandal-demand-an-investigation">online petition</a> demanding an investigation into the Heygate development has gained over 700 signatures in 3 days) and a couple of press releases from Southwark won’t change this view.</p>
-
-<p><font size="2"><p id="footnote-1">[1] See paragraphs 5.34 &amp; 5.35 of the Project Director&rsquo;s Jan 2013 <a href="http://www.southwark.gov.uk/download/downloads/id/8171/proofs_of_evidence_%E2%80%93_jon_abbot_%E2%80%93_final_proof">CPO public inquiry evidence.</a> </p></font></p>
 ]]></content>
   </entry>
   
