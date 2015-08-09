@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "heygate regeneration Factsheet"
+title: "heygate regeneration"
 date: 2014-11-02 13:17
 comments: true
 sharing: true
@@ -33,7 +33,9 @@ footer: true
 
 * Southwark has argued that it is receiving other cash payments from Lend Lease and this is true, but these are statutory s106 obligations that all developers must pay to mitigate the impact of their development. The Heygate development will provide a £14m [local transport levy](http://www.planningportal.gov.uk/general/news/stories/2011/nov11/171111/171111_3) payment towards the [£160m cost](http://www.london-se1.co.uk/news/view/5293) of increasing capacity at the Northern Line tube station and a £9m [Mayoral transport levy](https://www.london.gov.uk/priorities/planning/mayoral-community-infrastructure-levy) payment towards Crossrail.[^8]
 
-[{% img left http://crappistmartin.github.io/images/500newhomes.png 400 300 %}](http://crappistmartin.github.io/images/500newhomes.png)Despite a policy requirement of 35%, the [Regeneration Agreement](http://southwarknotes.files.wordpress.com/2013/02/ra.pdf) signed by the council leader in 2010 stipulated that Lend Lease was to provide _"A minimum of 25 per cent Affordable Housing"_(pg 95), which is _"to be divided equally between Social Rented Housing and Intermediate Affordable Housing"_(page 1). However, when the planning application was submitted in Jan 2013, it provided 25% affordable housing but had largely substituted social rent for [affordable rent](http://www.theguardian.com/housing-network/2014/feb/03/affordable-housing-meaning-rent-social-housing) on the grounds of financially viability (of 2,735 new homes only 79 will be social rented). These 79 social rented homes fall well short of the 500 new homes promised to Heygate residents who had been offered the 'right to return' to the estate.[^9]
+
+Despite a policy requirement of 35%, the [Regeneration Agreement](http://southwarknotes.files.wordpress.com/2013/02/ra.pdf) signed by the council leader in 2010 stipulated that Lend Lease was to provide _"A minimum of 25 per cent Affordable Housing"_(pg 95), which is _"to be divided equally between Social Rented Housing and Intermediate Affordable Housing"_(page 1). However, when the planning application was submitted in Jan 2013, it provided 25% affordable housing but had largely substituted social rent for [affordable rent](http://www.theguardian.com/housing-network/2014/feb/03/affordable-housing-meaning-rent-social-housing) of up to 80% market on the grounds of financially viability. As a result, of the 2,704 new homes on the Heygate, 198 will be intermediate 'affordable rent', 316 shared ownership and just 82 will be social rented. These 82 social rented homes fall well short of the [500 new homes promised](/affordable-housing/) to Heygate residents who had been offered the 'right to return' to the estate.[^9]  
+[{% img http://crappistmartin.github.io/images/UpdatedAHStatement.png %}](http://planbuild.southwark.gov.uk/documents/?GetDocument=%8b%7b%7b!cvj%2buF2v8VRqQhUGaBSuKw%3d%3d!%7d%7d%7d) 
 
 | Lend Lease - Fact Box |
 |---|
@@ -49,6 +51,14 @@ He is now [working](http://35percent.org/blog/2013/12/07/kim-humphreys-exit-stag
 
 ## Dining out
 [{% img left http://crappistmartin.github.io/images/private-eye-southwark-council-developers.png 400 300 %}](http://crappistmartin.github.io/images/private-eye-southwark-council-developers.png)In July 2014, council leader Peter John came under criticism for dining with developers and accepting an all-expenses paid trip to international property fair [MIPIM](http://www.theguardian.com/commentisfree/2014/oct/14/yacht-cannes-selling-homes-local-government-officials-mipim) in Cannes, paid for by Lend Lease. (more details [here](http://embed.verite.co/timeline/?source=0Aprl6XcACewydEhRaWFOLVBfUjBSVW1HUGVZNEhGeFE&font=Bevan-PotanoSans&maptype=toner&lang=en&hash_bookmark=true&start_zoom_adjust=2&height=650#33))
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+{% img right /images/HeygateWasHome_Screenshot.png 400 300 %}Heygate residents have set up a digital archive, charting the broken promises of regeneration and the impact it had on their community. This can be accessed at: [http://heygatewashome.org](http://heygatewashome.org) 
 </br>
 </br>
 </br>

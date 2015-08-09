@@ -1,15 +1,17 @@
 ---
 layout: page
-title: "Delancey hits viability jackpot"
+title: "Delancey's Tribeca Square (Elephant Rd Development)"
 date: 2015-01-18 13:38
 comments: true
 sharing: true
 footer: true
 ---
 {% img http://crappistmartin.github.io/images/tribeca2.jpg %}  
-The latest Elephant tower has begun to loom over the rubble of the Heygate estate. __Delancey DV4__'s _'Tribeca Square'_ is a suitably absurd name (Tribeca is a neighbourhood in Manhattan) for an absurd development - 450 student beds & 373 private residences in a [prefabricated tower](http://www.london-se1.co.uk/news/view/7609) with no affordable housing. 
+The latest Elephant tower has begun to loom over the rubble of the Heygate estate. __Delancey DV4__'s _'Tribeca Square'_ is a suitably absurd name (Tribeca is a neighbourhood in Manhattan) for an absurd development - 270 student studios & 370 private residences for market rent with no affordable housing. Rents are [expected](http://35percent.org/blog/2014/07/19/community-infrastructure-levy/) to be set at around £375pw for a 1-bed and £500pw for a 2-bed.
 
-{% img right http://35percent.org/images/tribeca_cropped.png 300 500 %}The Tribeca Square site was public land until 1987, it then housed an industrial estate which was demolished when the land was [sold](/images/LR_DV4Eadon2006.pdf) in 2006 to [Delancey shell company](/images/dv4.pdf) __Eadon Estates__ for £8.5m.
+[{% imgcap right https://pbs.twimg.com/media/CBXYmc6XIAAHGsy.jpg 400 300 Tribeca's prefabricated cladding %}](https://pbs.twimg.com/media/CBXYmc6XIAAHGsy.jpg)Tribeca Square is being built entirely using an [offsite prefabricated construction technique](http://www.laingorourke.com/media/news-releases/2015/laing-o-rourke-led-consortium-awarded.aspx) pioneered by Laing (the company that built the Heygate). Even the bathrooms are [prefabricated in Dubai](http://www.london-se1.co.uk/news/view/7609).   
+</br>
+The Tribeca Square site was public land until 1987, it then housed an industrial estate which was demolished when the land was [sold](/images/LR_DV4Eadon2006.pdf) in 2006 to [Delancey shell company](/images/dv4.pdf) __Eadon Estates__ for £8.5m.
 
 __Delancey DV4__ is a multimillion pound real-estate developer registered in the British Virgin Islands, which has been [accussed](http://35percent.org/images/PrivateEyeNo1311.pdf) of 'aggressive tax avoidance. It is funded by George Soros and managed by [Tory donor](http://www.independent.co.uk/news/uk/politics/party-funding-tory-coffers-benefit-from-fear-of-labour-mansion-tax-9716614.html) Jamie Ritblatt. 
 
@@ -35,12 +37,19 @@ A different comparison would be against the current sales price of flats on the 
 
 The huge discrepancy between estimated and actual end sales values, might be explained to some extent by rising property values in the (sometimes prolonged) period between planning approval and completion. But even time-adjusted comparisons show that the original estimates for Tribeca Square were extremely pessimistic. The result is that Southwark has lost a great deal of affordable housing and Delancey have made a great deal of profit.
 
-In 2011 __Eadon Estates__ [sold](/images/LandRegistry_TribecaSquare.pdf) the site for £40m to __DV4 Eadon Ltd__ (another Delancey shell company registered in the British Virgin Islands). 
+
+[{% img left http://35percent.org/images/tribeca_cropped.png 300 500 %}](http://35percent.org/images/tribeca_cropped.png)In 2011 __Eadon Estates__ [sold](/images/LandRegistry_TribecaSquare.pdf) the site for £40m to __DV4 Eadon Ltd__ (another Delancey shell company registered in the British Virgin Islands). 
 
 In 2013 former deputy council leader Kim Humphries [resurfaced](http://35percent.org/blog/2013/12/07/kim-humphreys-exit-stage-left/) at the Elephant working for __Delancey__ as an [independent development consultant](http://carvil-ventures.co.uk/).
-
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
 ## A remedy?
-[{% img right http://crappistmartin.github.io/images/islingtonVASPD.png 200 450 %}](http://www.islington.gov.uk/services/planning/planningpol/pol_supplement/Pages/Development-Viability-Discussion-Paper-and-Questionnaire.aspx)Not every borough is quite such an easy touch as Southwark. Islington Council seems is waking up to the tactics developers use to reduce affordable housing obligations. It has recently produced a [discussion paper](http://www.islington.gov.uk/services/planning/planningpol/pol_supplement/Pages/Development-Viability-Discussion-Paper-and-Questionnaire.aspx) on viability testing, with the aim of producing a Supplementary Planning Document setting out formal guidance later this year. The [Elephant Amenity Network](http://elephantamenity.wordpress.com) has suggested that Southwark follow suit in its representations on the [New Southwark Plan](http://www.southwark.gov.uk/info/856/planning_policy/3315/the_new_southwark_plan). 
+[{% img right http://crappistmartin.github.io/images/islingtonVASPD.png 200 450 %}](http://www.islington.gov.uk/services/planning/planningpol/pol_supplement/Pages/Development-Viability-Discussion-Paper-and-Questionnaire.aspx)Not every borough is quite such an easy touch as Southwark. Islington Council seems is waking up to the tactics developers use to reduce affordable housing obligations. It has recently produced a [discussion paper](http://www.islington.gov.uk/services/planning/planningpol/pol_supplement/Pages/Development-Viability-Discussion-Paper-and-Questionnaire.aspx) on viability testing, with the aim of producing a Supplementary Planning Document setting out formal guidance later this year. The discussion paper proposes to publish all viability assessments submitted by developers by default. Greenwich Council also [recently announced](http://www.24dash.com/news/housing/2015-05-11-London-borough-to-force-developers-to-make-affordable-housing-viability-studies-fully-public) that it will be publishing all viability assessments. We are calling for Southwark council to follow suit.  
+
 </br>
 </br>
 </br>

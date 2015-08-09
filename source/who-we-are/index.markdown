@@ -6,7 +6,7 @@ sharing: true
 footer: true
 ---
 
-{% img right /images/elephantamenitylogo.jpg %}We are local residents, traders and others who have an interest in the regeneration of the Elephant & Castle. Many of us are associated with the [Elephant Amenity Network](http://elephantamenity.wordpress.com), which has 3 principles:
+{% img right /images/elephantamenitylogo.jpg %}We are local residents, traders and others who have an interest in the regeneration of the Elephant & Castle. We try to engage in planning matters ranging from housing to public realm and sustainable development. Many of us are associated with the [Elephant Amenity Network](http://elephantamenity.wordpress.com), which has 3 principles:
 
 1. Open Masterplanning
 
@@ -19,8 +19,9 @@ We don't believe that the existing regeneration plans are set to benefit all mem
 {% img right /images/spdevent2.jpg %}We have taken part in community events and helped to produce [our own ideas](http://elephantamenity.wordpress.com/2012/02/29/is-the-elephant-your-neighbourhood-summary-report/) and [vision for regeneration](http://elephantamenity.wordpress.com/2011/06/24/visioning-workshop-report/).
 </br></br></br></br></br></br></br>
 
-{% img left /images/forestfeast.jpg %} We have supported the [interim uses](http://elephantamenity.files.wordpress.com/2011/12/ean-interim-use-presentation-241111-web.pdf) and activities that have blossomed on the Heygate estate, and have engaged with developers Lend Lease as part of the consultation process for the regeneration.
+{% img left /images/forestfeast.jpg %} We have supported the [interim uses](http://elephantamenity.files.wordpress.com/2011/12/ean-interim-use-presentation-241111-web.pdf) and activities that have blossomed on the Heygate estate, and have tried to engage with developers, the council and the planning process. In the course of doing so, we have given evidence at Examinations in Public of local planning policy frameworks, the London Plan and Public Inquiries for both the Heygate and Aylesbury Compulsory Purchase Orders. 
 
 </br></br></br></br>
 
-For more information please contact: <a href="mailto:35percentelephant@gmail.com">35percentelephant@gmail.com</a>
+If you would like to get in touch please contact us at:  
+<a href="mailto:35percentelephant@gmail.com">35percentelephant@gmail.com</a>

@@ -5,7 +5,7 @@ date: 2014-12-06 09:16:18 +0000
 comments: true
 categories: 
 ---
-We [wrote](http://35percent.org/blog/2014/10/04/lets-talk-about-peters-promises/) in October about the council's plan to earmark a number of its housing estates for demolition using an ['Asset Performance Evaluation Tool'](http://crappistmartin.github.io/images/Snhat.pdf), which would take into account factors like residents' income. The results of its survey were supposed to be presented at next week's Cabinet meeting, but the [December Cabinet report](http://moderngov.southwark.gov.uk/documents/s50476/Report%20Pipeline%20for%20the%20Delivery%20of%201500%20New%20Council%20Homes.pdf) shows that this has now been postponed until January.
+We [wrote](http://35percent.org/blog/2014/10/04/lets-talk-about-peters-promises/) in October about the council's plan to earmark a number of its housing estates for demolition using an ['Asset Performance Evaluation Tool'](http://crappistmartin.github.io/images/SNhat.pdf), which would take into account factors like residents' income. The results of its survey were supposed to be presented at next week's Cabinet meeting, but the [December Cabinet report](http://moderngov.southwark.gov.uk/documents/s50476/Report%20Pipeline%20for%20the%20Delivery%20of%201500%20New%20Council%20Homes.pdf) shows that this has now been postponed until January.
 
 The [December Cabinet report](http://moderngov.southwark.gov.uk/documents/s50476/Report%20Pipeline%20for%20the%20Delivery%20of%201500%20New%20Council%20Homes.pdf) makes interesting reading: it concedes that its estate renewal programme alone may not provide enough capacity for its 11,000 proposed new 'council' homes and suggests two additional strategies:
 

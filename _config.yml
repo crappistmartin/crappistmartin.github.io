@@ -2,11 +2,11 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://www.35percent.org
+url: http://35percent.org
 title: 35% Campaign
 subtitle: For a more affordable Elephant
 author: EAN
-simple_search: https://www.google.com/search
+simple_search:
 description: Campaigning for compliance with affordable housing policies at the Elephant & Castle
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
