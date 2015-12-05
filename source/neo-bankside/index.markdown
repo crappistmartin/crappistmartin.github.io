@@ -13,7 +13,7 @@ According to the planning officer's [report](http://moderngov.southwark.gov.uk/D
 
 [{% imgcap center http://35percent.org/images/neobanksideOR.png Paragraph 97 of the planning report for Neo Bankside %}](http://moderngov.southwark.gov.uk/Data/Planning%20Committee/20061114/Agenda/Item%2064%20-%20BanksideIndustrial%20Estate,%20118-122%20Southwark%20Street,%2044%20Holland%20Street&%2047%20Hopton%20Street,%20London,%20SE1%200SW.pdf)
 
-But things haven't worked out that way and in March this year Southwark [signed off]((http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!v%2fDXoWcM7JHiLzTujQD8BQ%3d%3d!%7d%7d%7d) the affordable housing as delivered, when only 94 affordable homes have been provided by __Native Land__ of which 62 are social rented. The following is our schedule of Neo Bankside's off-site social housing provision (the information comes from the s106 agreements):
+But things haven't worked out that way and in March this year Southwark [signed off]((http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!v%2fDXoWcM7JHiLzTujQD8BQ%3d%3d!%7d%7d%7d) the affordable housing as delivered, when only 94 affordable homes have been provided by __Native Land__ of which 62 are social rented. Native Land's schedule of off-site provision is [here](/images/NeoBankside_PressRelease.pdf) and our schedule is as follows:
 
 {% imgcap center http://35percent.org/images/NeoBankside_Provision.png Schedule of Neo Bankside off-site affordable housing provision %}
 

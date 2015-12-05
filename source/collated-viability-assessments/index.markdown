@@ -41,6 +41,13 @@ Appendices:
 </br>
 </br>
 </br>
+## Wilmer Place
+[{% img left http://crappistmartin.github.io/images/wilmerplace.png 100 250 %}](http://stokeylocal.org.uk/2015/12/financial-viability-appraisals/) [Financial viability assessment](http://stokeylocal.org.uk/2015/12/financial-viability-appraisals/) for Wilmer Place - Stoke Newington High St.  
+</br>
+</br>
+</br>
+</br>
+</br>
 ## Neo Bankside
 [{% img left http://crappistmartin.github.io/images/NeoBankside_VA.png 100 250 %}](http://crappistmartin.github.io/images/NeoBankside_VA.pdf) [Financial viability assessment](http://crappistmartin.github.io/images/NeoBankside_VA.pdf) for Neo Bankside development on London's South Bank.  
 </br>

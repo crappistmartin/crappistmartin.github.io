@@ -37,15 +37,14 @@ footer: true
 Despite a policy requirement of 35%, the [Regeneration Agreement](http://southwarknotes.files.wordpress.com/2013/02/ra.pdf) signed by the council leader in 2010 stipulated that Lend Lease was to provide _"A minimum of 25 per cent Affordable Housing"_(pg 95), which is _"to be divided equally between Social Rented Housing and Intermediate Affordable Housing"_(page 1). However, when the planning application was submitted in Jan 2013, it provided 25% affordable housing but had largely substituted social rent for [affordable rent](http://www.theguardian.com/housing-network/2014/feb/03/affordable-housing-meaning-rent-social-housing) of up to 80% market on the grounds of financially viability. As a result, of the 2,704 new homes on the Heygate, 198 will be intermediate 'affordable rent', 316 shared ownership and just 82 will be social rented. These 82 social rented homes fall well short of the [500 new homes promised](/affordable-housing/) to Heygate residents who had been offered the 'right to return' to the estate.[^9]  
 [{% img http://crappistmartin.github.io/images/UpdatedAHStatement.png %}](http://planbuild.southwark.gov.uk/documents/?GetDocument=%8b%7b%7b!cvj%2buF2v8VRqQhUGaBSuKw%3d%3d!%7d%7d%7d) 
 
-| Lend Lease - Fact Box |
-|---|
-| In November 2013, Construction UCATT [announced](http://www.theguardian.com/politics/2013/nov/20/union-to-sue-construction-firms-blacklisting-allegations) that Lend Lease was one of a [number of companies](http://www.ucatt.org.uk/blacklisting) it was instigating legal action against for blacklisting employees.  |
-| In November 2014, leaked documents [showed](http://www.theguardian.com/business/2014/nov/06/luxembourg-tax-files-the-australian-companies-engaged-in-tax-avoidance) Lend Lease to have been channeling funds through Luxembourg and Bermuda, thereby cutting tax rates to below 3%.  |
 
-## Revolving doors
-[{% img right http://betterelephant.org/images/ojeu.png 350 350 %}](http://euroalert.net/en/contracts.aspx?idl=875833)[Tom Branton](http://www.linkedin.com/pub/tom-branton/26/132/b83) was Southwark's lead officer responsible for the [procurement](http://euroalert.net/en/contracts.aspx?idl=875833) of Lend Lease as regeneration partner and who authored the [report](http://moderngov.southwarksites.com/Published/C00000308/M00003633/AI00011300/$ElephantandCastleRegenerationAgreementandDisposalofAssociatedLandReport.docA.ps.pdf) to Cabinet recommending the signing of the regeneration agreement in July 2010. Tom subsequently left the Council in 2011 to begin employment with Lend Lease, where he is now Development Manager for the Elephant & Castle project.  
-Kim Humphries was the deputy council leader and Cabinet member for Housing during the [disastrous Heygate decant](http://youtu.be/E9-cfAdGiFA). After losing his seat in the 2010 elections, Kim [set up shop](http://carvil-ventures.co.uk/) as a development consultant helping developers obtain planning permission.  
-He is now [working](http://35percent.org/blog/2013/12/07/kim-humphreys-exit-stage-left/) for developers Delancey on their Elephant & Caste [shopping centre development](http://southwarknotes.wordpress.com/tag/kim-humphreys/) and 700 unit [private residential tower](http://www.delancey.com/elephant-&-castle-redevelopment.html) bordering the Heygate site.
+## Cooking the books
+[{% imgcap left /images/guardianviabilityassessment.png 300 200 Guardian article Jun 2015 %}](http://www.theguardian.com/cities/2015/jun/25/london-developers-viability-planning-affordable-social-housing-regeneration-oliver-wainwright)In 2015, after a three year battle by Lend Lease and Southwark to stop disclosure, the viability assessment for the Heygate redevelopment was finally [revealed](http://35percent.org/blog/2015/06/25/heygate-viability-assessment-finally-revealed/).
+
+The figures showed how Lend Lease had cooked the books to make the development look unviable and thereby negotiate down its affordable housing obligations. 
+
+
+<iframe width="350" height="197" src="https://www.youtube.com/embed/4Niw5_OaLu0" frameborder="0" allowfullscreen></iframe>
 </br>
 
 

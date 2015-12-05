@@ -56,7 +56,7 @@ Despite the planning officer's report clearly stating 'social rented', when it c
 [{% imgcap http://i3.wharf.co.uk/incoming/article9095859.ece/ALTERNATES/s615/Decathlon.jpg Representatives from Sellar stand beside Notting Hill's Kate Davies and Cllr Williams on demolished Decathlon site %}](http://www.wharf.co.uk/news/local-news/demolition-work-decathlon-warehouse-canada-9095856)
 
 ## Canada Water Sites F & G - Harmsworth Quays
-Sites F & G comprising the former Daily Mail printworks and the Surrey Quays shopping centre site, have not yet been granted planning consent. This scheme is currently in the early stages of consultation and the process is being managed by 'consultation experts - __Soundings__' (the company which undertook the consultation for the Heygate masterplan on behalf of Lend Lease). The owner and developer of the site C scheme is [__British Land__](https://en.wikipedia.org/wiki/British_Land) - one of the UK's largest developers, formerly run by British property magnate Sir John Ritblatt (father of Delancey's Jamie Ritblatt).
+Sites F & G comprising the former Daily Mail printworks and the Surrey Quays shopping centre site, have not yet been granted planning consent. This monumentous scheme comprising approx 7 million sqft of development across 46 acres, is currently in the early stages of consultation and the process is being managed by 'consultation experts - __Soundings__' (the company which undertook the consultation for the Heygate masterplan on behalf of Lend Lease). The owner and developer of the site C scheme is [__British Land__](https://en.wikipedia.org/wiki/British_Land) - one of the UK's largest developers, formerly run by British property magnate Sir John Ritblatt (father of Delancey's Jamie Ritblatt).
 
 {% imgcap /images/CanadaWaterSiteC.png Canada Water Sites F & G footprint (hatched green and orange) %}
 
@@ -64,11 +64,12 @@ As freehold owner of the entire shopping centre and printworks site, Southwark c
 
 Initial [consultation plans](http://canadawatermasterplan.com/wp-content/uploads/2014/03/2158-Canada-water-masterplan-Exhibition.pdf) for site C indicate proposals for around 2,500 new residential homes plus 1,000 new student accommodation units.
 
-The site will also include a new campus for King's College London. The consultation plans have so far failed to say how many (if any) of its new residential homes will be affordable and under what tenure. Although a [pre-application consultation document](http://canadawatermasterplan.com/wp-content/uploads/2014/03/2158-Canada-water-masterplan-Exhibition.pdf) does say:
+The site will also include a new campus for King's College London. King's College is being advised on the scheme by Kim Humphries - former deputy council leader. Kim lost his seat in 2010 and has since founded [__'Carvil Ventures'__](http://carvil-ventures.co.uk/), which [offers](http://carvil-ventures.co.uk/our-core-services) _"planning advice"_ and _"assistance in the negotiation of s106 agreements"_.  
 
-[{% imgcap /images/preappconsultation.png %}](http://canadawatermasterplan.com/wp-content/uploads/2014/03/2158-Canada-water-masterplan-Exhibition.pdf)
+The consultation plans have so far failed to say how many (if any) of its new residential homes will be affordable and under what tenure. Although a [pre-application consultation document](http://canadawatermasterplan.com/wp-content/uploads/2014/03/2158-Canada-water-masterplan-Exhibition.pdf) does say:
 
-British Land is being advised and represented by Kim Humphries - former deputy council leader. Kim lost his seat in 2010 and has since founded [__'Carvil Ventures'__](http://carvil-ventures.co.uk/), which [offers](http://carvil-ventures.co.uk/our-core-services) _"planning advice"_ and _"assistance in the negotiation of s106 agreements"_.  
+[{% imgcap /images/preappconsultation.png %}](/images/canadawater_masterplan_exhibition_march2014.pdf)
+
 
 </br>
 </br>

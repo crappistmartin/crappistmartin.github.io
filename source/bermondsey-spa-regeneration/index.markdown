@@ -16,7 +16,7 @@ The Bermondsey Spa regeneration is mainly separated into two sites; the Hyde hou
 
 
 
-3 blocks comprising 77 council homes were demolished on the Neckinger estate in order to make way for Hyde Housing's development of 605 new homes 
+3 blocks comprising 77 council homes were demolished on the Neckinger estate in order to make way for Hyde Housing's development of 605 new homes, 202 of which are supposed to be social rented (ref:04/AP/0102)
 http://www.southwark.gov.uk/download/downloads/id/1089/bermondsey_spa_notice
 
 1-18 Giles House      1-30 Carton House        1-29 Darnay House
@@ -28,9 +28,13 @@ http://www.southwark.gov.uk/download/downloads/id/1089/bermondsey_spa_notice
 
 {% imgcap /images/hydehousings106.png S106 agreement for later phase %}
 
-
+## 126 Spa road
+12/AP/0164
+Hyde Housing
+46 units of which 38 private, 7 social rent and 1 affordable rent.
 
 ## Site D 
+Hyde Housing
 05/AP/2617
 
 [Site D]http://planbuild.southwark.gov.uk:8190/online-applications/applicationDetails.do?activeTab=externalDocuments&keyVal=_STHWR_DCAPR_9520013
@@ -54,7 +58,7 @@ http://35percent.org/blog/2015/03/18/stand-up-for-more-social-housing/
 
 
 
-
+http://www.savills.co.uk/services/planning-and-development/planning/planning-policy/london-development-viability.aspx
 
 
 

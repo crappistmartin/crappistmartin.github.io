@@ -6,7 +6,7 @@ comments: true
 sharing: true
 footer: true
 ---
-{% img right http://www.standard.co.uk/news/article6785252.ece/alternates/w460/Tony%20Blair%20in%201997.jpg 300 200 %}The Aylesbury estate regeneration was initiated by Tony Blair as part of New Labour's '[Urban Task Force](http://en.wikipedia.org/wiki/Towards_an_Urban_Renaissance)' inner-city renewal programme. He chose the Aylesbury as the location for his inaugural ['forgotten people'](https://www.youtube.com/watch?v=q_HGgT--AGs) speech, directly after being voted in as prime minister in 1997.
+{% img right http://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2010/12/26/1293402722326/Tony-Blair-at-the-Aylesbu-007.jpg 300 200 %}The Aylesbury estate regeneration was initiated by Tony Blair as part of New Labour's '[Urban Task Force](http://en.wikipedia.org/wiki/Towards_an_Urban_Renaissance)' inner-city renewal programme. He chose the Aylesbury as the location for his inaugural ['forgotten people'](https://www.youtube.com/watch?v=q_HGgT--AGs) speech, directly after being voted in as prime minister in 1997.
 
 The Aylesbury was subsequently awarded £56m funding under the ['New Deal for Communities'](http://en.wikipedia.org/wiki/New_Deal_for_Communities) partnership as part of Blair's urban renewal programme.  
 
@@ -17,25 +17,55 @@ The Aylesbury was subsequently awarded £56m funding under the ['New Deal for Co
 In 2002, the council's Head of Housing Regeneration [said](http://www.insidehousing.co.uk/journals/insidehousing/legacydata/uploads/pdfs/IH.020222.028f.pdf) it was planning to press ahead with the redevelopment regardless, claiming that bringing the existing estate up to scratch would cost £200 million, a sum that the council simply didn't have. 
 
 ## Social or 'affordable' rent
-Residents' concerns about Housing Associations charging higher rents turned out to be well founded, when it [emerged](http://questions.london.gov.uk/QuestionSearch/searchclient/questions/question_281359) that Notting Hill Housing (the council's development partner) had secured funding for the scheme, which was linked to the provision of affordable rent rather than social rent (i.e. up to 80% market rents). 
-The council insists that all new rented homes will be social rented not affordable rent, but [revelations](http://www.southwarknews.co.uk/news/southwark-council-probes-44-missing-social-homes/) that Notting Hill had delivered affordable rent instead of the social rent agreed at its Bermondsey Spa regeneration, have further thrown these promises into doubt.
+Residents' concerns about Housing Associations charging higher rents turned out to be well founded, when it [emerged](http://35percent.org/blog/2015/09/24/southwark-backs-down-over-bermondsey-spa-dispute/) that Notting Hill Housing (the council's development partner) had secured funding for the scheme, which was linked to the provision of affordable rent rather than social rent (nevertheless capped at 50% rather than 80% market rent). However, even capped at 50% market rent Southwark's own housing data shows that the minimum income required to afford this, is twice what Southwark council tenants earn on average.
+
+{% imgcap /images/affordable_rent_50percent.png Southwark housing data showing affordability & average income %}
+
+The council insists that all new rented homes will be social rented not affordable rent, but [revelations](http://www.southwarknews.co.uk/news/council-takes-no-legal-action-over-44-missing-social-housing-units/) that Notting Hill had delivered affordable rent instead of the social rent agreed at its Bermondsey Spa regeneration, have further thrown these promises into doubt.
+
+The council also insists that Notting Hill has a contractual obligation to provide social rent rather than affordable rent in the redevelopment. But its [contractual agreement](http://35percent.org/images/LBS_NHHT_DPAgreement.pdf) contains no reference to the term social rent whatsoever. Instead it refers just to 'target rent’ set by government, without any reference to the term __social rent__ or the National Rent Regime regulatory framework which governs it. There is an obvious concern that this could be interpreted as affordable rent, as there are'target rents' for both __social rent__ and __affordable rent__ set by government.
+
+{% imgcap http://crappistmartin.github.io/images/Aylesbury_targetrent.png Extract from the Development Partnership Agreement %}
+
+
+## Harvard Gardens
+[{% imgcap /images/site7.jpg Site 7 'Harvard Gardens' - (formerly known as the Wolverton blocks) %}](/images/site7.jpg)
+
+The most recent phase of the scheme [(site 7 - Wolverton/'Harvard Gardens')](http://www.insidehousing.co.uk/lq-wins-work-on-next-phase-of-aylesbury-plan/6522708.article) is being developed by L&Q and comprises 147 new homes, of which 48 will supposedly be for 'social rent'. However, the [section 106 planning agreement](http://planningonline.southwark.gov.uk/DocsOnline/Documents/279910_1.pdf) for the site says __'affordable rent'__ and a [question](http://questions.london.gov.uk/QuestionSearch/searchclient/questions/question_283539) put to the Mayor confirms that these will be let at __affordable rent__ of up to 50% market rent.
+
+[{% imgcap /images/wolvertonss106_mayorquestion.png S106 agreement extract and Question to Mayor %}](/images/wolvertonss106_mayorquestion.png)   
 
 ## Refurb vs Demolition
-When objectors at the [2015 Compulsory Purchase Order Public Inquiry](http://35percent.org/blog/2015/05/02/aylesbury-estate-compulsory-purchase-order-public-inquiry/) asked to see the detailed costing figures behind this £200m refurbishment estimate, the council produced the following illegible table claiming that it hadn't kept a legible copy of the [report](/images/2004Conisbeereport.pdf).  
+At the 2015 CPO Public Inquiry, Professor Jane Rendell from the Bartlett School of Architecture questioned the council's cost/benefit appraisal for its decision to redevelop rather than refurbish. She took the Inquiry through all of the figures and showed that cost estimates for refurbishment had been inflated by nearly £150m. (See [AJ article](/images/ajaylesbury.pdf)).
 
-[{% img center http://35percent.org/images/Conisbee_Nov2004Figures.png %}](http://35percent.org/images/Conisbee_Nov2004Figures.png)
-
-Residents at the Public Inquiry pointed out that refurbishment costings were available because several blocks on the later phases of the estate had been allocated funds under the council's [WDS programme](http://www.southwark.gov.uk/info/200510/major_works/3407/1_what_is_warm_dry_and_safe) (Decent Homes Standard works programme). They showed the Inquiry [section 20 invoices](http://crappistmartin.github.io/images/DHS_MajorWorks_Section20Invoice.pdf) that they had been sent by the council, detailing the estimated cost of the Decent Homes Standard major works charges. These showed that homes on the estate were being brought up to Decent Homes Standard at an average cost of just £20,261 per home[^1]. 
+Objectors gave evidence showing that later phases of the estate had been allocated funds under the council's [WDS programme](http://www.southwark.gov.uk/info/200510/major_works/3407/1_what_is_warm_dry_and_safe) (Decent Homes Standard works programme). They showed the Inquiry [section 20 invoices](http://crappistmartin.github.io/images/DHS_MajorWorks_Section20Invoice.pdf) that they had been sent by the council, detailing the estimated cost of the Decent Homes Standard major works charges, i.e. bringing the homes up to modern standards. These showed that homes on the estate were being brought up to Decent Homes Standard at an average cost of just £20,261 per home[^1]. 
 
 
 It was also [confirmed](http://35percent.org/images/Email14April2015_KReed.pdf) during the course of the Public Inquiry, that the council has spent a staggering £46.8m on the Aylesbury regeneration scheme to date. This has comprised total capital account costs of £32.1m (demolition & acquisiton) and revenue account costs amounting to £14.7m (Management & Administration).
 
-In summary the council has spent £46.8m demolishing and redeveloping 112 homes[^2] on the first phases of the scheme. This works out at an average of £41,785 per home compared to the £20,261 per home it is spending bringing homes up to Decent Homes Standard elsewhere on the estate.
+The council has therefore spent £46.8m demolishing and redeveloping 112 homes[^2] on the scheme to date (£417k per home), compared to the £20,261 per home it is spending bringing homes up to Decent Homes Standard elsewhere on the estate.
 
-You can read a summary of the objectors' other arguments made at the Public Inquiry [[here]](http://35percent.org/images/Objectors_OpeningSubmissions_andAppendices.pdf).
+
+{% img right http://betterelephant.org/images/SixAcresRegeneration.png 300 300 %}Other London boroughs take a different approach to regeneration. Islington has an estate called the Six Acres estate near Finsbury Park. The Six Acres estate was built at the same time as Heygate & Aylesury, by the same contractors (Laing) using the [same system](/images/LBI_SixAcres_Jespersen12M.pdf) (Jespersen 12M).  
+
+Instead of demolshing its estate and handing it over to the private sector at a loss, Islington Council chose to refurbish the Six Acres estate in 2012. The 473 homes on the estate were refurbished with [new external wall insulation](http://www.lawtechltd.co.uk/Project_Tollington.aspx), new entry doors, exterior furnishing improvements, [green roofs](http://www.langley.co.uk/asx/six_acres_case_study.pdf) and [cycle shelters](http://greenroofshelters.co.uk/green-roofed-cycle-shelters-for-islington/).
+
+The entire Six Acres estate refurbishment and public realm improvement works cost a total of just £5.15m. This works out at around £10k per dwelling; far less than the circa £60k per dwelling that Southwark Council is spending on emptying and demolshing the Aylesbury estate (£150m/2500 homes).  
+
+Extensive [research by the University College London](http://www.engineering.ucl.ac.uk/engineering-exchange/demolition-refurbishment-social-housing/) and [case studies](https://heygateestate.files.wordpress.com/2012/12/genslerheygate.pdf) by leading architects has shown that refurbishment is better not just financially, but also socially and environmentally.  
+ 
+More information about the Six Acres estate regeneration can be found [here](http://www.langley.co.uk/asx/six_acres_case_study_-_newsletter.pdf), [here](http://bit.ly/1ssLvV6), [here](http://www.langley.co.uk/asx/six_acres_case_study.pdf), [here](/images/OCD28_SixAcresestateRefurb_Illustrations.pdf) and under planning application ref: P072153 on [Islington Council's Planning Portal](http://www.islington.gov.uk/services/planning/planninginisl/plan_interest/Pages/planning-search.aspx#header).
+
+
+[{% imgcap center http://betterelephant.org/images/sixacresbefore4.jpg Photos of Six Acres before regeneration %}](https://www.flickr.com/photos/46360829@N03/sets/72157645684480295/)
+
+
+[{% imgcap center http://betterelephant.org/images/sixacresafter.JPG Photos of Six Acres after regeneration %}](https://www.flickr.com/photos/46360829@N03/sets/72157645684757965/)
+
+
 
 ## Design Criticisms
-Clearly the business case for refurbishment is much stronger than that for demolition. But Southwark says it's not about the fabric of the buildings but their design. In her [Public Inquiry evidence](/images/Catherine_Bates2.pdf), Southwark's in-house architect confirmed that _"the condition of the buildings does not, itself present a case for demolition and redevelopment"_ but that the _"fundamental issue is the estate layout and the poor urban environment this presents"_. In paragraph 5.3 of her evidence she gives examples of this 'poor urban environment' which include criticisms that: 
+Clearly the business case for refurbishment is much stronger than that for demolition. However, Southwark says it's not about the fabric of the estate but its design. In her [Public Inquiry evidence](/images/Catherine_Bates2.pdf), Southwark's in-house architect confirmed that _"the condition of the buildings does not, itself present a case for demolition and redevelopment"_ but that the _"fundamental issue is the estate layout and the poor urban environment this presents"_. In paragraph 5.3 of her evidence she gives examples of this 'poor urban environment' which include criticisms that: 
 
  * _"The scale and orthogonal formation of the blocks (some of the longest in Europe) does not correspond to human scale, nor does it create opportunities for neighbourliness and local neighbourhood identity."_
 

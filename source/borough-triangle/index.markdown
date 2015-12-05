@@ -5,7 +5,7 @@ comments: true
 sharing: true
 footer: true
 ---
-{% img right http://crappistmartin.github.io/images/BoroughTriangle.png 400 300 %}Peabody Housing Association has submitted a [Planning application](http://planningonline.southwark.gov.uk/AcolNetCGI.exe?ACTION=UNWRAP&RIPNAME=Root.PgeDocs&TheSystemkey=9556404) for its long-awaited _Borough Triangle_ development at Elephant & Castle. This large triangle of land sits between Southbank University, Borough road and the Crown Court on Newington Causeway.  
+{% img right http://crappistmartin.github.io/images/BoroughTriangle.png 400 300 %}Peabody Housing Association has submitted a Planning application for its long-awaited _Borough Triangle_ development at Elephant & Castle. This large triangle of land sits between Southbank University, Borough road and the Crown Court on Newington Causeway.  
 
 The site is currently home to the [IPSOS MORI](https://www.ipsos-mori.com/) buildings and Baptist church on Borough road, which will be the only buildings to survive the redevelopment. The Georgian-built [Institute of Optometry](http://www.ioo.org.uk/) and [London School of Musical Theatre](http://www.thestage.co.uk/news/2015/01/london-school-musical-theatre-relocate-southwark-site-demolished/) (formerly the Institute for the Blind) will both be demolished under Peabody's plans. The latter being replaced by [new premises](http://crappistmartin.github.io/images/NewMinistryOfSound.png) for the Ministry of Sound, which Peabody will build in its place.     
   
@@ -14,7 +14,7 @@ The site is currently home to the [IPSOS MORI](https://www.ipsos-mori.com/) buil
 The shops and warehouse spaces on the Newington side of the site will also be demolished. These are currently being used as a Pop-up arts and cultural space by ['Hotel Elephant'](http://www.hotelelephant.co.uk/) and ['The Paperworks'](http://www.thepaperworks.co.uk/).  
 {% img right http://crappistmartin.github.io/images/HotelElephant_Paperworks.jpg %}
 
-Besides new premises for the Ministry of Sound night club totalling ca. 6,000 sqm (allowing an extra capacity of 400 people over its current venue), Peabody plans to build some retail space; 10,000 sqm of office space in a shiny new corporate HQ for its staff; and a total of 529 new homes in a number of (predominantly glass) buildings of up to 38 storeys.
+Besides new premises for the Ministry of Sound night club totalling ca. 6,000 sqm (allowing an extra capacity of 400 people over its current venue), Peabody plans to build some retail space; 10,000 sqm of office space in a shiny new corporate HQ for its staff; and a total of 529 new homes in a number of (predominantly glass) buildings and two 40-storey towers.
 
 
 [{% img right http://crappistmartin.github.io/images/Peabody_BoroughTriangle.png %}](http://planningonline.southwark.gov.uk/DocsOnline/Documents/388339_1.pdf)
@@ -41,6 +41,7 @@ It seems Peabody has come a long way from the philanthropic intentions it was fo
 You can object to Peabody's application (ref:14/AP/3130) by sending an email to planning.applications@southwark.gov.uk  
 The Georgian Group has already objected to the application - you can read their objection online [here](http://planningonline.southwark.gov.uk/DocsOnline/Documents/421846_1.pdf).
 
+The official deadline for comments on the application is 16th September 2015, although Southwark has an informal policy of accepting additional comments right up until the planning application committee hearing.
 
 It's important to remember that this is not just a simple case of developers submitting plans that the council is powerless to shape. The borough triangle site is being brought forward for development precisely because the council has designated it a development site in its planning policy. The council's 2004 Elephant & Castle planning guidance specifically states the type of redevelopment it wants to see on the triangle site, and threatened to use compulsory purchase powers if the site's owners would be reluctant in complying with its vision[^1]. 
 
