@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://35percent.org/blog/2015/12/20/heygate-sell-off-how-much-are-we-getting/</loc>
+    <lastmod>2015-12-20T19:54:10+00:00</lastmod>
+  </url>
+  <url>
     <loc>http://35percent.org/blog/2015/11/04/southwark-resolves-to-use-cpo-powers-for-shopping-centre-retailers/</loc>
     <lastmod>2015-11-04T08:23:20+00:00</lastmod>
   </url>
@@ -347,7 +351,7 @@
     <loc>http://35percent.org/blog/archives/</loc>
   </url>
   <url>
-    <loc>http://35percent.org/transport-hub/</loc>
+    <loc>http://35percent.org/heygate-new-build-sales/</loc>
   </url>
   <url>
     <loc>http://35percent.org/strata-tower/</loc>
@@ -389,19 +393,19 @@
     <loc>http://35percent.org/sustainable-development/</loc>
   </url>
   <url>
+    <loc>http://35percent.org/transport-hub/</loc>
+  </url>
+  <url>
     <loc>http://35percent.org/borough-triangle/</loc>
   </url>
   <url>
-    <loc>http://35percent.org/maydew-house/</loc>
-  </url>
-  <url>
-    <loc>http://35percent.org/collated-viability-assessments/</loc>
+    <loc>http://35percent.org/dashwood-studios/</loc>
   </url>
   <url>
     <loc>http://35percent.org/shopping-centre/</loc>
   </url>
   <url>
-    <loc>http://35percent.org/eileen-house/</loc>
+    <loc>http://35percent.org/paris-gardens/</loc>
   </url>
   <url>
     <loc>http://35percent.org/bermondsey-spa-regeneration/</loc>
@@ -443,7 +447,13 @@
     <loc>http://35percent.org/tribeca-square/</loc>
   </url>
   <url>
-    <loc>http://35percent.org/heygate-new-build-sales/</loc>
+    <loc>http://35percent.org/maydew-house/</loc>
+  </url>
+  <url>
+    <loc>http://35percent.org/eileen-house/</loc>
+  </url>
+  <url>
+    <loc>http://35percent.org/collated-viability-assessments/</loc>
   </url>
   <url>
     <loc>http://35percent.org/map.html</loc>
@@ -459,7 +469,7 @@
   </url>
   <url>
     <loc>http://35percent.org/developments/index.html</loc>
-    <lastmod>2015-12-08T21:51:10+00:00</lastmod>
+    <lastmod>2015-12-20T18:24:42+00:00</lastmod>
   </url>
   <url>
     <loc>http://35percent.org/timeline/index.html</loc>
