@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://35percent.org/blog/2016/03/12/camberwell-road/</loc>
+    <lastmod>2016-03-12T17:04:52+00:00</lastmod>
+  </url>
+  <url>
     <loc>http://35percent.org/blog/2016/02/16/the-affordable-housing-mirage/</loc>
     <lastmod>2016-02-16T11:25:37+00:00</lastmod>
   </url>
@@ -359,7 +363,7 @@
     <loc>http://35percent.org/blog/archives/</loc>
   </url>
   <url>
-    <loc>http://35percent.org/wood-dene-estate-regeneration/</loc>
+    <loc>http://35percent.org/colorama/</loc>
   </url>
   <url>
     <loc>http://35percent.org/strata-tower/</loc>
@@ -416,19 +420,19 @@
     <loc>http://35percent.org/paris-gardens/</loc>
   </url>
   <url>
-    <loc>http://35percent.org/colorama/</loc>
-  </url>
-  <url>
-    <loc>http://35percent.org/aylesbury-estate/</loc>
+    <loc>http://35percent.org/wood-dene-estate-regeneration/</loc>
   </url>
   <url>
     <loc>http://35percent.org/crown-court-annexe/</loc>
   </url>
   <url>
+    <loc>http://35percent.org/who-we-are/</loc>
+  </url>
+  <url>
     <loc>http://35percent.org/camberwell-road/</loc>
   </url>
   <url>
-    <loc>http://35percent.org/who-we-are/</loc>
+    <loc>http://35percent.org/one-tower-bridge/</loc>
   </url>
   <url>
     <loc>http://35percent.org/one-the-elephant/</loc>
@@ -482,6 +486,12 @@
     <loc>http://35percent.org/sold-by-southwark/</loc>
   </url>
   <url>
+    <loc>http://35percent.org/aylesbury-estate/</loc>
+  </url>
+  <url>
+    <loc>http://35percent.org/more-london/</loc>
+  </url>
+  <url>
     <loc>http://35percent.org/borough-triangle/</loc>
   </url>
   <url>
@@ -498,7 +508,7 @@
   </url>
   <url>
     <loc>http://35percent.org/developments/index.html</loc>
-    <lastmod>2016-03-07T17:14:42+00:00</lastmod>
+    <lastmod>2016-03-07T17:19:07+00:00</lastmod>
   </url>
   <url>
     <loc>http://35percent.org/timeline/index.html</loc>
