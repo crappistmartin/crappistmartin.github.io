@@ -4,7 +4,7 @@
   <title><![CDATA[35% Campaign]]></title>
   <link href="http://35percent.org/atom.xml" rel="self"/>
   <link href="http://35percent.org/"/>
-  <updated>2016-03-17T22:12:05+00:00</updated>
+  <updated>2016-03-19T21:11:58+00:00</updated>
   <id>http://35percent.org/</id>
   <author>
     <name><![CDATA[EAN]]></name>
@@ -12,6 +12,33 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Lendlease Says Jump - Southwark Jumps]]></title>
+    <link href="http://35percent.org/blog/2016/03/19/lend-lease-says-jump-southwark-jumps/"/>
+    <updated>2016-03-19T12:03:23+00:00</updated>
+    <id>http://35percent.org/blog/2016/03/19/lend-lease-says-jump-southwark-jumps</id>
+    <content type="html"><![CDATA[<p><a href="http://moderngov.southwark.gov.uk/documents/s60479/Appendix%201%20DVSPD.pdf"><img class="left" src="http://35percent.org/images/viabilityspd.png" width="200" height="300"></a>Southwark Council has bowed to developers&#8217; will and restricted public access to financial viability appraisals of planning applications. Instead of being published when planning applications are submitted, the appraisals will be published just one week before the planning committee takes its decision. Developers have been using these appraisals to reduce the amount of affordable housing they build.</p>
+
+<p>Last year Southwark was shamed into a <a href="http://www.southwarknews.co.uk/news/my-conscience-is-clear-council-leader-peter-john-comes-out-fighting-as-heygate-deal-scrutinised/">promise</a> to publish viability appraisals following the <a href="http://www.theguardian.com/cities/2015/jun/25/london-developers-viability-planning-affordable-social-housing-regeneration-oliver-wainwright">revelations</a> in Lendlease’s viability appraisal for its Heygate redevelopment. Released after a <a href="http://35percent.org/blog/2015/06/25/heygate-viability-assessment-finally-revealed/">3 year legal battle</a>, this showed amongst other things, a 25% profit level despite 20% being stipulated in the <a href="https://southwarknotes.files.wordpress.com/2013/02/ra.pdf">Regeneration Agreement</a> for the site.</p>
+
+<p>The restriction is revealed in the small print of Southwark’s new planning guidance, the <a href="http://moderngov.southwark.gov.uk/documents/s60479/Appendix%201%20DVSPD.pdf">Development Viability Supplementary Planning Document (SPD)</a>. It says that the appraisal will be published along with the officer&rsquo;s report for the planning committee just 7 days before an application is heard. This is well after formal consultation on the application has ended and well after the council has made up its mind whether to reject the application or recommend it for approval.</p>
+
+<p>Developers have <a href="http://www.southwark.gov.uk/download/downloads/id/13244/consultation_report_appendix_b_-_appendix_e_public_representations">reacted furiously</a> to the SPD and the restriction follows to the letter the <a href="http://35percent.org/images/LendLease_response_to_viabilitySPD.pdf">proposal</a> made by Lendlease, that the viability appraisal <em>‘should be for information only and not subject to formal consultation’</em>. Lendlease also managed to persuade Southwark not to publish the Council&rsquo;s review of viability appraisals until 7 days before the planning committee hearing, another delay that will deny public access to important planning information about viability.</p>
+
+<p><a href="http://35percent.org/images/LendLease_response_to_viabilitySPD.pdf"><span class='caption-wrapper center'><img class='caption' src='http://35percent.org/images/LLpara1.png' width='' height='' title='Extract from Lendlease's response to Viability SPD'><span class='caption-text'>Extract from Lendlease&rsquo;s response to Viability SPD</span></span></a></p>
+
+<p>Instead of the full appraisal an ‘executive summary’ will be published at the beginning of consultation, along with the other planning documents at validation stage. The summary will be confined to the ‘key conclusions’ (DVG5) and while this is valuable information it doesn&rsquo;t allow any interrogation of the headline assumptions - the devil is in the detail. It also omits the key assumption, the viability benchmark value - this is figure against which viability is determined.</p>
+
+<p><span class='caption-wrapper center'><img class='caption' src='http://35percent.org/images/keyassumptions.png' width='' height='' title='Key assumptions to be published in the executive summary'><span class='caption-text'>Key assumptions to be published in the executive summary</span></span></p>
+
+<p>Lendlease also strongly objected to viability review mechanisms, which would help claw back value should schemes turn out more profitable than first predicted. It argued that these were particularly inappropriate for <em>&lsquo;long term multi-phased regeneration schemes&rsquo;</em>, which is unsurprising given that there are still three phases of <a href="http://www.elephantpark.co.uk">&lsquo;Elephant Park&rsquo;</a> (née Heygate) requiring planning approval. Lendlease says <em>‘our view is that viability review mechanisms should only be applied to these schemes if significant time elapses between approval and any substantial commencement’</em> - a condition easily met by simply sticking a shovel in the ground. Southwark sticks to its guns on the need for review mechanisms, but leaves open the timing of reviews for multi-phased developments.</p>
+
+<p>Southwark says that all planning applications for developments that require affordable housing will have to submit a viability assessment and that they will all be made public, but the SPD skips over what happens if a developer wants to reduce the affordable housing <strong>after</strong> planning approval. They can do this with a so-called S106(A) application. <a href="http://35percent.org/neo-bankside/">Neo Bankside</a> did this six times, successfully reducing the number of social rented homes from 94 to 62. Such S106(A) applications need to provide a new viability assessment, showing that the approved scheme is no longer viable. Southwark says that should such an application be successful, there will be a viability review to make sure that as much affordable housing as possible is built in the end, but says nothing about making this second viability assessment public. This is a big loophole.</p>
+
+<p>So what could have been a big step forward is comprimised on at least three counts: the full viability assessments will be published way too late to be of any use; the benchmark value that measures viability will not be published in the executive summary; and developers can always reduce affordable housing after planning approval without the public ever knowing.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Camberwell Chic]]></title>
@@ -1260,67 +1287,6 @@ In the event, Aylesbury tenants and leaseholders were bitterly disappointed when
 <p>To return to the IPPR policy paper - it does make one or two constructive suggestions, such as the recommendation that <strong> <em>&ldquo;At a minimum, tenants should be balloted on regeneration schemes&rdquo;</em> </strong>. Cllr John couldn&rsquo;t have read this bit, because of course the Aylesbury residents <a href="http://www.theguardian.com/society/2001/dec/27/1">gave a resounding &lsquo;NO&rsquo;</a> to regeneration when they were balloted in 2001.</p>
 
 <p>Another recommendation <strong> <em>&ldquo;Transparency about the future tenure mix is essential from the outset&rdquo;</em> </strong> is also absent from the Aylesbury redevelopment; as we saw in our last two blog posts, Notting Hill Housing&rsquo;s definition of social rented tenure is as clear as mud and it has also been <a href="http://www.theguardian.com/society/2015/mar/29/tenants-face-70m-rent-rise-as-social-housing-converted-to-affordable-homes">reported</a> to be converting its existing social tenancies at an alarming rate.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Stand Up for More Social Housing (at 80% Market Rent)]]></title>
-    <link href="http://35percent.org/blog/2015/03/18/stand-up-for-more-social-housing/"/>
-    <updated>2015-03-18T09:29:17+00:00</updated>
-    <id>http://35percent.org/blog/2015/03/18/stand-up-for-more-social-housing</id>
-    <content type="html"><![CDATA[<p><span class='caption-wrapper right'><img class='caption' src='http://crappistmartin.github.io/images/homesforbritain.jpg' width='250' height='500' title='Notting Hill Director Kate Davies'><span class='caption-text'>Notting Hill Director Kate Davies</span></span><strong> <em>&ldquo;Let&rsquo;s all of us stand up for more social housing&rdquo;</em> </strong> was the <a href="https://twitter.com/NottingHillHG/status/577771553842167808">call to arms</a> during the <a href="http://www.24dash.com/news/housing/2015-03-18-The-Homes-for-Britain-bus-relay-reaches-Westminister">&lsquo;impassioned speech&rsquo;</a> from Notting Hill Housing Trust&rsquo;s Director Kate Davies at yesterday&rsquo;s <a href="http://www.theguardian.com/society/2015/mar/17/london-housing-rally-protesters-gather-at-homes-for-britain-event">&lsquo;Homes for Britain&rsquo;</a> rally. The rally was part of an ongoing campaign organised by the <a href="http://www.housing.org.uk/">National Housing Federation</a>, of which NHHT is a founding member.</p>
-
-<p>We have blogged previously about NHHT&rsquo;s dodgy definition of social housing and its <a href="http://www.nottinghillhousing.org.uk/customers/permanent-rented-housing/information-for-permanent-rented-housing-tenants/affordable-rent-update">blanket policy</a> of converting all its existing social rented properties to <a href="http://www.theguardian.com/housing-network/2014/feb/03/affordable-housing-meaning-rent-social-housing">affordable rent</a> when tenancies expire.</p>
-
-<p>So we have taken a closer look at the kind of &lsquo;social&rsquo; housing Notting Hill&rsquo;s Director wants us all to stand up for more of.</p>
-
-<p><span class='caption-wrapper'><img class='caption' src='http://crappistmartin.github.io/images/theexchange.jpg' width='' height='' title=''The Exchange' - Notting Hill's 205 unit development at the Bermondsey Spa regeneration scheme (site 5C)'><span class='caption-text'>&lsquo;The Exchange&rsquo; - Notting Hill&rsquo;s 205 unit development at the Bermondsey Spa regeneration scheme (site 5C)</span></span>
-This is <a href="http://www.the-exchange-london.com/">&lsquo;The Exchange&rsquo;</a> in Bermondsey, Notting Hill&rsquo;s latest completed development in Southwark and part of the <a href="http://www.southwark.gov.uk/info/200180/bermondsey_spa/1144/bermondsey_spa_masterplan">Bermondsey Spa regeneration scheme</a>.
-All but three private and two shared-ownership units in this 205-home development have been sold and of those that remain the private flats are <a href="http://www.the-exchange-london.com/availability?tenure=TH">priced</a> at over £1m and the shared-ownership flats <a href="http://www.the-exchange-london.com/availability/so">require</a> a minimum salary of £73,986 to qualify.</p>
-
-<p><span class='caption-wrapper right'><img class='caption' src='http://35percent.org/images/BermondseySpaDemolition.jpg' width='350' height='300' title='Demolition of 54 council homes on the site'><span class='caption-text'>Demolition of 54 council homes on the site</span></span>The development should also have had 44 social rented units, to replace the 54 council homes demolished to make way for <strong>&lsquo;The Exchange&rsquo;</strong>.</p>
-
-<p>44 social rented units were duly proposed in Notting Hill&rsquo;s <a href="http://planbuild.southwark.gov.uk/documents/?casereference=10/AP/3010&amp;system=DC">planning application</a> for the site and that&rsquo;s what was confirmed in the <a href="http://planbuild.southwark.gov.uk/documents/?GetDocument=%7B%7B%7B!7lhb2IoB57lo6iUf2g/V0A==!%7D%7D%7D">planning officer&rsquo;s report</a>. Paragraphs 27 &amp; 29 of the GLA <a href="http://crappistmartin.github.io/images/GLABermondseySpaReport.pdf">planning report</a> also confirmed that the development proposed 44 social rented homes. However, after approval was given Southwark Council and Notting Hill signed-off the <a href="http://planbuild.southwark.gov.uk/documents/?GetDocument=%7B%7B%7B!v0IQJeAkBHGLkpIJJYfrTA==!%7D%7D%7D">s106 legal agreement</a> with something completely different - 44 &lsquo;affordable rented&rsquo; units (ie. up to 80% market rents) <strong>not</strong> 44 social rented units.</p>
-
-<p><span class='caption-wrapper center'><img class='caption' src='http://crappistmartin.github.io/images/BermondseySpaS106.png' width='' height='' title='Officers report states 44 Social Rented homes but S106 Agreement says Affordable Rented units'><span class='caption-text'>Officers report states 44 Social Rented homes but S106 Agreement says Affordable Rented units</span></span></p>
-
-<p>The change in wording is subtle but the consequences aren&rsquo;t; according to <a href="http://www.southwark.gov.uk/download/downloads/id/11603/affordable_rent_study_december_2014_update">Southwark&rsquo;s own figures</a>, a 1-bed social rented flat in Bermondsey(SE16) costs an average £97 per week, compared to £273 per week for &lsquo;affordable rent&rsquo; at 80% market rent.</p>
-
-<p>It&rsquo;s hard not to conclude that the public has been deceived over this development: it was led to believe that it was getting social rents at all stages up to planning approval, then a switch was effected when the legal documents were drawn up after approval was granted.</p>
-
-<p>We showed in our last blog how this sleight-of-hand is becoming commonplace in Southwark&rsquo;s planning process.</p>
-
-<p><span class='caption-wrapper right'><img class='caption' src='http://crappistmartin.github.io/images/LBS_NHHT_DPAgreement.png' width='400' height='200' title='Extract from Aylesbury estate Development Agreement'><span class='caption-text'>Extract from Aylesbury estate Development Agreement</span></span>We have also shown in <a href="http://35percent.org/blog/2014/11/01/aylesbury-estate-planning-application/">previous blog posts</a> how Notting Hill is using the terms &lsquo;social&rsquo;, &lsquo;target&rsquo; and &lsquo;affordable&rsquo; rent interchangably in its forthcoming application for the Aylesbury estate redevelopment and <a href="http://35percent.org/blog/2015/03/10/affordable-rent-is-not-social/">blogged</a> about the worrying fact that affordable rents of up to 80% are included in the Notting Hill development agreement for the Aylesbury.</p>
-
-<p><span class='caption-wrapper center'><img class='caption' src='http://crappistmartin.github.io/images/AylesburySelection.jpg' width='' height='' title='Notting Hill's Director & Southwark council leader celebrate demolition of Aylesbury redevelopment's phase 2'><span class='caption-text'>Notting Hill&rsquo;s Director &amp; Southwark council leader celebrate demolition of Aylesbury redevelopment&rsquo;s phase 2</span></span>
-So, we have to ask the question - will the Aylesbury go the same way as the Bermondsey Spa regeneration with affordable rent slipped in quietly through the back door?</p>
-
-<p>One way of finding out would be to for details of Notting Hill&rsquo;s funding allocation for the Aylesbury redevelopment. It has currently secured a total of £92m in funding from the Mayor&rsquo;s <a href="https://www.london.gov.uk/priorities/housing-land/increasing-housing-supply/affordable-homes-programme">Affordable Homes Programme</a> and is by far the largest single recipient of funding from it. London Assembly member Darren Johnson recently tabled a formal <a href="http://questions.london.gov.uk/QuestionSearch/searchclient/questions/question_281359">question</a> to the Mayor about the tenure mix linked to Notting Hill&rsquo;s £92m allocation. We will be watching out for the Mayor&rsquo;s response.</p>
-
-<p>We need to let the council know that the game is up and that we are not going to accept this disingenuous racket. The Aylesbury planning application is due to be heard by committee on 14th April and we will be making our voices heard. We invite you to support us by objecting to the planning application online using our <a href="http://commentform.herokuapp.com">automated objection form</a>.</p>
-
-<h2>Postscript update (3rd April 2015)</h2>
-
-<p>The people at <a href="http://southwarknotes.wordpress.com">Southwark Notes</a> couldn&rsquo;t quite believe that Notting Hill had passed off affordable rent as social rent at its Bermondsey Spa site, so they attempted to seek confirmation via twitter:</p>
-
-<blockquote class="twitter-tweet" lang="en"><p><a href="https://twitter.com/NottingHillHG">@NottingHillHG</a> Hiya NHHT. Is it true that 44 units of social housing at your Exchange site will be &#39;affordable rent&#39;? <a href="http://t.co/gUvnsYQjZX">http://t.co/gUvnsYQjZX</a></p>&mdash; Southwark Notes (@SouthwarkNotes) <a href="https://twitter.com/SouthwarkNotes/status/578173781019111424">March 18, 2015</a></blockquote>
-
-
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-
-<p>Notting Hill unashamedly confirmed that Bermondsey Spa&rsquo;s 44 &lsquo;social rented&rsquo; units were indeed let at affordable rather than social rents, but that these generally averaged just 58% of market rent:</p>
-
-<blockquote class="twitter-tweet" data-conversation="none" data-cards="hidden" lang="en"><p><a href="https://twitter.com/SouthwarkNotes">@SouthwarkNotes</a> Yes, affordable rent (average 58% of market rent) due to Gov changes to rent setting in 2011. See <a href="http://t.co/2tThW5DZGZ">http://t.co/2tThW5DZGZ</a></p>&mdash; Notting Hill Housing (@NottingHillHG) <a href="https://twitter.com/NottingHillHG/status/583639651702943744">April 2, 2015</a></blockquote>
-
-
-<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-
-<p>Notting Hill&rsquo;s twitter reply also blamed its change of tenure on <strong> <em>&ldquo;Government changes to rent setting&rdquo;</em> </strong> and provided a <a href="http://www.nottinghillhousing.org.uk/customers/permanent-rented-housing/money/how-we-set-your-rent-and-charges/rent-increases">link to its website</a> for further details. Below is an extract from that website link, where Notting Hill explains what affordable rent is and confirms that <strong> <em>&ldquo;Approximately 10% of all our &lsquo;social rented housing&rsquo; properties are rented at affordable rents&rdquo;.</em> </strong><br/>
-<img class="center" src="http://crappistmartin.github.io/images/NHHTAffordableRent.png" width="550" height="500"></p>
-
-<p>We note that Notting Hill has written the term <strong>&lsquo;social rented housing&rsquo;</strong> in inverted commas. It seems that - thanks to Notting Hill Housing Trust - this might be the way <strong>&lsquo;social rented housing&rsquo;</strong> needs to be written from now on.</p>
 ]]></content>
   </entry>
   
