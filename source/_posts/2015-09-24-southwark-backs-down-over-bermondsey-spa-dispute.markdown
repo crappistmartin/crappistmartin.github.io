@@ -20,7 +20,7 @@ Notting Hill has long since turned its back on social rented housing and was not
 
 Notting Hill's CEO Kate Davies is a [fellow](http://www.centreforsocialjustice.org.uk/about-us/csj-fellows/kate-davies) of the [Centre for Social Justice](http://www.centreforsocialjustice.org.uk), the conservative think tank set up and chaired by Iain Duncan Smith, which conceived the idea of both __affordable rent__ and right-to-buy for housing association tenants. 
 
-{% imgcap https://pbs.twimg.com/media/CNUmHQlWIAAdSyI.png Quote from Kate Davies, fellow of the CSJ chaired by Iain Duncan Smith %}
+{% imgcap http://pbs.twimg.com/media/CNUmHQlWIAAdSyI.png Quote from Kate Davies, fellow of the CSJ chaired by Iain Duncan Smith %}
 
 Kate Davies co-authored [this report](http://www.centreforsocialjustice.org.uk/UserStorage/pdf/Pdf%20reports/HousingPoverty.pdf) by the CSJ, in which she claimed that council estates are _‘ghettos of the poorest and neediest people’_ that are _‘subsidised by the taxpayer’_ and provide _‘low cost living for life funded from the public purse'_. She said that tenants _‘often pay little or no rent, and get their home maintained in good order for free.’_ She concluded that _‘social housing is not a desirable destination’_ and that _‘private ownership is preferable to state provided solutions’_.  
 
@@ -34,7 +34,7 @@ Throughout Notting Hill's public consultation for its Aylesbury estate planning 
 
 We pointed out during the consultation that whilst there are 'target rents' for both __social rent__ and __affordable rent__, the standalone term __'target rent'__ has no planning policy support and that the only terms recognised in planning policy definitions are __social rent__ or __affordable rent__. Our concerns were addressed in the council's April 2015 [planning report](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!Vbu5QpckfYCnJrulzlWyuQ%3d%3d!%7d%7d%7d) for the application where it claimed that Notting Hill had _"clarified that in all cases references to ‘target rent’ are referring to the social rent tenure"_ and that our concerns were unfounded because __social rent__ would in any event be firmly secured in the (Section 106) legal agreement.  
 
-[{% imgcap https://pbs.twimg.com/media/CCoxHXoWYAAyHtv.png Paragraph 109 of the Aylesbury application officer's report %}](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!Vbu5QpckfYCnJrulzlWyuQ%3d%3d!%7d%7d%7d)
+[{% imgcap http://pbs.twimg.com/media/CCoxHXoWYAAyHtv.png Paragraph 109 of the Aylesbury application officer's report %}](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!Vbu5QpckfYCnJrulzlWyuQ%3d%3d!%7d%7d%7d)
 
 In our [previous](http://35percent.org/blog/2015/09/14/barratt-conquers-southwark/) blog post we pointed out our concerns with the wording of the section 106 agreement. We also published the [letter](http://35percent.org/images/AylesburyS106_CllrWilliams.pdf) we sent to Councillor Williams, which outlined our concerns and suggested amendments to the ambiguous wording of the agreement. We are yet to receive a reply from Cllr Williams and trust that this is because he is in the process of seeking advice from officers and investigating the matter throroughly.  
 

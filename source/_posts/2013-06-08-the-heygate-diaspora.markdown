@@ -39,7 +39,14 @@ Compare this to the cost of the new Heygate homes as advertised by Lend Lease.
 These start at £330k for a 1 Bed flat, £455k for a 2 Bed flat and £590k for a 3 Bed - [(www.trafalgarplace.com)](http://www.trafalgarplace.com)
 
 
-All in all not many residents - whether a secure tenant, an insecure tenant or a leaseholder - will get either a new home or a home at the Elephant through the regeneration.
+With shared ownership flats [requiring](/images/landqpricelisttp.pdf) a minimum income of £57k and just [82 of the 2,704](/affordable-housing/) new homes at social rents, not many residents - whether tenant or a leaseholder - will be exercising their right to return to the new Heygate.
+
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:title" content="Heygate Diaspora" />
+<meta name="twitter:description" content="The displacement of a community" />
+<meta name="twitter:image" content="http://crappistmartin.github.io/images/LeaseholderDisplacement3.png" />
+
+
 
 
 

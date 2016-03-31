@@ -31,7 +31,7 @@ footer: true
 
 * In 2014, Lend Lease's Head of International Operations Dan Labbad, who signed the deal with Southwark, [claimed](http://www.theaustralian.com.au/business/property/lend-leases-international-head-keeps-focus-on-growth-abroad/story-fnko7zi0-1227151774437?nk=08e105b4d18a57454f6a04527dac8fdf) that his company had bought the Elephant and Castle at "the lowest point in the cycle."
 
-* Southwark has argued that it is receiving other cash payments from Lend Lease and this is true, but these are statutory s106 obligations that all developers must pay to mitigate the impact of their development. The Heygate development will provide a £14m [local transport levy](http://www.planningportal.gov.uk/general/news/stories/2011/nov11/171111/171111_3) payment towards the [£160m cost](http://www.london-se1.co.uk/news/view/5293) of increasing capacity at the Northern Line tube station and a £9m [Mayoral transport levy](https://www.london.gov.uk/priorities/planning/mayoral-community-infrastructure-levy) payment towards Crossrail.[^8]
+* Southwark has argued that it will receive other in-kind planning contributions from Lend Lease amounting to a value of £51m. But these are standard s106 obligations that all developers must deliver to mitigate the impact of a given development. This figure includes a £13m [local transport levy](http://www.planningportal.gov.uk/general/news/stories/2011/nov11/171111/171111_3) payment towards the [£160m cost](http://www.london-se1.co.uk/news/view/5293) of increasing capacity at the Northern Line tube station. The remainder consists largely of benefits in kind: £24.9m is the estimated value of the new 'public' park to be provided by Lend Lease and £7.5m is the estimated value of new traffic infrastructure to be provided within Lend Lease's development.[^8]
 
 
 Despite a policy requirement of 35%, the [Regeneration Agreement](http://southwarknotes.files.wordpress.com/2013/02/ra.pdf) signed by the council leader in 2010 stipulated that Lend Lease was to provide _"A minimum of 25 per cent Affordable Housing"_(pg 95), which is _"to be divided equally between Social Rented Housing and Intermediate Affordable Housing"_(page 1). However, when the planning application was submitted in Jan 2013, it provided 25% affordable housing but had largely substituted social rent for [affordable rent](http://www.theguardian.com/housing-network/2014/feb/03/affordable-housing-meaning-rent-social-housing) of up to 80% market on the grounds of financially viability. As a result, of the 2,704 new homes on the Heygate, 198 will be intermediate 'affordable rent', 316 shared ownership and just 82 will be social rented. These 82 social rented homes fall well short of the [500 new homes promised](/affordable-housing/) to Heygate residents who had been offered the 'right to return' to the estate.[^9]  
@@ -39,7 +39,12 @@ Despite a policy requirement of 35%, the [Regeneration Agreement](http://southwa
 
 
 ## Cooking the books
-[{% imgcap left /images/guardianviabilityassessment.png 300 200 Guardian article Jun 2015 %}](http://www.theguardian.com/cities/2015/jun/25/london-developers-viability-planning-affordable-social-housing-regeneration-oliver-wainwright)In 2015, after a three year battle by Lend Lease and Southwark to stop disclosure, the viability assessment for the Heygate redevelopment was finally [revealed](http://35percent.org/blog/2015/06/25/heygate-viability-assessment-finally-revealed/).
+[{% imgcap left /images/guardianviabilityassessment.png 300 200 Guardian article Jun 2015 %}](http://www.theguardian.com/cities/2015/jun/25/london-developers-viability-planning-affordable-social-housing-regeneration-oliver-wainwright)In 
+2015, after a three year Tribunal battle by Lend Lease and Southwark to prevent 
+its disclosure, the 35% campaign succeeded in obtaining a copy of the viability 
+assessment submitted by Lend Lease to justify the reductions in its affordable 
+housing offer.  
+[revealed](http://35percent.org/blog/2015/06/25/heygate-viability-assessment-finally-revealed/).
 
 The figures showed how Lend Lease had cooked the books to make the development look unviable and thereby negotiate down its affordable housing obligations. 
 
@@ -52,15 +57,21 @@ The figures showed how Lend Lease had cooked the books to make the development l
 [{% img left http://crappistmartin.github.io/images/private-eye-southwark-council-developers.png 400 300 %}](http://crappistmartin.github.io/images/private-eye-southwark-council-developers.png)In July 2014, council leader Peter John came under criticism for dining with developers and accepting an all-expenses paid trip to international property fair [MIPIM](http://www.theguardian.com/commentisfree/2014/oct/14/yacht-cannes-selling-homes-local-government-officials-mipim) in Cannes, paid for by Lend Lease. (more details [here](http://embed.verite.co/timeline/?source=0Aprl6XcACewydEhRaWFOLVBfUjBSVW1HUGVZNEhGeFE&font=Bevan-PotanoSans&maptype=toner&lang=en&hash_bookmark=true&start_zoom_adjust=2&height=650#33))
 </br>
 </br>
+{% img /images/heygatesale.png %}
+</br>
+</br>
+## Postscript update
+The Council has issued a [press statement](http://www.southwark.gov.uk/news/article/1785/setting_the_record_straight_the_true_value_of_the_elephant_and_castle_regeneration) claiming that it will receive "hundreds of millions" from the Heygate profit overage deal. But when we [asked](http://35percent.org/blog/2015/12/20/heygate-sell-off-how-much-are-we-getting/) for a copy of its most recent audit report showing how much overage it expects, it claimed it hadn't received any audit reports - despite it being a requirement of the regeneration agreement. 
+The topic was taken up on a BBC Politics show by local ctivist Peter Tatchell:  
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Emvo16iBxFE" frameborder="0" allowfullscreen></iframe>
 </br>
 </br>
 </br>
-</br>
-</br>
+
+
+
 {% img right /images/HeygateWasHome_Screenshot.png 400 300 %}Heygate residents have set up a digital archive, charting the broken promises of regeneration and the impact it had on their community. This can be accessed at: [http://heygatewashome.org](http://heygatewashome.org) 
-</br>
-</br>
-</br>
 </br>
 </br>
 </br>
@@ -69,12 +80,12 @@ The figures showed how Lend Lease had cooked the books to make the development l
 </br>
 __Footnotes__
 [^1]: See paragraph 14 of [this July 2007 Executive report](http://moderngov.southwark.gov.uk/Data/Overview%20&%20Scrutiny%20Committee/20070709/Agenda/Cover%20report.pdf)  
-[^2]: See paragraph 50(ix) of the [Heygate Tribunal evidence](https://www.dropbox.com/s/rnblpa0ajaxk8em/LON_LIB1-%239487917-v1-Lend_Lease_EA_2013_0162_Response_to_LBS_Grounds_of_....pdf) - _"The Council’s costs as at January 2013 amounted to about £47.5 million in capital expenditure and just under £18 million in review costs managing the estate"_.  
-[^3]: See See para 76 of the [Project Director's evidence](https://www.dropbox.com/s/o5cnv7qtjcvdnpf/Southwark-Jon%20Abbott.pdf) and this [2012 council report](http://moderngov.southwark.gov.uk/documents/s30387/120709%20Heygate%20Estate%20Demolition%20Business%20Case%20signed%20report.pdf).  
-[^4]: See this [2012 cost appraisal study](http://heygateestate.files.wordpress.com/2012/12/genslerheygate.pdf) by global architects [Gensler](http://gensler.com) and construction consultancy [Baqus](http://baqus.co.uk). 
+[^2]: See paragraph 50(ix) of the [Heygate Tribunal evidence](http://35percent.org/images/LL_Response_EIR.pdf) - _"The Council’s costs as at January 2013 amounted to about £47.5 million in capital expenditure and just under £18 million in review costs managing the estate"_.
+[^3]: See See para 76 of the [Project Director's evidence](http://35percent.org/images/LBS_Jon_Abbott.pdf) and this [2012 council report](http://moderngov.southwark.gov.uk/documents/s30387/120709%20Heygate%20Estate%20Demolition%20Business%20Case%20signed%20report.pdf).  
+[^4]: See this [2012 cost appraisal study](http://heygateestate.files.wordpress.com/2012/12/genslerheygate.pdf) by global architects [Gensler](http://gensler.com) and construction consultancy [Baqus](http://baqus.co.uk).
 [^5]: See 'Heygate Headlease Premium' on page 6 and the 'Rodney Road Headlease Premium' on page 10 of the [Regeneration Agreement](http://southwarknotes.files.wordpress.com/2013/02/ra.pdf).
 [^6]: See "Developer's Priority Return" and "Development Management Fee" on pg 83 of the leaked [Regeneration Agreement](http://southwarknotes.files.wordpress.com/2013/02/ra.pdf).
-[^7]: See para 86 of the Project Director's [Tribunal evidence](https://www.dropbox.com/s/o5cnv7qtjcvdnpf/Southwark-Jon%20Abbott.pdf)
-[^8]: See para 71 of the Project Director's [Tribunal evidence](https://www.dropbox.com/s/o5cnv7qtjcvdnpf/Southwark-Jon%20Abbott.pdf) for details of s106 payments.
+[^7]: See para 86 of the Project Director's [Tribunal evidence](http://35percent.org/images/LBS_Jon_Abbott.pdf)
+[^8]: See section 2 of the [S106 Draft Heads of Terms](planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!p5dzbz5vS8ke08vHYd6d2Q%3d%3d!%7d%7d%7d) for details of all S106 planning contributions.
 [^9]: See page 59 of the [original regeneration masterplan](https://www.scribd.com/doc/198503633/EandC-RegenMk1SLRplans) and the ['Heygate Action Plan' right-to-return documents](http://embed.verite.co/timeline/?source=0Aprl6XcACewydEhRaWFOLVBfUjBSVW1HUGVZNEhGeFE&font=Bevan-PotanoSans&maptype=toner&lang=en&hash_bookmark=true&start_zoom_adjust=2&height=650#19).
 

@@ -7,7 +7,7 @@ categories:
 ---
 The rents that Aylesbury tenants will have to pay to stay on their newly developed estate have finally been revealed by Notting Hill Housing Trust – and they are shocking. A one bed flat on the [first development site](http://www.aylesburynow.london/regeneration/planning-information/first-development-site) will cost £157 per week inclusive of service charges, compared to a current inclusive council rent of about £105 per week.  A new 2-bed flat will be £166pw, against current council rents on the Aylesbury of £124pw for a 2-bed inclusive of service charges, heating & hot water.
 
-[{% imgcap center http://35percent.org/images/NHHTRents.png Notting Hill's table of prospective rents submitted in its GLA grant funding bid %}](http://35percent.org/images/NHHT_EIR_Response.pdf)
+[{% imgcap center http://35percent.org/images/nhhtrents.png Notting Hill's table of prospective rents submitted in its GLA grant funding bid %}](http://35percent.org/images/NHHT_EIR_Response.pdf)
 
 ## These are not social rents
 

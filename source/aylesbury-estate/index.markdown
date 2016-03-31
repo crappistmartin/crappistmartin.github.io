@@ -27,6 +27,11 @@ The council also insists that Notting Hill has a contractual obligation to provi
 
 {% imgcap http://crappistmartin.github.io/images/Aylesbury_targetrent.png Extract from the Development Partnership Agreement %}
 
+In any case Notting Hill's [planning application](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!clWxEC35adJ29O7pMe62Bg%3d%3d!%7d%7d%7d) for the redevelopment admits that there will be an overall loss of 934 social rented units through the redevelopment (assuming that the replacements will be social, not affordable rent:
+
+[{% imgcap center /images/aylesburyahstatement.png Notting Hill Planning Application %}](http://planbuild.southwark.gov.uk/documents/?GetDocument=%7b%7b%7b!clWxEC35adJ29O7pMe62Bg%3d%3d!%7d%7d%7d)
+
+Note that the replacement social housing is referred to both as social rent and affordable rent throughout the planning application documents.
 
 ## Harvard Gardens
 [{% imgcap /images/site7.jpg Site 7 'Harvard Gardens' - (formerly known as the Wolverton blocks) %}](/images/site7.jpg)
@@ -45,6 +50,7 @@ It was also [confirmed](http://35percent.org/images/Email14April2015_KReed.pdf) 
 
 The council has therefore spent £46.8m demolishing and redeveloping 112 homes[^2] on the scheme to date (£417k per home), compared to the £20,261 per home it is spending bringing homes up to Decent Homes Standard elsewhere on the estate.
 
+When the Council Executive took its [decision](http://moderngov.southwark.gov.uk/CeListDocuments.aspx?CommitteeId=118&MeetingId=986&DF=27/09/2005&Ver=2) to redevelop the estate in September 2005, it did so on the basis of a [costings estimate](/images/annexc.pdf) which calculated that the scheme would incur an overall cost to the Council of £16.1m over the scheme's 10-year development period. However, the Council's [budget books](http://www.southwark.gov.uk/download/downloads/id/11869/budget_book_201516_-_capital_programme) show that it is spending nearly £14m on the Aylesbury scheme during the 2015/16 year alone. 
 
 {% img right http://betterelephant.org/images/SixAcresRegeneration.png 300 300 %}Other London boroughs take a different approach to regeneration. Islington has an estate called the Six Acres estate near Finsbury Park. The Six Acres estate was built at the same time as Heygate & Aylesury, by the same contractors (Laing) using the [same system](/images/LBI_SixAcres_Jespersen12M.pdf) (Jespersen 12M).  
 

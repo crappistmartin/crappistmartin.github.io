@@ -60,8 +60,39 @@ Appendices:
 </br>
 </br>
 </br>
+## Greenwich Peninsula (east) redevelopment 
+[{% img left http://crappistmartin.github.io/images/greenwichpen.png 100 250 %}](http://crappistmartin.github.io/images/greenwichpeneast.pdf) [Financial viability assessment](http://crappistmartin.github.io/images/greenwichpeneast.pdf) and [third party appraisal](/images/greenwichpeneast_appraisal.pdf) for Greenwich Peninsula (east) redevelopment.
+</br>
+</br>
+</br>
+## Greenwich Peninsula (west) redevelopment 
+[{% img left http://crappistmartin.github.io/images/greenwichpen.png 100 250 %}](http://crappistmartin.github.io/images/greenwichpen.pdf) [Financial viability assessment](http://crappistmartin.github.io/images/greenwichpen.pdf) and [supplementary letter](/images/greenwichpen_cmarsh.pdf) and [third party appraisal](/images/greenwichpenwest_appraisal.pdf) for Greenwich Peninsula (west) redevelopment.
+</br>
+</br>
+</br>
 ## Poplar Business Park
 [{% img left http://crappistmartin.github.io/images/23_PoplarBusinessParkViability.png 100 250 %}](http://crappistmartin.github.io/images/23_PoplarBusinessParkViability.pdf) [Financial viability assessment](http://crappistmartin.github.io/images/23_PoplarBusinessParkViability.pdf) for Poplar Business Park development.  
+</br>
+</br>
+</br>
+## St Ann's Hospital redevelopment (Haringey)
+[{% img left http://crappistmartin.github.io/images/StAnns_FinancialViabilityReportAugust2014.png 100 250 %}](http://crappistmartin.github.io/images/StAnns_FinancialViabilityReportAugust2014.pdf) [Financial viability assessment](http://crappistmartin.github.io/images/StAnns_FinancialViabilityReportAugust2014.pdf) and [Independent appraisal](http://crappistmartin.github.io/images/StAnns_viabilityindependentassessment.pdf) for the redevelopment of St Ann's Hospital in Haringey.  
+</br>
+</br>
+</br>
+## Shepherd's Bush Market redevelopment 
+[{% img left https://d1lqymbtv1wtmn.cloudfront.net/wp-content/uploads/2015/04/CD30.jpg 100 250 %}](https://www.concreteaction.net/wp-content/Documents/Viability/Shepherds-bush-market-viability-assessment.pdf) [Financial viability assessment](https://www.concreteaction.net/wp-content/Documents/Viability/Shepherds-bush-market-viability-assessment.pdf) for the redevelopment of Shepherd's Bush Market.  
+</br>
+</br>
+</br>
+
+## West Ham Stadium development 
+[{% img left http://i.dailymail.co.uk/i/pix/2013/03/22/article-2297419-18DCAA33000005DC-213_964x591.jpg 100 250 %}](/images/FVAWestHamStadium.pdf) [Financial viability assessment and appraisal reports](/images/FVAWestHamStadium.pdf) for the West Ham Stadium development in Newham.  
+</br>
+</br>
+</br>
+
+
 
 
 

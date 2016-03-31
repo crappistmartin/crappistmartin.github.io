@@ -15,12 +15,14 @@ Under threat of compulsory purchase, the London Park Hotel was then [bought by](
 <h2>£18m public money spent but no social rented housing</h2>
 
 {% img right http://southwarknotes.files.wordpress.com/2009/12/elephant_and_castle_360tower_web.jpg 300 200 %}  
-The _360 Tower_ on the old London Park Hotel site is now set to provide 462 new homes, 188 of which will be 'affordable' but mostly shared ownership, and a meagre 29 units - initially social rented - have since been [turned into so-called 'affordable rent'](http://www.london.gov.uk/sites/default/files/MD1240%20Newington%20MD%20Part%201%20PDF.pdf). Needless to say that this is way below the 80 social rented units required by planning policy, and way beyond the means of most people living in Southwark.
+The _360 Tower_ on the old London Park Hotel site is now set to provide 457 new homes, 179 of which will be [so-called 'affordable rent'](http://www.london.gov.uk/sites/default/files/MD1240%20Newington%20MD%20Part%201%20PDF.pdf) of 80% market rent.
 
-In 2013 Boris Johnson [claimed](http://www.bdonline.co.uk/news/rogers-stirk-harbour-tower-to-be-a-uk-first/5058596.article) that the scheme would be converted to PRS (Private Rented Sector housing). A year later it was [reported]((/images/PropertyWeek_11July2014.pdf)) that this had fallen through and the scheme had reverted to homes for private sale. But in June 2015 it was [announced](https://www.gov.uk/government/news/1000-new-homes-for-private-rent-in-london) that the scheme had been [awarded £45m funding](http://www.london.gov.uk/moderngov/documents/s45702/06%20Programmes%20delegated%20to%20HCA.rtf) under the government's 'Build to Rent' programme for PRS homes.
+In 2013 Boris Johnson [claimed](http://www.bdonline.co.uk/news/rogers-stirk-harbour-tower-to-be-a-uk-first/5058596.article) that the private homes in the scheme would be PRS (Private Rented Sector housing). In June 2015 it was [confirmed](https://www.gov.uk/government/news/1000-new-homes-for-private-rent-in-london) that the scheme had been [awarded £45m funding](http://www.london.gov.uk/moderngov/documents/s45702/06%20Programmes%20delegated%20to%20HCA.rtf) under the government's 'Build to Rent' programme for PRS homes.
 
-In summary, £63m in public funds is being spent to acquire and develop a 44-storey tower comprising what is rightly [described](http://residential.jll.co.uk/en-gb/property-search/property-details.aspx?t=c&id=JLLATC41432) by the scheme's advisors as __"274 private homes"__.
+{% img /images/IMG_0800.JPG %}
+In summary, £63m in public funds is being spent to build 278 private rented apartments and 179 'affordable' apartments at 80% market rent.
 
+The base of the tower will also include a small performance space for [Southwark Playhouse](http://southwarkplayhouse.co.uk/).
 
 [^1]: See paragraph 8.4 on [pages 93 & 94](/images/Nov2003SPD_CPO_Powers.pdf) of the council's [2004 Elephant & Castle Supplementary Planning Guidance](http://www.scribd.com/doc/82420796/Southwark-Council-2004-Development-Framework)
 

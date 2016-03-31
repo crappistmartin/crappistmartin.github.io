@@ -45,11 +45,17 @@ In 2013 former deputy council leader Kim Humphries [resurfaced](http://35percent
 </br>
 </br>
 </br>
-</br>
-</br>
-## A remedy?
-[{% img right http://crappistmartin.github.io/images/islingtonVASPD.png 200 450 %}](http://www.islington.gov.uk/services/planning/planningpol/pol_supplement/Pages/Development-Viability-Discussion-Paper-and-Questionnaire.aspx)Not every borough is quite such an easy touch as Southwark. Islington Council seems is waking up to the tactics developers use to reduce affordable housing obligations. It has recently produced a [discussion paper](http://www.islington.gov.uk/services/planning/planningpol/pol_supplement/Pages/Development-Viability-Discussion-Paper-and-Questionnaire.aspx) on viability testing, with the aim of producing a Supplementary Planning Document setting out formal guidance later this year. The discussion paper proposes to publish all viability assessments submitted by developers by default. Greenwich Council also [recently announced](http://www.24dash.com/news/housing/2015-05-11-London-borough-to-force-developers-to-make-affordable-housing-viability-studies-fully-public) that it will be publishing all viability assessments. We are calling for Southwark council to follow suit.  
+{% img /images/tribecamarketsquareplan.png %}
 
+{% img /images/tribecacgi.png %}
+
+{% img /images/tribecamarketsquare.png %}
+
+Para 6.29 of the [planning statement](/images/tribecaplanningstatement.pdf) says affordable housing not viable because of market square.
+
+
+
+</br>
 </br>
 </br>
 </br>
